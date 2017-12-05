@@ -20,7 +20,7 @@
         <translation>Freisprecheinrichtung</translation>
     </message>
     <message id="accessory_charger">
-        <source>Chrager</source>
+        <source>Charger</source>
         <translation>Ladegerät</translation>
     </message>
 </context>

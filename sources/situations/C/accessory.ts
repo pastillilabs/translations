@@ -20,8 +20,8 @@
         <translation type="unfinished">Car kit</translation>
     </message>
     <message id="accessory_charger">
-        <source>Chrager</source>
-        <translation type="unfinished">Chrager</translation>
+        <source>Charger</source>
+        <translation type="unfinished">Charger</translation>
     </message>
 </context>
 </TS>

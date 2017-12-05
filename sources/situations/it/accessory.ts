@@ -20,7 +20,7 @@
         <translation>Kit auto</translation>
     </message>
     <message id="accessory_charger">
-        <source>Chrager</source>
+        <source>Charger</source>
         <translation>Caricabatterie</translation>
     </message>
 </context>
