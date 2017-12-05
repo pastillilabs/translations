@@ -4,6 +4,8 @@ Situations app is officially available in English and in Finnish.
 
 Other languages for the application are currently provided by volunteers. They are provided as is, without any support or warranty from Pastilli Labs or the volunteers.
 
+<br>
+<br>
 
 # Updating the app
 
@@ -11,6 +13,8 @@ To download or update the application language, go to application Settings page 
 
 **NOTE:** As the application evolves over time, parts of it may not be translated at all times.
 
+<br>
+<br>
 
 # Volunteering
 
@@ -28,8 +32,10 @@ Source files are standard Qt translation files. Use any text editor or Qt Lingui
 
 **NOTE: All translations are public & freely available to anyone, including Pastilli Labs, for commercial or non-commercial use. Pastilli Labs reserves the right to add, remove & modify any translations. Translations must not contain any licensed and/or inappropriate material.**
 
+<br>
+<br>
 
-# CREDITS
+# Credits
 
 Our deepest gratitude goes to these magnificent individuals for translating Situations to different languages: 
 
