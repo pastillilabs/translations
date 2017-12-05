@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="ru_RU">
+<context>
+    <name></name>
+    <message id="brightness_name">
+        <source>Display Brightness</source>
+        <translation>Яркость экрана</translation>
+    </message>
+    <message id="automatic">
+        <source>Automatic</source>
+        <translation>Автоматически</translation>
+    </message>
+</context>
+</TS>
