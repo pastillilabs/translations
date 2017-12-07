@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sv_SE">
 <context>
@@ -221,19 +221,19 @@
     </message>
     <message id="watchface_title_index">
         <source>Watchface</source>
-        <translation type="unfinished">Watchface</translation>
+        <translation>Urtavla</translation>
     </message>
     <message id="watchface_description_index">
         <source>Change watchface on your smartwatch. Compatible with Rockpool app.</source>
-        <translation type="unfinished">Change watchface on your smartwatch. Compatible with Rockpool app.</translation>
+        <translation>Ändra urtavlan på din smarta klocka. Kompatibel med Rockpool-appen.</translation>
     </message>
     <message id="gps_title_index">
         <source>GPS</source>
-        <translation type="unfinished">GPS</translation>
+        <translation>GPS</translation>
     </message>
     <message id="gps_description_index">
         <source>GPS setting</source>
-        <translation type="unfinished">GPS setting</translation>
+        <translation>GPS-inställningar</translation>
     </message>
 </context>
 </TS>

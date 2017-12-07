@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sv_SE">
 <context>
     <name></name>
     <message id="wlanscan_name">
         <source>WiFi Networks</source>
-        <translation type="unfinished">WiFi Networks</translation>
+        <translation>WiFi-nätverk</translation>
     </message>
     <message id="wlanscan_search">
         <source>Search for networks</source>

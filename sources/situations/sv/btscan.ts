@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sv_SE">
 <context>
     <name></name>
     <message id="btscan_name">
         <source>Bluetooth Devices</source>
-        <translation type="unfinished">Bluetooth Devices</translation>
+        <translation>Bluetooth-enheter</translation>
     </message>
     <message id="btscan_search">
         <source>Search for devices</source>
