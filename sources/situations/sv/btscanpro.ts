@@ -21,8 +21,7 @@
     </message>
     <message id="btscanpro_connections">
         <source>Devices</source>
-        <translatorcomment>Anslutningar</translatorcomment>
-        <translation></translation>
+        <translation>Anslutningar</translation>
     </message>
     <message id="btscanpro_no_connections">
         <source>No devices</source>
