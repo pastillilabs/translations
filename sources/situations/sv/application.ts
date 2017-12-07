@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="sv_SE">
 <context>
@@ -75,7 +75,7 @@ appen!</translation>
     </message>
     <message id="next">
         <source>Next</source>
-        <translation type="unfinished">Next</translation>
+        <translation>Nästa</translation>
     </message>
     <message id="features">
         <source>Features</source>
@@ -111,7 +111,7 @@ appen!</translation>
     </message>
     <message id="application_background">
         <source>Background image</source>
-        <translation type="unfinished">Background image</translation>
+        <translation>Bakgrundsbild</translation>
     </message>
     <message id="disabled_note">
         <source>Application is disabled. Enable?</source>
@@ -158,11 +158,11 @@ Situations bearbetar all data lokalt som standard och allt stannar under använd
         <translation>Programspråk</translation>
     </message>
     <message id="translation_updated">
-        <source>Application language updated!&#60;br&#62;&#60;br&#62;NOTE: Parts of the application may not be translated at all times. More info here:&#60;br&#62;%1</source>
+        <source>Application language updated!&lt;br&gt;&lt;br&gt;NOTE: Parts of the application may not be translated at all times. More info here:&lt;br&gt;%1</source>
         <translation>Programspråket uppdaterat!&lt;br&gt;&lt;br&gt;OBS! Delar av programmet kanske inte alltid är översatt. Mer info här:&lt;br&gt;%1</translation>
     </message>
     <message id="translation_not_available">
-        <source>Could not update or the application is not yet translated for your language.&#60;br&#62;&#60;br&#62;Please consider supporting us and other users of the application by providing a translation here:&#60;br&#62;%1</source>
+        <source>Could not update or the application is not yet translated for your language.&lt;br&gt;&lt;br&gt;Please consider supporting us and other users of the application by providing a translation here:&lt;br&gt;%1</source>
         <translation>Kunde inte uppdatera, eller programmet är ännu inte översatt till ditt språk.&lt;br&gt;&lt;br&gt;Överväg gärna att stödja oss och andra användare av programmet genom att tillhandahålla en översättning här:&lt;br&gt;%1</translation>
     </message>
     <message id="restart_required">
@@ -215,7 +215,7 @@ Vill du starta om nu?</translation>
     </message>
     <message id="permission_query">
         <source>Situations requires some permissions to function correctly.</source>
-        <translation type="unfinished">Situations requires some permissions to function correctly.</translation>
+        <translation>Situations kräver vissa rättigheter för att fungera korrekt.</translation>
     </message>
     <message id="less_than">
         <source>Less than</source>
@@ -227,15 +227,15 @@ Vill du starta om nu?</translation>
     </message>
     <message id="equals">
         <source>Exactly</source>
-        <translation type="unfinished">Exactly</translation>
+        <translation>Exakt</translation>
     </message>
     <message id="timer_hours">
         <source>Hours</source>
-        <translation type="unfinished">Hours</translation>
+        <translation>Timmar</translation>
     </message>
     <message id="timer_minutes">
         <source>Minutes</source>
-        <translation type="unfinished">Minutes</translation>
+        <translation>Minuter</translation>
     </message>
 </context>
 </TS>
