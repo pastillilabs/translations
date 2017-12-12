@@ -8,7 +8,7 @@
         <translation>Calendar</translation>
     </message>
     <message id="events">
-        <source>Events:</source>
+        <source>Events</source>
         <translation>Събития:</translation>
     </message>
     <message id="events_no_allday">
@@ -24,23 +24,43 @@
         <translation>Повтарящи се</translation>
     </message>
     <message id="events_keyword">
-        <source>Keyword: %1</source>
-        <translation>С ключова дума: %1</translation>
+        <source>Keyword</source>
+        <translation>С ключова дума</translation>
     </message>
     <message id="events_keyword_placholder">
         <source>Event keyword</source>
         <translation>Ключова дума за събитие</translation>
+    </message>
+    <message id="events_availability">
+        <source>Availability</source>
+        <translation type="unfinished">Availability</translation>
+    </message>
+    <message id="events_availability_any">
+        <source>Any</source>
+        <translation type="unfinished">Any</translation>
+    </message>
+    <message id="events_availability_busy">
+        <source>Busy</source>
+        <translation type="unfinished">Busy</translation>
+    </message>
+    <message id="events_availability_free">
+        <source>Free</source>
+        <translation type="unfinished">Free</translation>
+    </message>
+    <message id="events_availability_tentative">
+        <source>Tentative</source>
+        <translation type="unfinished">Tentative</translation>
     </message>
     <message id="events_all">
         <source>Any event</source>
         <translation>Всяко събитие</translation>
     </message>
     <message id="calendars">
-        <source>calendars</source>
-        <translation>Календари:</translation>
+        <source>Calendars</source>
+        <translation>Календари</translation>
     </message>
     <message id="calendar_noname">
-        <source>calendar_noname</source>
+        <source>&lt;Unnamed calendar&gt;</source>
         <translation>&lt;Неименуван календар&gt;</translation>
     </message>
 </context>

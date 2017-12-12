@@ -24,12 +24,32 @@
         <translation>Periódico</translation>
     </message>
     <message id="events_keyword">
-        <source>Keyword: %1</source>
-        <translation>Palabra clave: %1</translation>
+        <source>Keyword</source>
+        <translation>Palabra clave</translation>
     </message>
     <message id="events_keyword_placholder">
         <source>Event keyword</source>
         <translation>Palabra clave del evento</translation>
+    </message>
+    <message id="events_availability">
+        <source>Availability</source>
+        <translation type="unfinished">Availability</translation>
+    </message>
+    <message id="events_availability_any">
+        <source>Any</source>
+        <translation type="unfinished">Any</translation>
+    </message>
+    <message id="events_availability_busy">
+        <source>Busy</source>
+        <translation type="unfinished">Busy</translation>
+    </message>
+    <message id="events_availability_free">
+        <source>Free</source>
+        <translation type="unfinished">Free</translation>
+    </message>
+    <message id="events_availability_tentative">
+        <source>Tentative</source>
+        <translation type="unfinished">Tentative</translation>
     </message>
     <message id="events_all">
         <source>Any event</source>
@@ -40,7 +60,7 @@
         <translation>Calendarios</translation>
     </message>
     <message id="calendar_noname">
-        <source>calendar_noname</source>
+        <source>&lt;Unnamed calendar&gt;</source>
         <translation>&lt;Unnamed calendario&gt;</translation>
     </message>
 </context>
