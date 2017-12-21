@@ -9,11 +9,11 @@
     </message>
     <message id="wlanscanpro_search">
         <source>Search for networks</source>
-        <translation>Sök efter anslutningar</translation>
+        <translation>Sök efter nätverk</translation>
     </message>
     <message id="wlanscanpro_connection_name">
         <source>Or enter network name</source>
-        <translation>Eller ange anslutningsnamn</translation>
+        <translation>Eller ange nätverksnamn</translation>
     </message>
     <message id="wlanscanpro_connection_address">
         <source>Or enter connection address</source>
@@ -21,11 +21,11 @@
     </message>
     <message id="wlanscanpro_connections">
         <source>Networks</source>
-        <translation>Anslutningar</translation>
+        <translation>Nätverk</translation>
     </message>
     <message id="wlanscanpro_no_connections">
         <source>No networks</source>
-        <translation>Inga anslutningar</translation>
+        <translation>Inga nätverk</translation>
     </message>
     <message id="wlanscanpro_turn_on_wlan">
         <source>Turn on WiFi</source>
@@ -50,7 +50,7 @@
         <source>Scan always
 (also when WiFi is off)</source>
         <translation>Sök alltid
-(även när WiFi är av)</translation>
+(även när WiFi är avstängd)</translation>
     </message>
 </context>
 </TS>

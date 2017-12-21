@@ -9,19 +9,19 @@
     </message>
     <message id="btscan_search">
         <source>Search for devices</source>
-        <translation>Sök efter anslutningar</translation>
+        <translation>Sök efter enheter</translation>
     </message>
     <message id="btscan_connection_name">
         <source>Or enter device name</source>
-        <translation>Eller ange anslutningsnamn</translation>
+        <translation>Eller ange enhetsnamn</translation>
     </message>
     <message id="btscan_connections">
         <source>Devices</source>
-        <translation>Anslutningar</translation>
+        <translation>Enheter</translation>
     </message>
     <message id="btscan_no_connections">
         <source>No devices</source>
-        <translation>Inga anslutningar</translation>
+        <translation>Inga enheter</translation>
     </message>
     <message id="btscan_turn_on_bt">
         <source>Turn on Bluetooth</source>

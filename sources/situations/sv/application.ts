@@ -231,31 +231,31 @@ Vill du starta om nu?</translation>
     </message>
     <message id="application_data">
         <source>Application data</source>
-        <translation type="unfinished">Application data</translation>
+        <translation>Programdata</translation>
     </message>
     <message id="export">
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Exportera</translation>
     </message>
     <message id="export_to">
         <source>Export to file:</source>
-        <translation type="unfinished">Export to file:</translation>
+        <translation>Exportera till fil:</translation>
     </message>
     <message id="export_warning">
         <source>Existing file will be overwritten!</source>
-        <translation type="unfinished">Existing file will be overwritten!</translation>
+        <translation>Befintlig fil kommer att skrivas över!</translation>
     </message>
     <message id="import">
         <source>Import</source>
-        <translation type="unfinished">Import</translation>
+        <translation>Importera</translation>
     </message>
     <message id="import_from">
         <source>Import from file:</source>
-        <translation type="unfinished">Import from file:</translation>
+        <translation>Importera från fil:</translation>
     </message>
     <message id="import_warning">
         <source>Current application data will be overwritten! Internet connection may be required for successful import!</source>
-        <translation type="unfinished">Current application data will be overwritten! Internet connection may be required for successful import!</translation>
+        <translation>Aktuell programdata kommer att skrivas över! Internetanslutning kanske krävs för lyckad import!</translation>
     </message>
 </context>
 </TS>
