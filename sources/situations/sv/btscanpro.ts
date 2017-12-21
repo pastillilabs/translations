@@ -9,23 +9,23 @@
     </message>
     <message id="btscanpro_search">
         <source>Search for devices</source>
-        <translation>Sök efter anslutning</translation>
+        <translation>Sök efter enheter</translation>
     </message>
     <message id="btscanpro_connection_name">
         <source>Or enter device name</source>
-        <translation>Eller ange anslutningsnamn</translation>
+        <translation>Eller ange enhetsnamn</translation>
     </message>
     <message id="btscanpro_connection_address">
         <source>Or enter device address</source>
-        <translation>Eller ange anslutningsadress</translation>
+        <translation>Eller ange enhetsadress</translation>
     </message>
     <message id="btscanpro_connections">
         <source>Devices</source>
-        <translation>Anslutningar</translation>
+        <translation>Enheter</translation>
     </message>
     <message id="btscanpro_no_connections">
         <source>No devices</source>
-        <translation>Inga anslutningar</translation>
+        <translation>Inga enheter</translation>
     </message>
     <message id="btscanpro_turn_on_bt">
         <source>Turn on Bluetooth</source>
