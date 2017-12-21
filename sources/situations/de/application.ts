@@ -145,14 +145,6 @@ the app!</translation>
         <source>Privacy policy</source>
         <translation>Datenschutz-Bestimmungen</translation>
     </message>
-    <message id="privacy_policy_text">
-        <source>Pastilli Labs does not collect or transmit to third parties any user or usage data at all.
-
-Situations application processes all data locally by default and everything remains in full user control.</source>
-        <translation>Pastilli Labs sammelt oder übermittelt keine Benutzer oder Anwendungsdaten zu Dritten..
-
-Die Situations-Anwendung verarbeitet alle Daten standardmäßig lokal und alle Daten bleiben unter voller Kontrolle des Nutzers.</translation>
-    </message>
     <message id="translation">
         <source>Language</source>
         <translation>Anwendungs-Sprache:</translation>
@@ -236,6 +228,34 @@ Jetzt neustarten?</translation>
     <message id="timer_minutes">
         <source>Minutes</source>
         <translation type="unfinished">Minutes</translation>
+    </message>
+    <message id="application_data">
+        <source>Application data</source>
+        <translation type="unfinished">Application data</translation>
+    </message>
+    <message id="export">
+        <source>Export</source>
+        <translation type="unfinished">Export</translation>
+    </message>
+    <message id="export_to">
+        <source>Export to file:</source>
+        <translation type="unfinished">Export to file:</translation>
+    </message>
+    <message id="export_warning">
+        <source>Existing file will be overwritten!</source>
+        <translation type="unfinished">Existing file will be overwritten!</translation>
+    </message>
+    <message id="import">
+        <source>Import</source>
+        <translation type="unfinished">Import</translation>
+    </message>
+    <message id="import_from">
+        <source>Import from file:</source>
+        <translation type="unfinished">Import from file:</translation>
+    </message>
+    <message id="import_warning">
+        <source>Current application data will be overwritten! Internet connection may be required for successful import!</source>
+        <translation type="unfinished">Current application data will be overwritten! Internet connection may be required for successful import!</translation>
     </message>
 </context>
 </TS>
