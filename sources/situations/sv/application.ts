@@ -259,15 +259,15 @@ Vill du starta om nu?</translation>
     </message>
     <message id="application_theme">
         <source>Theme</source>
-        <translation type="unfinished">Theme</translation>
+        <translation>Tema</translation>
     </message>
     <message id="theme_light">
         <source>Light</source>
-        <translation type="unfinished">Light</translation>
+        <translation>Ljust</translation>
     </message>
     <message id="theme_dark">
         <source>Dark</source>
-        <translation type="unfinished">Dark</translation>
+        <translation>Mörkt</translation>
     </message>
 </context>
 </TS>
