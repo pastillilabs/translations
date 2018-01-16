@@ -257,5 +257,17 @@ Riavviarlo ora?</translation>
         <source>Current application data will be overwritten! Internet connection may be required for successful import!</source>
         <translation type="unfinished">Current application data will be overwritten! Internet connection may be required for successful import!</translation>
     </message>
+    <message id="application_theme">
+        <source>Theme</source>
+        <translation type="unfinished">Theme</translation>
+    </message>
+    <message id="theme_light">
+        <source>Light</source>
+        <translation type="unfinished">Light</translation>
+    </message>
+    <message id="theme_dark">
+        <source>Dark</source>
+        <translation type="unfinished">Dark</translation>
+    </message>
 </context>
 </TS>
