@@ -158,12 +158,8 @@ the app!</source>
         <translation>Неможливо обновити або ж додаток не має перекладу на вашу мову.&lt;br&gt;&lt;br&gt;Ласка, розгляньте питання про підтримку нас та інших користувачів додатку, забезпечивши переклад тут:&lt;br&gt;%1</translation>
     </message>
     <message id="restart_required">
-        <source>Situations needs to be restarted.
-
-Restart now?</source>
-        <translation>Situations необхідно перезапустити.
-
-Зробити це зараз?</translation>
+        <source>Situations needs to be restarted.</source>
+        <translation>Situations необхідно перезапустити.</translation>
     </message>
     <message id="setting_purpose">
         <source>Purpose</source>

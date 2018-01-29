@@ -235,5 +235,13 @@
         <source>GPS setting</source>
         <translation type="unfinished">GPS setting</translation>
     </message>
+    <message id="activity_title_index">
+        <source>Activity</source>
+        <translation type="unfinished">Activity</translation>
+    </message>
+    <message id="activity_description_index">
+        <source>Change situation based on current activity (like walking, cycling or driving).</source>
+        <translation type="unfinished">Change situation based on current activity (like walking, cycling or driving).</translation>
+    </message>
 </context>
 </TS>

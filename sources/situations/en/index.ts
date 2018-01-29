@@ -32,8 +32,8 @@
         <translation>Airplane Mode</translation>
     </message>
     <message id="flightmode_description_index">
-        <source>Airplane mode toggle</source>
-        <translation>Airplane mode toggle</translation>
+        <source>Airplane mode setting</source>
+        <translation>Airplane mode setting</translation>
     </message>
     <message id="location_title_index">
         <source>Location</source>
@@ -57,7 +57,7 @@
     </message>
     <message id="mobilenetwork_description_index">
         <source>Mobile network setting</source>
-        <translation>Mobile network toggle</translation>
+        <translation>Mobile network setting</translation>
     </message>
     <message id="screentimeout_title_index">
         <source>Screen Timeout</source>
@@ -234,6 +234,14 @@
     <message id="gps_description_index">
         <source>GPS setting</source>
         <translation>GPS setting</translation>
+    </message>
+    <message id="activity_title_index">
+        <source>Activity</source>
+        <translation>Activity</translation>
+    </message>
+    <message id="activity_description_index">
+        <source>Change situation based on current activity (like walking, cycling or driving).</source>
+        <translation>Change situation based on current activity (like walking, cycling or driving).</translation>
     </message>
 </context>
 </TS>

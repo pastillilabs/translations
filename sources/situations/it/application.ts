@@ -158,12 +158,8 @@ valuta l&apos;app!</translation>
         <translation>Non è possibile aggiornare o l&apos;app non è ancora disponibile nella tua lingua.&lt;br&gt;&lt;br&gt;Se desideri tradurre l&apos;app ed aiutare gli altri utenti, puoi fornire una traduzione qui:&lt;br&gt;%1</translation>
     </message>
     <message id="restart_required">
-        <source>Situations needs to be restarted.
-
-Restart now?</source>
-        <translation>Situations ha bisogno di essere riavviato.
-
-Riavviarlo ora?</translation>
+        <source>Situations needs to be restarted.</source>
+        <translation>Situations ha bisogno di essere riavviato.</translation>
     </message>
     <message id="setting_purpose">
         <source>Purpose</source>

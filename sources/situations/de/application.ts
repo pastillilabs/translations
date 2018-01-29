@@ -158,12 +158,8 @@ the app!</translation>
         <translation>Aktualisierung fehlgeschlagen oder die Anwendung wurde noch nicht in deine Sprache übersetzt.&lt;br&gt;&lt;br&gt;Bitte unterstütze uns und andere Benutzer hier:&lt;br&gt;%1</translation>
     </message>
     <message id="restart_required">
-        <source>Situations needs to be restarted.
-
-Restart now?</source>
-        <translation>Situations muss neu gestartet werden.
-
-Jetzt neustarten?</translation>
+        <source>Situations needs to be restarted.</source>
+        <translation>Situations muss neu gestartet werden.</translation>
     </message>
     <message id="setting_purpose">
         <source>Purpose</source>

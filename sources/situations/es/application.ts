@@ -158,12 +158,8 @@ puntúe la app</translation>
         <translation>No es posible actualizar la aplicación o no existe la traducción para su idioma.&lt;br&gt;&lt;br&gt;Considere dar soporte a los desarrolladores y a otros usuarios de la aplicación facilitando su traducción aquí:&lt;br&gt;%1</translation>
     </message>
     <message id="restart_required">
-        <source>Situations needs to be restarted.
-
-Restart now?</source>
-        <translation>Situations necesita reiniciarse.
-
-¿Reiniciar ahora?</translation>
+        <source>Situations needs to be restarted.</source>
+        <translation>Situations necesita reiniciarse.</translation>
     </message>
     <message id="setting_purpose">
         <source>Purpose</source>

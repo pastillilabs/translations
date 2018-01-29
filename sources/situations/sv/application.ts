@@ -158,12 +158,8 @@ appen!</translation>
         <translation>Kunde inte uppdatera, eller programmet är ännu inte översatt till ditt språk.&lt;br&gt;&lt;br&gt;Överväg gärna att stödja oss och andra användare av programmet genom att tillhandahålla en översättning här:&lt;br&gt;%1</translation>
     </message>
     <message id="restart_required">
-        <source>Situations needs to be restarted.
-
-Restart now?</source>
-        <translation>Situations behöver startas om.
-
-Vill du starta om nu?</translation>
+        <source>Situations needs to be restarted.</source>
+        <translation>Situations behöver startas om.</translation>
     </message>
     <message id="setting_purpose">
         <source>Purpose</source>

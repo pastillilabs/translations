@@ -158,12 +158,8 @@ the app!</translation>
         <translation type="unfinished">Could not update or the application is not yet translated for your language.&#60;br&#62;&#60;br&#62;Please consider supporting us and other users of the application by providing a translation here:&#60;br&#62;%1</translation>
     </message>
     <message id="restart_required">
-        <source>Situations needs to be restarted.
-
-Restart now?</source>
-        <translation type="unfinished">Situations needs to be restarted.
-
-Restart now?</translation>
+        <source>Situations needs to be restarted.</source>
+        <translation type="unfinished">Situations needs to be restarted.</translation>
     </message>
     <message id="setting_purpose">
         <source>Purpose</source>

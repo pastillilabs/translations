@@ -32,7 +32,7 @@
         <translation>Lentotila</translation>
     </message>
     <message id="flightmode_description_index">
-        <source>Airplane mode toggle</source>
+        <source>Airplane mode setting</source>
         <translation>Lentotilan asetus</translation>
     </message>
     <message id="location_title_index">
@@ -234,6 +234,14 @@
     <message id="gps_description_index">
         <source>GPS setting</source>
         <translation>GPS asetus</translation>
-    </message>    
+    </message>
+    <message id="activity_title_index">
+        <source>Activity</source>
+        <translation>Aktiviteetti</translation>
+    </message>
+    <message id="activity_description_index">
+        <source>Change situation based on current activity (like walking, cycling or driving).</source>
+        <translation>Vaihda tilannetta aktiviteetin mukaan (kuten kävely, pyöräily tai autoilu).</translation>
+    </message>
 </context>
 </TS>

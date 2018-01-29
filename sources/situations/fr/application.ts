@@ -158,12 +158,8 @@ the app!</translation>
         <translation>Pas de mise à jour de l&apos;application, elle n&apos;est pas encore traduite pour votre langue.&lt;br&gt;&lt;br&gt;Envisagez, s&apos;il vous plaît, de nous soutenir ainsi que les autres utilisateurs de l&apos;application en fournissant une traduction ici :&lt;br&gt;%1</translation>
     </message>
     <message id="restart_required">
-        <source>Situations needs to be restarted.
-
-Restart now?</source>
-        <translation>Situations doit être redémarrée.
-
- Redémarrer maintenant ?</translation>
+        <source>Situations needs to be restarted.</source>
+        <translation>Situations doit être redémarrée.</translation>
     </message>
     <message id="setting_purpose">
         <source>Purpose</source>
