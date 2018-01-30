@@ -64,7 +64,7 @@
         <translation>Bildschirm abschalten nach</translation>
     </message>
     <message id="screentimeout_description_index">
-        <source>creen timeout setting</source>
+        <source>Screen timeout setting</source>
         <translation>Bildschirm abschalten nach</translation>
     </message>
     <message id="screenrotation_title_index">
@@ -240,8 +240,16 @@
         <translation type="unfinished">Activity</translation>
     </message>
     <message id="activity_description_index">
-        <source>Change situation based on current activity (like walking, cycling or driving).</source>
-        <translation type="unfinished">Change situation based on current activity (like walking, cycling or driving).</translation>
+        <source>Try to detect current activity (like walking, cycling or driving)</source>
+        <translation type="unfinished">Try to detect current activity (like walking, cycling or driving)</translation>
+    </message>
+    <message id="proximity_title_index">
+        <source>Proximity Sensor</source>
+        <translation type="unfinished">Proximity Sensor</translation>
+    </message>
+    <message id="proximity_description_index">
+        <source>Detect objects being close to the device</source>
+        <translation type="unfinished">Detect objects being close to the device</translation>
     </message>
 </context>
 </TS>

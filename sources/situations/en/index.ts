@@ -64,7 +64,7 @@
         <translation>Screen Timeout</translation>
     </message>
     <message id="screentimeout_description_index">
-        <source>creen timeout setting</source>
+        <source>Screen timeout setting</source>
         <translation>Screen timeout setting</translation>
     </message>
     <message id="screenrotation_title_index">
@@ -240,8 +240,16 @@
         <translation>Activity</translation>
     </message>
     <message id="activity_description_index">
-        <source>Change situation based on current activity (like walking, cycling or driving).</source>
-        <translation>Change situation based on current activity (like walking, cycling or driving).</translation>
+        <source>Try to detect current activity (like walking, cycling or driving)</source>
+        <translation>Try to detect current activity (like walking, cycling or driving)</translation>
+    </message>
+    <message id="proximity_title_index">
+        <source>Proximity Sensor</source>
+        <translation>Proximity Sensor</translation>
+    </message>
+    <message id="proximity_description_index">
+        <source>Detect objects being close to the device</source>
+        <translation>Detect objects being close to the device</translation>
     </message>
 </context>
 </TS>

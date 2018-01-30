@@ -64,7 +64,7 @@
         <translation>Näytön aikakatkaisu</translation>
     </message>
     <message id="screentimeout_description_index">
-        <source>creen timeout setting</source>
+        <source>Screen timeout setting</source>
         <translation>Näytön aikakatkaisu</translation>
     </message>
     <message id="screenrotation_title_index">
@@ -240,8 +240,16 @@
         <translation>Aktiviteetti</translation>
     </message>
     <message id="activity_description_index">
-        <source>Change situation based on current activity (like walking, cycling or driving).</source>
-        <translation>Vaihda tilannetta aktiviteetin mukaan (kuten kävely, pyöräily tai autoilu).</translation>
+        <source>Try to detect current activity (like walking, cycling or driving)</source>
+        <translation>Yrittää tunnistaa aktiviteetin (kuten kävely, pyöräily tai autoilu)</translation>
+    </message>
+    <message id="proximity_title_index">
+        <source>Proximity Sensor</source>
+        <translation>Läheisyysanturi</translation>
+    </message>
+    <message id="proximity_description_index">
+        <source>Detect objects being close to the device</source>
+        <translation>Tunnista laitteen läheisyys johonkin esineeseen</translation>
     </message>
 </context>
 </TS>
