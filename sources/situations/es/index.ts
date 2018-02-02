@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es">
 <context>
@@ -221,35 +221,35 @@
     </message>
     <message id="watchface_title_index">
         <source>Watchface</source>
-        <translation type="unfinished">Watchface</translation>
+        <translation>Pantalla de reloj</translation>
     </message>
     <message id="watchface_description_index">
         <source>Change watchface on your smartwatch. Compatible with Rockpool app.</source>
-        <translation type="unfinished">Change watchface on your smartwatch. Compatible with Rockpool app.</translation>
+        <translation>Cambia la pantalla en su smartwatch. Compatible con la app Rockpool.</translation>
     </message>
     <message id="gps_title_index">
         <source>GPS</source>
-        <translation type="unfinished">GPS</translation>
+        <translation>GPS</translation>
     </message>
     <message id="gps_description_index">
         <source>GPS setting</source>
-        <translation type="unfinished">GPS setting</translation>
+        <translation>Ajustes del GPS</translation>
     </message>
     <message id="activity_title_index">
         <source>Activity</source>
-        <translation type="unfinished">Activity</translation>
+        <translation>Actividad</translation>
     </message>
     <message id="activity_description_index">
         <source>Try to detect current activity (like walking, cycling or driving)</source>
-        <translation type="unfinished">Try to detect current activity (like walking, cycling or driving)</translation>
+        <translation>Trata de detectar su actividad actual (como caminar,ir en bicicleta o conducir)</translation>
     </message>
     <message id="proximity_title_index">
         <source>Proximity Sensor</source>
-        <translation type="unfinished">Proximity Sensor</translation>
+        <translation>Sensor de proximidiad</translation>
     </message>
     <message id="proximity_description_index">
         <source>Detect objects being close to the device</source>
-        <translation type="unfinished">Detect objects being close to the device</translation>
+        <translation>Detectar objetos cercanos al dispositivo</translation>
     </message>
 </context>
 </TS>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es">
 <context>
@@ -33,23 +33,23 @@
     </message>
     <message id="events_availability">
         <source>Availability</source>
-        <translation type="unfinished">Availability</translation>
+        <translation>Disponibilidad</translation>
     </message>
     <message id="events_availability_any">
         <source>Any</source>
-        <translation type="unfinished">Any</translation>
+        <translation>Cualquiera</translation>
     </message>
     <message id="events_availability_busy">
         <source>Busy</source>
-        <translation type="unfinished">Busy</translation>
+        <translation>Ocupado</translation>
     </message>
     <message id="events_availability_free">
         <source>Free</source>
-        <translation type="unfinished">Free</translation>
+        <translation>Libre</translation>
     </message>
     <message id="events_availability_tentative">
         <source>Tentative</source>
-        <translation type="unfinished">Tentative</translation>
+        <translation>Tentativa</translation>
     </message>
     <message id="events_all">
         <source>Any event</source>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es">
 <context>
@@ -35,11 +35,11 @@
         <source>Please rate
 the app!</source>
         <translation>Por favor,
-puntúe la app</translation>
+califique la app!</translation>
     </message>
     <message id="donate">
         <source>Please donate!</source>
-        <translation>Por favor, contribuya</translation>
+        <translation>Por favor, done!</translation>
     </message>
     <message id="tab_conditions">
         <source>When</source>
@@ -75,7 +75,7 @@ puntúe la app</translation>
     </message>
     <message id="next">
         <source>Next</source>
-        <translation type="unfinished">Next</translation>
+        <translation>Siguiente</translation>
     </message>
     <message id="features">
         <source>Features</source>
@@ -103,15 +103,15 @@ puntúe la app</translation>
     </message>
     <message id="application_state">
         <source>Application active</source>
-        <translation>Estado de la aplicación:</translation>
+        <translation>Aplicación activa</translation>
     </message>
     <message id="application_notifications">
         <source>Notifications</source>
-        <translation>Notificaciones:</translation>
+        <translation>Notificaciones</translation>
     </message>
     <message id="application_background">
         <source>Background image</source>
-        <translation type="unfinished">Background image</translation>
+        <translation>Fondo de pantalla</translation>
     </message>
     <message id="disabled_note">
         <source>Application is disabled. Enable?</source>
@@ -123,7 +123,7 @@ puntúe la app</translation>
     </message>
     <message id="situations_update_hint">
         <source>Please update the application first!</source>
-        <translation>Por favor, actualice primero la aplicación</translation>
+        <translation>Por favor, primero actualice la aplicación!</translation>
     </message>
     <message id="install">
         <source>Install</source>
@@ -147,14 +147,14 @@ puntúe la app</translation>
     </message>
     <message id="translation">
         <source>Language</source>
-        <translation>Idioma de la aplicación:</translation>
+        <translation>Idioma</translation>
     </message>
     <message id="translation_updated">
-        <source>Application language updated!&#60;br&#62;&#60;br&#62;NOTE: Parts of the application may not be translated at all times. More info here:&#60;br&#62;%1</source>
+        <source>Application language updated!&lt;br&gt;&lt;br&gt;NOTE: Parts of the application may not be translated at all times. More info here:&lt;br&gt;%1</source>
         <translation>Idioma de la aplicación actualizado&lt;br&gt;&lt;br&gt;NOTA: Partes de la aplicación no pueden traducirse. Más información aquí:&lt;br&gt;%1</translation>
     </message>
     <message id="translation_not_available">
-        <source>Could not update or the application is not yet translated for your language.&#60;br&#62;&#60;br&#62;Please consider supporting us and other users of the application by providing a translation here:&#60;br&#62;%1</source>
+        <source>Could not update or the application is not yet translated for your language.&lt;br&gt;&lt;br&gt;Please consider supporting us and other users of the application by providing a translation here:&lt;br&gt;%1</source>
         <translation>No es posible actualizar la aplicación o no existe la traducción para su idioma.&lt;br&gt;&lt;br&gt;Considere dar soporte a los desarrolladores y a otros usuarios de la aplicación facilitando su traducción aquí:&lt;br&gt;%1</translation>
     </message>
     <message id="restart_required">
@@ -203,7 +203,7 @@ puntúe la app</translation>
     </message>
     <message id="permission_query">
         <source>Situations requires some permissions to function correctly.</source>
-        <translation type="unfinished">Situations requires some permissions to function correctly.</translation>
+        <translation>Situations necesita de algunos permisos para funcinar correctamente.</translation>
     </message>
     <message id="less_than">
         <source>Less than</source>
@@ -215,55 +215,55 @@ puntúe la app</translation>
     </message>
     <message id="equals">
         <source>Exactly</source>
-        <translation type="unfinished">Exactly</translation>
+        <translation>Exactamente</translation>
     </message>
     <message id="timer_hours">
         <source>Hours</source>
-        <translation type="unfinished">Hours</translation>
+        <translation>Horas</translation>
     </message>
     <message id="timer_minutes">
         <source>Minutes</source>
-        <translation type="unfinished">Minutes</translation>
+        <translation>Minutos</translation>
     </message>
     <message id="application_data">
         <source>Application data</source>
-        <translation type="unfinished">Application data</translation>
+        <translation>Datos de la aplicación</translation>
     </message>
     <message id="export">
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Exportar</translation>
     </message>
     <message id="export_to">
         <source>Export to file:</source>
-        <translation type="unfinished">Export to file:</translation>
+        <translation>Exportar a un archivo:</translation>
     </message>
     <message id="export_warning">
         <source>Existing file will be overwritten!</source>
-        <translation type="unfinished">Existing file will be overwritten!</translation>
+        <translation>Ficheros existentes van a ser sobrescritos!</translation>
     </message>
     <message id="import">
         <source>Import</source>
-        <translation type="unfinished">Import</translation>
+        <translation>Importar</translation>
     </message>
     <message id="import_from">
         <source>Import from file:</source>
-        <translation type="unfinished">Import from file:</translation>
+        <translation>Importar desde un archivo:</translation>
     </message>
     <message id="import_warning">
         <source>Current application data will be overwritten! Internet connection may be required for successful import!</source>
-        <translation type="unfinished">Current application data will be overwritten! Internet connection may be required for successful import!</translation>
+        <translation>Datos actuales de la aplicación van a ser sobrescritos! Conexión a internet requerida para una correcta importación!</translation>
     </message>
     <message id="application_theme">
         <source>Theme</source>
-        <translation type="unfinished">Theme</translation>
+        <translation>Tema</translation>
     </message>
     <message id="theme_light">
         <source>Light</source>
-        <translation type="unfinished">Light</translation>
+        <translation>Claro</translation>
     </message>
     <message id="theme_dark">
         <source>Dark</source>
-        <translation type="unfinished">Dark</translation>
+        <translation>Oscuro</translation>
     </message>
 </context>
 </TS>

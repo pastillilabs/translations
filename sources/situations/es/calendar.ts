@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es">
 <context>
@@ -9,7 +9,7 @@
     </message>
     <message id="events">
         <source>Events</source>
-        <translation>Eventos:</translation>
+        <translation>Eventos</translation>
     </message>
     <message id="events_no_allday">
         <source>No all-day</source>

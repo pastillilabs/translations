@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es">
 <context>
@@ -13,14 +13,14 @@
     </message>
     <message id="cell_count" numerus="yes">
         <source>%n cell(s)</source>
-        <translation type="unfinished">
-            <numerusform>%n Células</numerusform>
+        <translation>
+            <numerusform>%n Célula</numerusform>
             <numerusform>%n Células</numerusform>
         </translation>
     </message>
     <message id="cell_record">
         <source>Record</source>
-        <translation>Grabar</translation>
+        <translation>Registrar</translation>
     </message>
     <message id="cell_erase">
         <source>Erase</source>
@@ -28,7 +28,7 @@
     </message>
     <message id="cell_recording">
         <source>Recording</source>
-        <translation>Grabando</translation>
+        <translation>Registrando</translation>
     </message>
     <message id="cell_erasing">
         <source>Erasing</source>

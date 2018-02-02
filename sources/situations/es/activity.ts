@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="es">
 <context>
     <name></name>
     <message id="activity_name">
         <source>Activity</source>
-        <translation type="unfinished">Activity</translation>
+        <translation>Actividad</translation>
     </message>
     <message id="activity_invehicle">
         <source>In a vehicle</source>
-        <translation type="unfinished">In a vehicle</translation>
+        <translation>En un vehículo</translation>
     </message>
     <message id="activity_onbicycle">
         <source>On a bicycle</source>
-        <translation type="unfinished">On a bicycle</translation>
+        <translation>En bicicleta</translation>
     </message>
     <message id="activity_still">
         <source>Still</source>
-        <translation type="unfinished">Still</translation>
+        <translation>Tranquilo</translation>
     </message>
     <message id="activity_walking">
         <source>Walking</source>
-        <translation type="unfinished">Walking</translation>
+        <translation>Caminando</translation>
     </message>
     <message id="activity_running">
         <source>Running</source>
-        <translation type="unfinished">Running</translation>
+        <translation>Corriendo</translation>
     </message>
 </context>
 </TS>
