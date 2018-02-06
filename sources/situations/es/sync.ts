@@ -5,7 +5,7 @@
     <name></name>
     <message id="sync_name">
         <source>Sync</source>
-        <translation>Sync</translation>
+        <translation>Sincronización</translation>
     </message>
 </context>
 </TS>

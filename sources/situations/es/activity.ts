@@ -17,7 +17,7 @@
     </message>
     <message id="activity_still">
         <source>Still</source>
-        <translation>Tranquilo</translation>
+        <translation>Quieto</translation>
     </message>
     <message id="activity_walking">
         <source>Walking</source>

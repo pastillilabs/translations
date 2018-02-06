@@ -9,13 +9,13 @@
     </message>
     <message id="cell_area_name">
         <source>Area name</source>
-        <translation>Zona de servicio celular</translation>
+        <translation>Nombre del área</translation>
     </message>
     <message id="cell_count" numerus="yes">
         <source>%n cell(s)</source>
         <translation>
-            <numerusform>%n Célula</numerusform>
-            <numerusform>%n Células</numerusform>
+            <numerusform>%n Celda</numerusform>
+            <numerusform>%n Celdas</numerusform>
         </translation>
     </message>
     <message id="cell_record">
