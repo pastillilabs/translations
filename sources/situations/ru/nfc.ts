@@ -4,8 +4,8 @@
 <context>
     <name></name>
     <message id="nfc_name">
-        <source>NFC</source>
-        <translation type="unfinished">NFC</translation>
+        <source>NFC tag</source>
+        <translation type="unfinished">NFC tag</translation>
     </message>
     <message id="nfc_virtual">
         <source>Virtual tag</source>

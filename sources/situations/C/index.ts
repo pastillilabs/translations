@@ -124,8 +124,8 @@
         <translation type="unfinished">Ringtone volume setting</translation>
     </message>
     <message id="nfc_title_index">
-        <source>NFC</source>
-        <translation type="unfinished">NFC</translation>
+        <source>NFC Tag</source>
+        <translation type="unfinished">NFC Tag</translation>
     </message>
     <message id="nfc_description_index">
         <source>Use NFC tags to toggle situations</source>
@@ -242,6 +242,14 @@
     <message id="activity_description_index">
         <source>Change situation based on current activity (like walking, cycling or driving).</source>
         <translation type="unfinished">Change situation based on current activity (like walking, cycling or driving).</translation>
+    </message>
+    <message id="nfcstate_title_index">
+        <source>NFC</source>
+        <translation type="unfinished">NFC</translation>
+    </message>
+    <message id="nfcstate_description_index">
+        <source>NFC setting</source>
+        <translation type="unfinished">NFC setting</translation>
     </message>
 </context>
 </TS>

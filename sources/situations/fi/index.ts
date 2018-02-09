@@ -124,12 +124,12 @@
         <translation>Soittoäänen voimakkuuden säätö</translation>
     </message>
     <message id="nfc_title_index">
-        <source>NFC</source>
-        <translation>NFC</translation>
+        <source>NFC Tag</source>
+        <translation>NFC-tunniste</translation>
     </message>
     <message id="nfc_description_index">
         <source>Use NFC tags to toggle situations</source>
-        <translation>Vaihda tilanteita NFC:n avulla</translation>
+        <translation>Vaihda tilanteita NFC-tunnisteilla</translation>
     </message>
     <message id="command_title_index">
         <source>Command</source>
@@ -250,6 +250,14 @@
     <message id="proximity_description_index">
         <source>Detect objects being close to the device</source>
         <translation>Tunnista laitteen läheisyys johonkin esineeseen</translation>
+    </message>
+    <message id="nfcstate_title_index">
+        <source>NFC</source>
+        <translation>NFC</translation>
+    </message>
+    <message id="nfcstate_description_index">
+        <source>NFC setting</source>
+        <translation>NFC asetus</translation>
     </message>
 </context>
 </TS>

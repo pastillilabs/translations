@@ -124,8 +124,8 @@
         <translation>Ringtone volume setting</translation>
     </message>
     <message id="nfc_title_index">
-        <source>NFC</source>
-        <translation>NFC</translation>
+        <source>NFC Tag</source>
+        <translation>NFC Tag</translation>
     </message>
     <message id="nfc_description_index">
         <source>Use NFC tags to toggle situations</source>
@@ -250,6 +250,14 @@
     <message id="proximity_description_index">
         <source>Detect objects being close to the device</source>
         <translation>Detect objects being close to the device</translation>
+    </message>
+    <message id="nfcstate_title_index">
+        <source>NFC</source>
+        <translation>NFC</translation>
+    </message>
+    <message id="nfcstate_description_index">
+        <source>NFC setting</source>
+        <translation>NFC setting</translation>
     </message>
 </context>
 </TS>
