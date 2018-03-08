@@ -11,5 +11,17 @@
         <source>Select contact</source>
         <translation type="unfinished">Select contact</translation>
     </message>
+    <message id="volumecontact_silent">
+        <source>Silent</source>
+        <translation>Безшумен</translation>
+    </message>
+    <message id="volumecontact_vibrate">
+        <source>Vibrate</source>
+        <translation>Вибрация</translation>
+    </message>
+    <message id="volumecontact_ringing">
+        <source>Ringing %1%</source>
+        <translation>Сила на позвъняване на %1%</translation>
+    </message>
 </context>
 </TS>

@@ -11,5 +11,17 @@
         <source>Select contact</source>
         <translation>Seleccionar contacto</translation>
     </message>
+    <message id="volumecontact_silent">
+        <source>Silent</source>
+        <translation>Silencio</translation>
+    </message>
+    <message id="volumecontact_vibrate">
+        <source>Vibrate</source>
+        <translation>Vibración</translation>
+    </message>
+    <message id="volumecontact_ringing">
+        <source>Ringing %1%</source>
+        <translation>Volúmen %1%</translation>
+    </message>
 </context>
 </TS>
