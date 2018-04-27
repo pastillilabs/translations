@@ -59,7 +59,7 @@ fazahakka(at)gmail.com
 [Åke Engelbrektson](http://svenskasprakfiler.se)
 
 **German**<br>
-Markus Stoltz (+ review by Florian Löschenkohl)
+Holger Wansing, Markus Stoltz (+ review by Florian Löschenkohl)
 
 **French**<br>
 Nerfiaux
