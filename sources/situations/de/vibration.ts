@@ -5,23 +5,23 @@
     <name></name>
     <message id="vibration_name">
         <source>Vibration</source>
-        <translation type="unfinished">Vibration</translation>
+        <translation>Vibration</translation>
     </message>
     <message id="vibration_on">
         <source>Always</source>
-        <translation type="unfinished">Always</translation>
+        <translation>Immer</translation>
     </message>
     <message id="vibration_off">
         <source>Never</source>
-        <translation type="unfinished">Never</translation>
+        <translation>Nie</translation>
     </message>
     <message id="vibration_general">
         <source>Only when sounds on</source>
-        <translation type="unfinished">Only when sounds on</translation>
+        <translation>Nur wenn Ton an</translation>
     </message>
     <message id="vibration_silent">
         <source>Only when silent</source>
-        <translation type="unfinished">Only when silent</translation>
+        <translation>Nur bei Stummschaltung</translation>
     </message>
 </context>
 </TS>

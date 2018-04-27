@@ -5,15 +5,15 @@
     <name></name>
     <message id="logging_name">
         <source>Log</source>
-        <translation type="unfinished">Log</translation>
+        <translation>Protokoll</translation>
     </message>
     <message id="open_log">
         <source>Open</source>
-        <translation type="unfinished">Open</translation>
+        <translation>Öffnen</translation>
     </message>
     <message id="clear_log">
         <source>Clear</source>
-        <translation type="unfinished">Clear</translation>
+        <translation>Löschen</translation>
     </message>
 </context>
 </TS>

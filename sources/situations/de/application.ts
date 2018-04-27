@@ -25,21 +25,21 @@
     </message>
     <message id="third_party_licenses">
         <source>3rd party licenses</source>
-        <translation>Lizensen Dritter</translation>
+        <translation>Lizenzen Dritter</translation>
     </message>
     <message id="translations">
         <source>Translations</source>
-        <translation type="unfinished">Translations</translation>
+        <translation>Übersetzungen</translation>
     </message>
     <message id="rate_app">
         <source>Please rate
 the app!</source>
-        <translation type="unfinished">Please rate
-the app!</translation>
+        <translation>Bitte bewerten Sie
+die App!</translation>
     </message>
     <message id="donate">
         <source>Please donate!</source>
-        <translation type="unfinished">Please donate!</translation>
+        <translation>Bitte spenden Sie!</translation>
     </message>
     <message id="tab_conditions">
         <source>When</source>
@@ -75,7 +75,7 @@ the app!</translation>
     </message>
     <message id="next">
         <source>Next</source>
-        <translation type="unfinished">Next</translation>
+        <translation>Nächste</translation>
     </message>
     <message id="features">
         <source>Features</source>
@@ -103,15 +103,15 @@ the app!</translation>
     </message>
     <message id="application_state">
         <source>Application active</source>
-        <translation>Anwendungsstatus:</translation>
+        <translation>Anwendungsstatus</translation>
     </message>
     <message id="application_notifications">
         <source>Notifications</source>
-        <translation>Benachrichtigungen:</translation>
+        <translation>Benachrichtigungen</translation>
     </message>
     <message id="application_background">
         <source>Background image</source>
-        <translation type="unfinished">Background image</translation>
+        <translation>Hintergrundbild</translation>
     </message>
     <message id="disabled_note">
         <source>Application is disabled. Enable?</source>
@@ -119,11 +119,11 @@ the app!</translation>
     </message>
     <message id="situations_empty_hint">
         <source>Start by adding your first situation</source>
-        <translation>Starte indem du deine erste Situation hinzufügst</translation>
+        <translation>Starten Sie, indem Sie Ihre erste Situation hinzufügen ...</translation>
     </message>
     <message id="situations_update_hint">
         <source>Please update the application first!</source>
-        <translation>Bitte aktualisiere zuerst die Anwendung</translation>
+        <translation>Bitte aktualisieren Sie zuerst die Anwendung!</translation>
     </message>
     <message id="install">
         <source>Install</source>
@@ -147,15 +147,15 @@ the app!</translation>
     </message>
     <message id="translation">
         <source>Language</source>
-        <translation>Anwendungs-Sprache:</translation>
+        <translation>Anwendungs-Sprache</translation>
     </message>
     <message id="translation_updated">
         <source>Application language updated!&#60;br&#62;&#60;br&#62;NOTE: Parts of the application may not be translated at all times. More info here:&#60;br&#62;%1</source>
-        <translation>Anwendungs-Sprache aktualisiert!&lt;br&gt;&lt;br&gt;Hinweis: Möglicherweise sind nicht alle Teile der Anwendungs jederzeit übersetzt.&lt;br&gt;Mehr Informationen hierzu:&lt;br&gt;%1</translation>
+        <translation>Anwendungs-Sprache aktualisiert!&lt;br&gt;&lt;br&gt;Hinweis: Möglicherweise sind nicht alle Teile der Anwendung jederzeit übersetzt.&lt;br&gt;Mehr Informationen hierzu:&lt;br&gt;%1</translation>
     </message>
     <message id="translation_not_available">
         <source>Could not update or the application is not yet translated for your language.&#60;br&#62;&#60;br&#62;Please consider supporting us and other users of the application by providing a translation here:&#60;br&#62;%1</source>
-        <translation>Aktualisierung fehlgeschlagen oder die Anwendung wurde noch nicht in deine Sprache übersetzt.&lt;br&gt;&lt;br&gt;Bitte unterstütze uns und andere Benutzer hier:&lt;br&gt;%1</translation>
+        <translation>Aktualisierung fehlgeschlagen oder die Anwendung wurde noch nicht in Ihre Sprache übersetzt.&lt;br&gt;&lt;br&gt;Bitte unterstützen Sie uns und andere Benutzer, indem Sie eine Übersetzung hinzufügen:&lt;br&gt;%1</translation>
     </message>
     <message id="restart_required">
         <source>Situations needs to be restarted.</source>
@@ -199,71 +199,71 @@ the app!</translation>
     </message>
     <message id="timeout">
         <source>Timeout</source>
-        <translation type="unfinished">Timeout</translation>
+        <translation>Zeitüberschreitung</translation>
     </message>
     <message id="permission_query">
         <source>Situations requires some permissions to function correctly.</source>
-        <translation type="unfinished">Situations requires some permissions to function correctly.</translation>
+        <translation>Situations benötigt für die korrekte Funktion zusätzliche Berechtigungen.</translation>
     </message>
     <message id="less_than">
         <source>Less than</source>
-        <translation type="unfinished">Less than</translation>
+        <translation>Weniger als</translation>
     </message>
     <message id="more_than">
         <source>More than</source>
-        <translation type="unfinished">More than</translation>
+        <translation>Mehr als</translation>
     </message>
     <message id="equals">
         <source>Exactly</source>
-        <translation type="unfinished">Exactly</translation>
+        <translation>Gleich</translation>
     </message>
     <message id="timer_hours">
         <source>Hours</source>
-        <translation type="unfinished">Hours</translation>
+        <translation>Stunden</translation>
     </message>
     <message id="timer_minutes">
         <source>Minutes</source>
-        <translation type="unfinished">Minutes</translation>
+        <translation>Minuten</translation>
     </message>
     <message id="application_data">
         <source>Application data</source>
-        <translation type="unfinished">Application data</translation>
+        <translation>App-Daten</translation>
     </message>
     <message id="export">
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Export</translation>
     </message>
     <message id="export_to">
         <source>Export to file:</source>
-        <translation type="unfinished">Export to file:</translation>
+        <translation>Export in Datei:</translation>
     </message>
     <message id="export_warning">
         <source>Existing file will be overwritten!</source>
-        <translation type="unfinished">Existing file will be overwritten!</translation>
+        <translation>Eine evtl. bereits vorhandene Datei wird überschrieben!</translation>
     </message>
     <message id="import">
         <source>Import</source>
-        <translation type="unfinished">Import</translation>
+        <translation>Import</translation>
     </message>
     <message id="import_from">
         <source>Import from file:</source>
-        <translation type="unfinished">Import from file:</translation>
+        <translation>Import aus Datei:</translation>
     </message>
     <message id="import_warning">
         <source>Current application data will be overwritten! Internet connection may be required for successful import!</source>
-        <translation type="unfinished">Current application data will be overwritten! Internet connection may be required for successful import!</translation>
+        <translation>Aktuelle Daten der App werden überschrieben! Für einen erfolgreichen Import könnte eine Internetverbindung erforderlich sein!</translation>
     </message>
     <message id="application_theme">
         <source>Theme</source>
-        <translation type="unfinished">Theme</translation>
+        <translation>Theme</translation>
     </message>
     <message id="theme_light">
         <source>Light</source>
-        <translation type="unfinished">Light</translation>
+        <translation>Hell</translation>
     </message>
     <message id="theme_dark">
         <source>Dark</source>
-        <translation type="unfinished">Dark</translation>
+        <translation>Dunkel</translation>
     </message>
 </context>
 </TS>

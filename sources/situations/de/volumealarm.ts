@@ -5,7 +5,7 @@
     <name></name>
     <message id="volumealarm_name">
         <source>Alarm Volume</source>
-        <translation type="unfinished">Alarm Volume</translation>
+        <translation>Alarm-Lautstärke</translation>
     </message>
 </context>
 </TS>

@@ -33,23 +33,23 @@
     </message>
     <message id="events_availability">
         <source>Availability</source>
-        <translation type="unfinished">Availability</translation>
+        <translation>Verfügbarkeit</translation>
     </message>
     <message id="events_availability_any">
         <source>Any</source>
-        <translation type="unfinished">Any</translation>
+        <translation>alle</translation>
     </message>
     <message id="events_availability_busy">
         <source>Busy</source>
-        <translation type="unfinished">Busy</translation>
+        <translation>beschäftigt</translation>
     </message>
     <message id="events_availability_free">
         <source>Free</source>
-        <translation type="unfinished">Free</translation>
+        <translation>Frei</translation>
     </message>
     <message id="events_availability_tentative">
         <source>Tentative</source>
-        <translation type="unfinished">Tentative</translation>
+        <translation>eventuell</translation>
     </message>
     <message id="events_all">
         <source>Any event</source>

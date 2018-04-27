@@ -9,7 +9,7 @@
     </message>
     <message id="launch_select_application">
         <source>Select application</source>
-        <translation type="unfinished">Select application</translation>
+        <translation>App auswählen</translation>
     </message>
 </context>
 </TS>

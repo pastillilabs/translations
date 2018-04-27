@@ -25,7 +25,7 @@
     </message>
     <message id="location_disabled">
         <source>Please enable Location from system settings</source>
-        <translation>Bitte aktiviere die Standortdienste in den Systemeinstellungen</translation>
+        <translation>Bitte aktivieren Sie die Standortdienste in den Systemeinstellungen</translation>
     </message>
 </context>
 </TS>

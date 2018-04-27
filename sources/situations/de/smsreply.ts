@@ -5,7 +5,7 @@
     <name></name>
     <message id="smsreply_name">
         <source>SMS Reply</source>
-        <translation>SMS Antwort</translation>
+        <translation>SMS-Antwort</translation>
     </message>
     <message id="smsreply_default_answer">
         <source>Sorry, cannot answer right now.
@@ -17,7 +17,7 @@ Sent using Situations-application</source>
     </message>
     <message id="smsreply_only_contacts">
         <source>Only to contacts</source>
-        <translation>Nur zu Kontakten</translation>
+        <translation>Nur zulassen, wenn im Adressbuch</translation>
     </message>
 </context>
 </TS>

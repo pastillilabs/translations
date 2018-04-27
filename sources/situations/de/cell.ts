@@ -13,8 +13,8 @@
     </message>
     <message id="cell_count" numerus="yes">
         <source>%n cell(s)</source>
-        <translation type="unfinished">
-            <numerusform>%n Zellen</numerusform>
+        <translation>
+            <numerusform>%n Zelle</numerusform>
             <numerusform>%n Zellen</numerusform>
         </translation>
     </message>

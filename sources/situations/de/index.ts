@@ -5,7 +5,7 @@
     <name></name>
     <message id="plugins_title_index">
         <source>Get all plugins!!</source>
-        <translation type="unfinished">Get all plugins!!</translation>
+        <translation>Alle Plugins bekommen!!</translation>
     </message>
     <message id="plugins_description_index">
         <source>***</source>
@@ -17,7 +17,7 @@
     </message>
     <message id="ambience_description_index">
         <source>Ambience setting</source>
-        <translation type="unfinished">Ambience setting</translation>
+        <translation>Ambience-Einstellung</translation>
     </message>
     <message id="calendarpro_title_index">
         <source>Calendar Pro</source>
@@ -77,7 +77,7 @@
     </message>
     <message id="smsreply_title_index">
         <source>SMS Reply</source>
-        <translation>SMS Antwort</translation>
+        <translation>SMS-Antwort</translation>
     </message>
     <message id="smsreply_description_index">
         <source>Reply missed calls with SMS</source>
@@ -97,7 +97,7 @@
     </message>
     <message id="sync_description_index">
         <source>Account synchronization setting</source>
-        <translation>Syncronisation umschalten</translation>
+        <translation>Synchronisation umschalten</translation>
     </message>
     <message id="volumemedia_title_index">
         <source>Media Volume</source>
@@ -129,7 +129,7 @@
     </message>
     <message id="nfc_description_index">
         <source>Use NFC tags to toggle situations</source>
-        <translation>Benutze NFC-Tags um Situationen umzuschalten</translation>
+        <translation>NFC-Tags benutzen, um Situationen umzuschalten</translation>
     </message>
     <message id="command_title_index">
         <source>Command</source>
@@ -141,123 +141,123 @@
     </message>
     <message id="btscanpro_title_index">
         <source>Bluetooth Pro</source>
-        <translation type="unfinished">Bluetooth Pro</translation>
+        <translation>Bluetooth Pro</translation>
     </message>
     <message id="btscanpro_description_index">
         <source>Extends the Bluetooth condition with address based search and scan interval selection</source>
-        <translation type="unfinished">Extends the Bluetooth condition with address based search and scan interval selection</translation>
+        <translation>Erweitert die Bluetooth-Bedingung um adress-basierte Suche und Scan-Intervall-Auswahl</translation>
     </message>
     <message id="ringtone_title_index">
         <source>Ringtone</source>
-        <translation type="unfinished">Ringtone</translation>
+        <translation>Klingelton</translation>
     </message>
     <message id="ringtone_description_index">
         <source>Ringtone setting</source>
-        <translation type="unfinished">Ringtone selection</translation>
+        <translation>Klingelton einstellen</translation>
     </message>
     <message id="wlanscanpro_title_index">
         <source>WiFi Pro</source>
-        <translation type="unfinished">WiFi Pro</translation>
+        <translation>WiFi Pro</translation>
     </message>
     <message id="wlanscanpro_description_index">
         <source>Extends the WiFi condition with address based search and scan interval selection</source>
-        <translation type="unfinished">Extends the WiFi condition with address based search and scan interval selection</translation>
+        <translation>Erweitert die WiFi-Bedingung um adress-basierte Suche und Scan-Intervall-Auswahl</translation>
     </message>
     <message id="display_title_index">
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Display</translation>
     </message>
     <message id="display_description_index">
         <source>Display on/off state</source>
-        <translation type="unfinished">Display on/off state</translation>
+        <translation>Display an/aus-Status</translation>
     </message>
     <message id="volumealarm_title_index">
         <source>Alarm Volume</source>
-        <translation type="unfinished">Alarm Volume</translation>
+        <translation>Alarm-Lautstärke</translation>
     </message>
     <message id="volumealarm_description_index">
         <source>Alarm volume setting</source>
-        <translation type="unfinished">Alarm volume setting</translation>
+        <translation>Alarm-Lautstärke einstellen</translation>
     </message>
     <message id="vibration_title_index">
         <source>Vibration</source>
-        <translation type="unfinished">Vibration</translation>
+        <translation>Vibration</translation>
     </message>
     <message id="vibration_description_index">
         <source>Vibration setting</source>
-        <translation type="unfinished">Vibration setting</translation>
+        <translation>Vibration einstellen</translation>
     </message>
     <message id="logging_title_index">
         <source>Log</source>
-        <translation type="unfinished">Log</translation>
+        <translation>Protokoll</translation>
     </message>
     <message id="logging_description_index">
         <source>Keep log of situation changes</source>
-        <translation type="unfinished">Keep log of situation changes</translation>
+        <translation>Umschalten der Situationen protokollieren</translation>
     </message>
     <message id="tethering_title_index">
         <source>Internet Sharing</source>
-        <translation type="unfinished">Internet Sharing</translation>
+        <translation>Internet Sharing</translation>
     </message>
     <message id="tethering_description_index">
         <source>Internet sharing (hotspot) setting</source>
-        <translation type="unfinished">Internet sharing (hotspot) setting</translation>
+        <translation>Internet sharing (Hotspot) einstellen</translation>
     </message>
     <message id="volumecontact_title_index">
         <source>Contact Volume</source>
-        <translation type="unfinished">Contact Volume</translation>
+        <translation>Kontakt-spezifische Lautstärke</translation>
     </message>
     <message id="volumecontact_description_index">
         <source>Contact specific volume for incoming calls and SMS</source>
-        <translation type="unfinished">Contact specific volume for incoming calls and SMS</translation>
+        <translation>Je nach Kontakt unterschiedliche Lautstärke für Anrufe und SMS</translation>
     </message>
     <message id="wallpaper_title_index">
         <source>Wallpaper</source>
-        <translation type="unfinished">Wallpaper</translation>
+        <translation>Hintergrundbild</translation>
     </message>
     <message id="wallpaper_description_index">
         <source>System wallpaper setting</source>
-        <translation type="unfinished">System wallpaper setting</translation>
+        <translation>Hintergrundbild einstellen</translation>
     </message>
     <message id="watchface_title_index">
         <source>Watchface</source>
-        <translation type="unfinished">Watchface</translation>
+        <translation>Watchface</translation>
     </message>
     <message id="watchface_description_index">
         <source>Change watchface on your smartwatch. Compatible with Rockpool app.</source>
-        <translation type="unfinished">Change watchface on your smartwatch. Compatible with Rockpool app.</translation>
+        <translation>Watchface auf Ihrer Smartwatch ändern. Kompatibel mit Rockpool-App.</translation>
     </message>
     <message id="gps_title_index">
         <source>GPS</source>
-        <translation type="unfinished">GPS</translation>
+        <translation>GPS</translation>
     </message>
     <message id="gps_description_index">
         <source>GPS setting</source>
-        <translation type="unfinished">GPS setting</translation>
+        <translation>GPS einstellen</translation>
     </message>
     <message id="activity_title_index">
         <source>Activity</source>
-        <translation type="unfinished">Activity</translation>
+        <translation>Aktivität</translation>
     </message>
     <message id="activity_description_index">
         <source>Try to detect current activity (like walking, cycling or driving)</source>
-        <translation type="unfinished">Try to detect current activity (like walking, cycling or driving)</translation>
+        <translation>Versuchen, derzeitige Aktivität zu erkennen (z.B. Laufen, Fahrrad oder Auto fahren)</translation>
     </message>
     <message id="proximity_title_index">
         <source>Proximity Sensor</source>
-        <translation type="unfinished">Proximity Sensor</translation>
+        <translation>Annäherungssensor (Proximity Sensor)</translation>
     </message>
     <message id="proximity_description_index">
         <source>Detect objects being close to the device</source>
-        <translation type="unfinished">Detect objects being close to the device</translation>
+        <translation>Objekte direkt vor dem Gerät erkennen</translation>
     </message>
     <message id="nfcstate_title_index">
         <source>NFC</source>
-        <translation type="unfinished">NFC</translation>
+        <translation>NFC</translation>
     </message>
     <message id="nfcstate_description_index">
         <source>NFC setting</source>
-        <translation type="unfinished">NFC setting</translation>
+        <translation>NFC einstellen</translation>
     </message>
 </context>
 </TS>

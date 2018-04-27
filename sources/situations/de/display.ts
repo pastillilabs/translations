@@ -5,7 +5,7 @@
     <name></name>
     <message id="display_name">
         <source>Display</source>
-        <translation type="unfinished">Display</translation>
+        <translation>Display</translation>
     </message>
 </context>
 </TS>

@@ -5,7 +5,7 @@
     <name></name>
     <message id="btscanpro_name">
         <source>Bluetooth Devices</source>
-        <translation type="unfinished">Bluetooth Devices</translation>
+        <translation>Bluetooth-Verbindungen</translation>
     </message>
     <message id="btscanpro_search">
         <source>Search for devices</source>
@@ -13,11 +13,11 @@
     </message>
     <message id="btscanpro_connection_name">
         <source>Or enter device name</source>
-        <translation>Oder Verbindungs-Name angeben</translation>
+        <translation>Oder Verbindungsname angeben</translation>
     </message>
     <message id="btscanpro_connection_address">
         <source>Or enter device address</source>
-        <translation type="unfinished">Or enter device address</translation>
+        <translation>Oder Geräteadresse angeben</translation>
     </message>
     <message id="btscanpro_connections">
         <source>Devices</source>
@@ -33,17 +33,17 @@
     </message>
     <message id="btscanpro_interval">
         <source>Scan interval</source>
-        <translation type="unfinished">Scan interval</translation>
+        <translation>Scan-Intervall</translation>
     </message>
     <message id="btscanpro_none">
         <source>No scanning</source>
-        <translation type="unfinished">No scanning</translation>
+        <translation>Kein Scan</translation>
     </message>
     <message id="btscanpro_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
-        <translation type="unfinished">
-            <numerusform>%n minute</numerusform>
-            <numerusform>%n minutes</numerusform>
+        <translation>
+            <numerusform>%n Minute</numerusform>
+            <numerusform>%n Minuten</numerusform>
         </translation>
     </message>
 </context>

@@ -5,11 +5,11 @@
     <name></name>
     <message id="volumecontact_name">
         <source>Contact Volume</source>
-        <translation type="unfinished">Contact Volume</translation>
+        <translation>Lautstärke je nach Kontakt</translation>
     </message>
     <message id="volumecontact_select_contact">
         <source>Select contact</source>
-        <translation type="unfinished">Select contact</translation>
+        <translation>Kontakt auswählen</translation>
     </message>
     <message id="volumecontact_silent">
         <source>Silent</source>

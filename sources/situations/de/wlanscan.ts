@@ -5,7 +5,7 @@
     <name></name>
     <message id="wlanscan_name">
         <source>WiFi Networks</source>
-        <translation>WiFi Networks</translation>
+        <translation>WLAN-Verbindungen</translation>
     </message>
     <message id="wlanscan_search">
         <source>Search for networks</source>
@@ -30,8 +30,8 @@
     <message id="wlanscan_scan_always">
         <source>Scan always
 (also when WiFi is off)</source>
-        <translation type="unfinished">Scan always
-(also when WiFi is off)</translation>
+        <translation>Immer scannen
+(auch wenn WLAN ausgeschaltet ist)</translation>
     </message>
 </context>
 </TS>

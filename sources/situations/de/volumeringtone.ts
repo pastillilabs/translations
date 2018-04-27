@@ -5,7 +5,7 @@
     <name></name>
     <message id="volumeringtone_name">
         <source>Ringtone Volume</source>
-        <translation>Klingelton</translation>
+        <translation>Klingelton-Lautstärke</translation>
     </message>
 </context>
 </TS>

@@ -5,27 +5,27 @@
     <name></name>
     <message id="activity_name">
         <source>Activity</source>
-        <translation type="unfinished">Activity</translation>
+        <translation>Aktivität</translation>
     </message>
     <message id="activity_invehicle">
         <source>In a vehicle</source>
-        <translation type="unfinished">In a vehicle</translation>
+        <translation>In einem Fahrzeug</translation>
     </message>
     <message id="activity_onbicycle">
         <source>On a bicycle</source>
-        <translation type="unfinished">On a bicycle</translation>
+        <translation>Auf dem Fahrrad</translation>
     </message>
     <message id="activity_still">
         <source>Still</source>
-        <translation type="unfinished">Still</translation>
+        <translation>Ruhe</translation>
     </message>
     <message id="activity_walking">
         <source>Walking</source>
-        <translation type="unfinished">Walking</translation>
+        <translation>Gehen</translation>
     </message>
     <message id="activity_running">
         <source>Running</source>
-        <translation type="unfinished">Running</translation>
+        <translation>Laufen</translation>
     </message>
 </context>
 </TS>

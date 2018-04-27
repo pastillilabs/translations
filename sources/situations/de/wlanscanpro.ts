@@ -5,7 +5,7 @@
     <name></name>
     <message id="wlanscanpro_name">
         <source>WiFi Networks</source>
-        <translation type="unfinished">WiFi Networks</translation>
+        <translation>WLAN-Verbindungen</translation>
     </message>
     <message id="wlanscanpro_search">
         <source>Search for networks</source>
@@ -17,7 +17,7 @@
     </message>
     <message id="wlanscanpro_connection_address">
         <source>Or enter connection address</source>
-        <translation type="unfinished">Or enter connection address</translation>
+        <translation>oder Verbindungsadresse eingeben</translation>
     </message>
     <message id="wlanscanpro_connections">
         <source>Networks</source>
@@ -33,24 +33,24 @@
     </message>
     <message id="wlanscanpro_interval">
         <source>Scan interval</source>
-        <translation type="unfinished">Scan interval</translation>
+        <translation>Scan-Intervall</translation>
     </message>
     <message id="wlanscanpro_none">
         <source>No scanning</source>
-        <translation type="unfinished">No scanning</translation>
+        <translation>Nicht Scannen</translation>
     </message>
     <message id="wlanscanpro_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
-        <translation type="unfinished">
-            <numerusform>%n minute</numerusform>
-            <numerusform>%n minutes</numerusform>
+        <translation>
+            <numerusform>%n Minute</numerusform>
+            <numerusform>%n Minuten</numerusform>
         </translation>
     </message>
     <message id="wlanscan_scan_always">
         <source>Scan always
 (also when WiFi is off)</source>
-        <translation type="unfinished">Scan always
-(also when WiFi is off)</translation>
+        <translation>Immer scannen
+(auch wenn WLAN ausgeschaltet ist)</translation>
     </message>
 </context>
 </TS>

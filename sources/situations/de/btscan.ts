@@ -5,7 +5,7 @@
     <name></name>
     <message id="btscan_name">
         <source>Bluetooth Devices</source>
-        <translation type="unfinished">Bluetooth Devices</translation>
+        <translation>Bluetooth-Verbindungen</translation>
     </message>
     <message id="btscan_search">
         <source>Search for devices</source>
@@ -13,7 +13,7 @@
     </message>
     <message id="btscan_connection_name">
         <source>Or enter connection name</source>
-        <translation>Oder Verbindungs-Name angeben</translation>
+        <translation>Oder Verbindungsname angeben</translation>
     </message>
     <message id="btscan_connections">
         <source>Devices</source>

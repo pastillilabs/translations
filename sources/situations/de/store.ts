@@ -22,30 +22,30 @@ This langauge version of the application is provided by ***PUT YOUR [NAME/HANDLE
 Please note that as the application evolves, parts of it may not be translated at all times.
         </source>
         <translation>
-Jeden Tag ändern wir das Verhalten unserer Mobilgeräte, um es den verschiedenen Situationen anzupassen.
-Wieso lässt du das nicht dein Gerät für dich erledigen?
+Jeden Tag ändern wir das Verhalten unserer Mobilgeräte, um es verschiedenen Situationen anzupassen.
+Wieso lassen Sie das nicht Ihr Gerät für Sie erledigen?
  
-- während Besprechungen lautlos stellen
-- Beim Anschließen der Kopfhörer den Musik-Player starten
-- Die Akkulaufzeit verlängern, wenn es nicht genutzt wird
-- und Vieles mehr!
+- während Besprechungen lautlos stellen,
+- beim Anschließen der Kopfhörer den Musik-Player starten,
+- die Akkulaufzeit verlängern bei Nichtbenutzung,
+- und vieles mehr!
 
-Situations hilft Dir Dich von routinemäßigen Einstellungen des Telefons zu befreien, indem es dies für Dich erledigt.
+Situations hilft Ihnen, sich von routinemäßigen Einstellungen des Telefons zu befreien, indem es dies für Sie erledigt.
 
-Die Anwendung verfügt über umfassende Standard-Features. Direkt in der Anwendung können mehr Features nachinstalliert werden, sowohl kostenlose als auch kostenpflichtige.
-Und immer mehr Features werden durchgehend zur Verfügung gestellt.
+Die Anwendung verfügt über umfassende Standard-Features. Direkt in der Anwendung können weitere Features nachinstalliert werden, sowohl kostenlose als auch kostenpflichtige.
+Und ständig werden neue Features hinzugefügt.
 
 Für die Funktionen und Flexibilität dieser Anwendung ist eine Vielzahl an Berechtigungen erforderlich.
 Allerdings werden von dieser Anwendung keinerlei Benutzer-Daten oder andere Daten in irgendeiner Form gesammelt.
-Mehr Informationen findest du in den Datenschutzbestimmungen.
+Weitere Informationen finden Sie in den Datenschutzbestimmungen.
 
 Diese Sprach-Version ist eine Gemeinschaftsarbeit.
-Beachte bitte, dass nicht alle Teile der Anwendung jederzeit übersetzt sind, da die Anwendung kontinuierlich weiter entwickelt wird.
+Beachten Sie bitte, dass nicht alle Teile der Anwendung jederzeit übersetzt sind, da die Anwendung kontinuierlich weiter entwickelt wird.
         </translation>
     </message>
     <message id="promo">
         <source>Put the smart on your smartphone!</source>
-        <translation>Mach dein Smartphone intelligent!</translation>
+        <translation>Machen Sie Ihr Smartphone intelligent!</translation>
     </message>
 </context>
 </TS>

@@ -5,7 +5,7 @@
     <name></name>
     <message id="volumemedia_name">
         <source>Media Volume</source>
-        <translation>Medien</translation>
+        <translation>Medien-Lautstärke</translation>
     </message>
 </context>
 </TS>

@@ -5,15 +5,15 @@
     <name></name>
     <message id="close_name">
         <source>Close</source>
-        <translation type="unfinished">Close</translation>
+        <translation>Schließen</translation>
     </message>
     <message id="close_all">
         <source>All open applications</source>
-        <translation type="unfinished">All open applications</translation>
+        <translation>alle geöffneten Apps</translation>
     </message>
     <message id="close_select_application">
         <source>Select application</source>
-        <translation type="unfinished">Select application</translation>
+        <translation>App auswählen</translation>
     </message>
 </context>
 </TS>

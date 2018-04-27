@@ -5,7 +5,7 @@
     <name></name>
     <message id="watchface_name">
         <source>Watchface</source>
-        <translation type="unfinished">Watchface</translation>
+        <translation>Watchface</translation>
     </message>
 </context>
 </TS>
