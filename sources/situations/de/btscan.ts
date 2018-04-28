@@ -13,7 +13,7 @@
     </message>
     <message id="btscan_connection_name">
         <source>Or enter connection name</source>
-        <translation>Oder Verbindungsname angeben</translation>
+        <translation>oder Verbindungsname angeben</translation>
     </message>
     <message id="btscan_connections">
         <source>Devices</source>

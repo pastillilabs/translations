@@ -21,7 +21,7 @@
     </message>
     <message id="events_recurring">
         <source>Recurring</source>
-        <translation>Wiederkehrend</translation>
+        <translation>wiederkehrend</translation>
     </message>
     <message id="events_keyword">
         <source>Keyword</source>
@@ -45,7 +45,7 @@
     </message>
     <message id="events_availability_free">
         <source>Free</source>
-        <translation>Frei</translation>
+        <translation>frei</translation>
     </message>
     <message id="events_availability_tentative">
         <source>Tentative</source>

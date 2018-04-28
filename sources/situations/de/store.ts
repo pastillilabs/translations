@@ -30,17 +30,17 @@ Wieso lassen Sie das nicht Ihr Gerät für Sie erledigen?
 - die Akkulaufzeit verlängern bei Nichtbenutzung,
 - und vieles mehr!
 
-Situations hilft Ihnen, sich von routinemäßigen Einstellungen des Telefons zu befreien, indem es dies für Sie erledigt.
+Situations hilft Ihnen, sich von routinemäßigen Einstellungen des Telefons zu befreien, indem es diese für Sie erledigt.
 
 Die Anwendung verfügt über umfassende Standard-Features. Direkt in der Anwendung können weitere Features nachinstalliert werden, sowohl kostenlose als auch kostenpflichtige.
 Und ständig werden neue Features hinzugefügt.
 
 Für die Funktionen und Flexibilität dieser Anwendung ist eine Vielzahl an Berechtigungen erforderlich.
-Allerdings werden von dieser Anwendung keinerlei Benutzer-Daten oder andere Daten in irgendeiner Form gesammelt.
+Allerdings werden von dieser Anwendung keinerlei Nutzerdaten oder andere Daten irgendeiner Form gesammelt.
 Weitere Informationen finden Sie in den Datenschutzbestimmungen.
 
 Diese Sprach-Version ist eine Gemeinschaftsarbeit.
-Beachten Sie bitte, dass nicht alle Teile der Anwendung jederzeit übersetzt sind, da die Anwendung kontinuierlich weiter entwickelt wird.
+Beachten Sie bitte, dass eventuell nicht alle Teile der Anwendung übersetzt sind, da die Anwendung kontinuierlich weiter entwickelt wird.
         </translation>
     </message>
     <message id="promo">

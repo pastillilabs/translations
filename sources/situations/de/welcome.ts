@@ -21,7 +21,7 @@
     </message>
     <message id="welcome5">
         <source>Choose your defaults:</source>
-        <translation>Wählen Sie Ihre Standardwerte:</translation>
+        <translation>Wählen Sie Ihre Standardeinstellung:</translation>
     </message>
     <message id="welcome6">
         <source>Now you're all set up!&#60;br&#62;&#60;br&#62;We wish you happy situations :)</source>

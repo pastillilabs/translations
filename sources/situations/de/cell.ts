@@ -9,7 +9,7 @@
     </message>
     <message id="cell_area_name">
         <source>Area name</source>
-        <translation>Bereichs-Name</translation>
+        <translation>Standortbezeichnung</translation>
     </message>
     <message id="cell_count" numerus="yes">
         <source>%n cell(s)</source>
@@ -28,11 +28,11 @@
     </message>
     <message id="cell_recording">
         <source>Recording</source>
-        <translation>nimmt auf</translation>
+        <translation>Nimmt auf</translation>
     </message>
     <message id="cell_erasing">
         <source>Erasing</source>
-        <translation>löscht</translation>
+        <translation>Löscht</translation>
     </message>
 </context>
 </TS>

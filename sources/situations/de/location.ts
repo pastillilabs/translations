@@ -17,7 +17,7 @@
     </message>
     <message id="location_placeholder_name">
         <source>Location name</source>
-        <translation>Standort-Name</translation>
+        <translation>Standortname</translation>
     </message>
     <message id="location_name">
         <source>Location</source>

@@ -13,11 +13,11 @@
     </message>
     <message id="btscanpro_connection_name">
         <source>Or enter device name</source>
-        <translation>Oder Verbindungsname angeben</translation>
+        <translation>oder Verbindungsname angeben</translation>
     </message>
     <message id="btscanpro_connection_address">
         <source>Or enter device address</source>
-        <translation>Oder Geräteadresse angeben</translation>
+        <translation>oder Geräteadresse angeben</translation>
     </message>
     <message id="btscanpro_connections">
         <source>Devices</source>
@@ -29,7 +29,7 @@
     </message>
     <message id="btscanpro_turn_on_bt">
         <source>Turn on Bluetooth</source>
-        <translation>Bluetooth anschalten</translation>
+        <translation>Bluetooth einschalten</translation>
     </message>
     <message id="btscanpro_interval">
         <source>Scan interval</source>

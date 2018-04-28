@@ -13,7 +13,7 @@
     </message>
     <message id="wlanscan_connection_name">
         <source>Or enter network name</source>
-        <translation>oder Verbindungs-Name eingeben</translation>
+        <translation>oder Verbindungsname eingeben</translation>
     </message>
     <message id="wlanscan_connections">
         <source>Networks</source>

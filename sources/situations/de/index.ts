@@ -41,7 +41,7 @@
     </message>
     <message id="location_description_index">
         <source>Location condition using the best available positioning method</source>
-        <translation>Standort-Bedingung mit der besten verfügbaren Ortungsmethode</translation>
+        <translation>Standortbedingung mit der besten verfügbaren Ortungsmethode</translation>
     </message>
     <message id="mobiledata_title_index">
         <source>Mobile Data</source>
@@ -169,7 +169,7 @@
     </message>
     <message id="display_description_index">
         <source>Display on/off state</source>
-        <translation>Display an/aus-Status</translation>
+        <translation>Display an/aus</translation>
     </message>
     <message id="volumealarm_title_index">
         <source>Alarm Volume</source>
@@ -201,7 +201,7 @@
     </message>
     <message id="tethering_description_index">
         <source>Internet sharing (hotspot) setting</source>
-        <translation>Internet sharing (Hotspot) einstellen</translation>
+        <translation>Internet Sharing (WLAN-Hotspot) einstellen</translation>
     </message>
     <message id="volumecontact_title_index">
         <source>Contact Volume</source>
@@ -249,7 +249,7 @@
     </message>
     <message id="proximity_description_index">
         <source>Detect objects being close to the device</source>
-        <translation>Objekte direkt vor dem Gerät erkennen</translation>
+        <translation>Vor dem Gerät befindliche Objekte erkennen</translation>
     </message>
     <message id="nfcstate_title_index">
         <source>NFC</source>
