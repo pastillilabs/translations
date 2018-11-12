@@ -265,5 +265,13 @@ die App!</translation>
         <source>Dark</source>
         <translation>Dunkel</translation>
     </message>
+    <message id="default_assistant_title">
+        <source>User Action Required!</source>
+        <translation type="unfinished">User Action Required!</translation>
+    </message>
+    <message id="default_assistant_description">
+        <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
+        <translation type="unfinished">To use this feature, Situations must be selected as the default Assistant application in system settings.</translation>
+    </message>
 </context>
 </TS>
