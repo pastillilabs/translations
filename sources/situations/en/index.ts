@@ -259,5 +259,13 @@
         <source>NFC setting</source>
         <translation>NFC setting</translation>
     </message>
+    <message id="powersave_title_index">
+        <source>Battery Saver</source>
+        <translation>Battery Saver</translation>
+    </message>
+    <message id="powersave_description_index">
+        <source>Battery Saver setting</source>
+        <translation>Battery Saver setting</translation>
+    </message>
 </context>
 </TS>

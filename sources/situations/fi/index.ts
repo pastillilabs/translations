@@ -233,7 +233,7 @@
     </message>
     <message id="gps_description_index">
         <source>GPS setting</source>
-        <translation>GPS asetus</translation>
+        <translation>GPS-asetus</translation>
     </message>
     <message id="activity_title_index">
         <source>Activity</source>
@@ -257,7 +257,15 @@
     </message>
     <message id="nfcstate_description_index">
         <source>NFC setting</source>
-        <translation>NFC asetus</translation>
+        <translation>NFC-asetus</translation>
     </message>
+    <message id="powersave_title_index">
+        <source>Battery Saver</source>
+        <translation>Virransäästö</translation>
+    </message>
+    <message id="powersave_description_index">
+        <source>Battery Saver setting</source>
+        <translation>Virransäästön asetus</translation>
+    </message>	
 </context>
 </TS>
