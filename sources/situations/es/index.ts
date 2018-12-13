@@ -253,19 +253,19 @@
     </message>
     <message id="nfcstate_title_index">
         <source>NFC</source>
-        <translation type="unfinished">NFC</translation>
+        <translation>NFC</translation>
     </message>
     <message id="nfcstate_description_index">
         <source>NFC setting</source>
-        <translation type="unfinished">NFC setting</translation>
+        <translation>Ajustes NFC</translation>
     </message>
     <message id="powersave_title_index">
         <source>Battery Saver</source>
-        <translation type="unfinished">Battery Saver</translation>
+        <translation>Ahorro de batería</translation>
     </message>
     <message id="powersave_description_index">
         <source>Battery Saver setting</source>
-        <translation type="unfinished">Battery Saver setting</translation>
+        <translation>Ajustes para ahorro de batería</translation>
     </message>
 </context>
 </TS>

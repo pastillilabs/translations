@@ -5,27 +5,27 @@
     <name></name>
     <message id="btscanpro_name">
         <source>Bluetooth Devices</source>
-        <translation>Bluetooth</translation>
+        <translation>Dispositivos Bluetooth</translation>
     </message>
     <message id="btscanpro_search">
         <source>Search for devices</source>
-        <translation>Buscar conexiones</translation>
+        <translation>Buscar dispositivos</translation>
     </message>
     <message id="btscanpro_connection_name">
         <source>Or enter device name</source>
-        <translation>O introduza el nombre</translation>
+        <translation>O introduza el nombre del dispositivo</translation>
     </message>
     <message id="btscanpro_connection_address">
         <source>Or enter device address</source>
-        <translation>O introduzca la dirección</translation>
+        <translation>O introduzca la dirección del dispositivo</translation>
     </message>
     <message id="btscanpro_connections">
         <source>Devices</source>
-        <translation>Conexiones</translation>
+        <translation>Dispositivos</translation>
     </message>
     <message id="btscanpro_no_connections">
         <source>No devices</source>
-        <translation>Sin conexiones</translation>
+        <translation>Sin dispositivos</translation>
     </message>
     <message id="btscanpro_turn_on_bt">
         <source>Turn on Bluetooth</source>

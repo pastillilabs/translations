@@ -5,23 +5,23 @@
     <name></name>
     <message id="wlanscan_name">
         <source>WiFi Networks</source>
-        <translation>WiFi</translation>
+        <translation>Redes WiFi</translation>
     </message>
     <message id="wlanscan_search">
         <source>Search for networks</source>
-        <translation>Buscar conexiones</translation>
+        <translation>Buscar redes</translation>
     </message>
     <message id="wlanscan_connection_name">
         <source>Or enter network name</source>
-        <translation>O introduzca el nombre de la conexión</translation>
+        <translation>O introduzca el nombre de la red</translation>
     </message>
     <message id="wlanscan_connections">
         <source>Networks</source>
-        <translation>Conexiones</translation>
+        <translation>Redes</translation>
     </message>
     <message id="wlanscan_no_connections">
         <source>No networks</source>
-        <translation>Sin conexiones</translation>
+        <translation>Sin redes</translation>
     </message>
     <message id="wlanscan_turn_on_wlan">
         <source>Turn on WiFi</source>

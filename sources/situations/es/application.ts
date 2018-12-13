@@ -5,11 +5,11 @@
     <name></name>
     <message id="and">
         <source>AND</source>
-        <translation>y</translation>
+        <translation>Y</translation>
     </message>
     <message id="or">
         <source>OR</source>
-        <translation>o</translation>
+        <translation>O</translation>
     </message>
     <message id="help">
         <source>Help</source>
@@ -251,7 +251,7 @@ califique la app!</translation>
     </message>
     <message id="import_warning">
         <source>Current application data will be overwritten! Internet connection may be required for successful import!</source>
-        <translation>Datos actuales de la aplicación van a ser sobrescritos! Conexión a internet requerida para una correcta importación!</translation>
+        <translation>Los datos actuales de la aplicación van a ser sobrescritos! Requiere conexión a internet  para una correcta importación!</translation>
     </message>
     <message id="application_theme">
         <source>Theme</source>
@@ -267,31 +267,31 @@ califique la app!</translation>
     </message>
     <message id="default_assistant_title">
         <source>User Action Required!</source>
-        <translation type="unfinished">User Action Required!</translation>
+        <translation>Acción del usuario requerida!</translation>
     </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
-        <translation type="unfinished">To use this feature, Situations must be selected as the default Assistant application in system settings.</translation>
+        <translation>Para usar esta característica, Situations debe ser seleccionada como aplicación asistente determinada en la configuración del sistema.</translation>
     </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
-        <translation type="unfinished">Time and Location</translation>
+        <translation>Tiempo y ubicación</translation>
     </message>
     <message id="category_device">
         <source>Device</source>
-        <translation type="unfinished">Device</translation>
+        <translation>Dispositivo</translation>
     </message>
     <message id="category_connectivity">
         <source>Connectivity</source>
-        <translation type="unfinished">Connectivity</translation>
+        <translation>Conectividad</translation>
     </message>
     <message id="category_ui">
         <source>User Interface</source>
-        <translation type="unfinished">User Interface</translation>
+        <translation>Interfaz de usuario</translation>
     </message>
     <message id="category_action">
         <source>Action</source>
-        <translation type="unfinished">Action</translation>
+        <translation>Acción</translation>
     </message>
 </context>
 </TS>

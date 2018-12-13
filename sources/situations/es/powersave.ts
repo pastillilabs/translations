@@ -3,9 +3,9 @@
 <TS version="2.0" language="es">
 <context>
     <name></name>
-    <message id="nfcstate_name">
-        <source>NFC</source>
-        <translation>NFC</translation>
+    <message id="powersave_name">
+        <source>Battery Saver</source>
+        <translation>Ahorro de batería</translation>
     </message>
 </context>
 </TS>

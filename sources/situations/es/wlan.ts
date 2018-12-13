@@ -5,7 +5,7 @@
     <name></name>
     <message id="wlan_name">
         <source>WiFi State</source>
-        <translation>Wifi</translation>
+        <translation>Estado del Wifi</translation>
     </message>
 </context>
 </TS>
