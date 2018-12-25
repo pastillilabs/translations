@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sv_SE">
+<TS version="2.1" language="sv_SE">
 <context>
     <name></name>
     <message id="and">
@@ -267,31 +267,31 @@ appen!</translation>
     </message>
     <message id="default_assistant_title">
         <source>User Action Required!</source>
-        <translation type="unfinished">User Action Required!</translation>
+        <translation>Användaråtgärd krävs!</translation>
     </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
-        <translation type="unfinished">To use this feature, Situations must be selected as the default Assistant application in system settings.</translation>
+        <translation>För att använda den här funktionen måste Situations väljas som standardassistentprogram i systeminställningarna.</translation>
     </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
-        <translation type="unfinished">Time and Location</translation>
+        <translation>Tid och plats</translation>
     </message>
     <message id="category_device">
         <source>Device</source>
-        <translation type="unfinished">Device</translation>
+        <translation>Enhet</translation>
     </message>
     <message id="category_connectivity">
         <source>Connectivity</source>
-        <translation type="unfinished">Connectivity</translation>
+        <translation>Anslutning</translation>
     </message>
     <message id="category_ui">
         <source>User Interface</source>
-        <translation type="unfinished">User Interface</translation>
+        <translation>Användargränssnitt</translation>
     </message>
     <message id="category_action">
         <source>Action</source>
-        <translation type="unfinished">Action</translation>
+        <translation>Åtgärd</translation>
     </message>
 </context>
 </TS>

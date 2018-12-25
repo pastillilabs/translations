@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sv_SE">
+<TS version="2.1" language="sv_SE">
 <context>
     <name></name>
     <message id="plugins_title_index">
@@ -237,35 +237,35 @@
     </message>
     <message id="activity_title_index">
         <source>Activity</source>
-        <translation type="unfinished">Activity</translation>
+        <translation>Aktivitet</translation>
     </message>
     <message id="activity_description_index">
         <source>Try to detect current activity (like walking, cycling or driving)</source>
-        <translation type="unfinished">Try to detect current activity (like walking, cycling or driving)</translation>
+        <translation>Försök att identifiera aktuell aktivitet (som att gå, cykla eller köra)</translation>
     </message>
     <message id="proximity_title_index">
         <source>Proximity Sensor</source>
-        <translation type="unfinished">Proximity Sensor</translation>
+        <translation>Närhetssensor</translation>
     </message>
     <message id="proximity_description_index">
         <source>Detect objects being close to the device</source>
-        <translation type="unfinished">Detect objects being close to the device</translation>
+        <translation>Identifiera objekt som är nära enheten</translation>
     </message>
     <message id="nfcstate_title_index">
         <source>NFC</source>
-        <translation type="unfinished">NFC</translation>
+        <translation>NFC</translation>
     </message>
     <message id="nfcstate_description_index">
         <source>NFC setting</source>
-        <translation type="unfinished">NFC setting</translation>
+        <translation>NFC-inställning</translation>
     </message>
     <message id="powersave_title_index">
         <source>Battery Saver</source>
-        <translation type="unfinished">Battery Saver</translation>
+        <translation>Batterisparare</translation>
     </message>
     <message id="powersave_description_index">
         <source>Battery Saver setting</source>
-        <translation type="unfinished">Battery Saver setting</translation>
+        <translation>Batterisparinställning</translation>
     </message>
 </context>
 </TS>

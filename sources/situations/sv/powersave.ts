@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sv">
+<TS version="2.1" language="sv">
 <context>
     <name></name>
     <message id="powersave_name">
         <source>Battery Saver</source>
-        <translation type="unfinished">Battery Saver</translation>
+        <translation>Batterisparare</translation>
     </message>
 </context>
 </TS>
