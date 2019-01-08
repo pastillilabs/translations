@@ -265,13 +265,17 @@ califique la app!</translation>
         <source>Dark</source>
         <translation>Oscuro</translation>
     </message>
-    <message id="default_assistant_title">
+    <message id="user_action_title">
         <source>User Action Required!</source>
         <translation>Acción del usuario requerida!</translation>
     </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
         <translation>Para usar esta característica, Situations debe ser seleccionada como aplicación asistente determinada en la configuración del sistema.</translation>
+    </message>
+    <message id="location_services_description">
+        <source>To use this feature, location services must be enabled in system settings.</source>
+        <translation type="unfinished">To use this feature, location setting must be enabled in system settings.</translation>
     </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
