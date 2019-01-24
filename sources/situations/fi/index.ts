@@ -267,5 +267,13 @@
         <source>Battery Saver setting</source>
         <translation>Virransäästön asetus</translation>
     </message>	
+    <message id="donotdisturb_title_index">
+        <source>Do Not Disturb</source>
+        <translation>Ei Saa Häiritä</translation>
+    </message>
+    <message id="donotdisturb_description_index">
+        <source>Do Not Disturb setting</source>
+        <translation>Ei Saa Häiritä -asetus</translation>
+    </message>	
 </context>
 </TS>

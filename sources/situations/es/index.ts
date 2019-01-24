@@ -267,5 +267,13 @@
         <source>Battery Saver setting</source>
         <translation>Ajustes para ahorro de batería</translation>
     </message>
+    <message id="donotdisturb_title_index">
+        <source>Do Not Disturb</source>
+        <translation type="unfinished">Do Not Disturb</translation>
+    </message>
+    <message id="donotdisturb_description_index">
+        <source>Do Not Disturb setting</source>
+        <translation type="unfinished">Do Not Disturb setting</translation>
+    </message>	
 </context>
 </TS>
