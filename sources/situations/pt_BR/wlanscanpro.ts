@@ -12,12 +12,12 @@
         <translation>Procurar conexões</translation>
     </message>
     <message id="wlanscanpro_connection_name">
-        <source>Or enter network name</source>
-        <translation>Ou digite o nome da conexão</translation>
+        <source>Network name</source>
+        <translation>Nome da rede</translation>
     </message>
     <message id="wlanscanpro_connection_address">
-        <source>Or enter connection address</source>
-        <translation>Ou digite o endereço da conexão</translation>
+        <source>Access point address</source>
+        <translation>Endereço do ponto de acesso</translation>
     </message>
     <message id="wlanscanpro_connections">
         <source>Networks</source>
@@ -35,10 +35,6 @@
         <source>Scan interval</source>
         <translation>Intervalo da procura</translation>
     </message>
-    <message id="wlanscanpro_none">
-        <source>No scanning</source>
-        <translation>Sem procura</translation>
-    </message>
     <message id="wlanscanpro_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
         <translation>
@@ -51,6 +47,26 @@
 (also when WiFi is off)</source>
         <translation type="unfinished">Scan always
 (also when WiFi is off)</translation>
+    </message>
+    <message id="wlanscanpro_method">
+        <source>Method</source>
+        <translation type="unfinished">Method</translation>
+    </message>
+    <message id="wlanscanpro_method_scanning">
+        <source>Scan networks</source>
+        <translation type="unfinished">Scan networks</translation>
+    </message>
+    <message id="wlanscanpro_method_active">
+        <source>Active connection</source>
+        <translation type="unfinished">Active connection</translation>
+    </message>
+    <message id="wlanscanpro_method_any">
+        <source>Any connection</source>
+        <translation type="unfinished">Any connection</translation>
+    </message>
+    <message id="wlanscanpro_network">
+        <source>Network</source>
+        <translation type="unfinished">Network</translation>
     </message>
 </context>
 </TS>

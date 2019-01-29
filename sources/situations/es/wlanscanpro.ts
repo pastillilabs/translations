@@ -12,12 +12,12 @@
         <translation>Buscar redes</translation>
     </message>
     <message id="wlanscanpro_connection_name">
-        <source>Or enter network name</source>
-        <translation>O introduzca el nombre de la red</translation>
+        <source>Network name</source>
+        <translation>Nombre de la red</translation>
     </message>
     <message id="wlanscanpro_connection_address">
-        <source>Or enter connection address</source>
-        <translation>O introduzca la dirección</translation>
+        <source>Access point address</source>
+        <translation>Dirección</translation>
     </message>
     <message id="wlanscanpro_connections">
         <source>Networks</source>
@@ -28,16 +28,12 @@
         <translation>Sin redes</translation>
     </message>
     <message id="wlanscanpro_turn_on_wlan">
-        <source>wlanscanpro_turn_on_wlan</source>
+        <source>Turn on WiFi</source>
         <translation>Activar WiFi</translation>
     </message>
     <message id="wlanscanpro_interval">
         <source>Scan interval</source>
         <translation>Intervalo de escaneo</translation>
-    </message>
-    <message id="wlanscanpro_none">
-        <source>No scanning</source>
-        <translation>No escanear</translation>
     </message>
     <message id="wlanscanpro_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
@@ -51,6 +47,26 @@
 (also when WiFi is off)</source>
         <translation>Buscar siempre
 (incluso con WiFi desactivado)</translation>
+    </message>
+    <message id="wlanscanpro_method">
+        <source>Method</source>
+        <translation type="unfinished">Method</translation>
+    </message>
+    <message id="wlanscanpro_method_scanning">
+        <source>Scan networks</source>
+        <translation type="unfinished">Scan networks</translation>
+    </message>
+    <message id="wlanscanpro_method_active">
+        <source>Active connection</source>
+        <translation type="unfinished">Active connection</translation>
+    </message>
+    <message id="wlanscanpro_method_any">
+        <source>Any connection</source>
+        <translation type="unfinished">Any connection</translation>
+    </message>
+    <message id="wlanscanpro_network">
+        <source>Network</source>
+        <translation type="unfinished">Network</translation>
     </message>
 </context>
 </TS>

@@ -12,11 +12,11 @@
         <translation>Поиск подключений</translation>
     </message>
     <message id="wlanscanpro_connection_name">
-        <source>Or enter network name</source>
-        <translation>Или введите имя подключения</translation>
+        <source>Network name</source>
+        <translation>Имя сети</translation>
     </message>
     <message id="wlanscanpro_connection_address">
-        <source>Or enter connection address</source>
+        <source>Access point address</source>
         <translation type="unfinished">Or enter connection address</translation>
     </message>
     <message id="wlanscanpro_connections">
@@ -35,10 +35,6 @@
         <source>Scan interval</source>
         <translation type="unfinished">Scan interval</translation>
     </message>
-    <message id="wlanscanpro_none">
-        <source>No scanning</source>
-        <translation type="unfinished">No scanning</translation>
-    </message>
     <message id="wlanscanpro_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
         <translation type="unfinished">
@@ -51,6 +47,26 @@
 (also when WiFi is off)</source>
         <translation type="unfinished">Scan always
 (also when WiFi is off)</translation>
+    </message>
+    <message id="wlanscanpro_method">
+        <source>Method</source>
+        <translation type="unfinished">Method</translation>
+    </message>
+    <message id="wlanscanpro_method_scanning">
+        <source>Scan networks</source>
+        <translation type="unfinished">Scan networks</translation>
+    </message>
+    <message id="wlanscanpro_method_active">
+        <source>Active connection</source>
+        <translation type="unfinished">Active connection</translation>
+    </message>
+    <message id="wlanscanpro_method_any">
+        <source>Any connection</source>
+        <translation type="unfinished">Any connection</translation>
+    </message>
+    <message id="wlanscanpro_network">
+        <source>Network</source>
+        <translation type="unfinished">Network</translation>
     </message>
 </context>
 </TS>

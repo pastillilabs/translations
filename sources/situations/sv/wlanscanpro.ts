@@ -12,12 +12,12 @@
         <translation>Sök efter nätverk</translation>
     </message>
     <message id="wlanscanpro_connection_name">
-        <source>Or enter network name</source>
-        <translation>Eller ange nätverksnamn</translation>
+        <source>Network name</source>
+        <translation>Nätverksnamn</translation>
     </message>
     <message id="wlanscanpro_connection_address">
-        <source>Or enter connection address</source>
-        <translation>Eller ange anslutningsadress</translation>
+        <source>Access point address</source>
+        <translation>Åtkomstpunktadress</translation>
     </message>
     <message id="wlanscanpro_connections">
         <source>Networks</source>
@@ -35,10 +35,6 @@
         <source>Scan interval</source>
         <translation>Skanningsintervall</translation>
     </message>
-    <message id="wlanscanpro_none">
-        <source>No scanning</source>
-        <translation>Ingen skanning</translation>
-    </message>
     <message id="wlanscanpro_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
         <translation>
@@ -51,6 +47,26 @@
 (also when WiFi is off)</source>
         <translation>Sök alltid
 (även när WiFi är avstängd)</translation>
+    </message>
+    <message id="wlanscanpro_method">
+        <source>Method</source>
+        <translation type="unfinished">Method</translation>
+    </message>
+    <message id="wlanscanpro_method_scanning">
+        <source>Scan networks</source>
+        <translation type="unfinished">Scan networks</translation>
+    </message>
+    <message id="wlanscanpro_method_active">
+        <source>Active connection</source>
+        <translation type="unfinished">Active connection</translation>
+    </message>
+    <message id="wlanscanpro_method_any">
+        <source>Any connection</source>
+        <translation type="unfinished">Any connection</translation>
+    </message>
+    <message id="wlanscanpro_network">
+        <source>Network</source>
+        <translation type="unfinished">Network</translation>
     </message>
 </context>
 </TS>
