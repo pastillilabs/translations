@@ -275,7 +275,7 @@ appen!</translation>
     </message>
     <message id="location_services_description">
         <source>To use this feature, location services must be enabled in system settings.</source>
-        <translation type="unfinished">To use this feature, location setting must be enabled in system settings.</translation>
+        <translation>Platstjänster måste vara aktiverat i systeminställningarna, för att använda den här funktionen.</translation>
     </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
