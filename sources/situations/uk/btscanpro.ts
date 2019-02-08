@@ -12,12 +12,12 @@
         <translation>Шукати для з&apos;єднання</translation>
     </message>
     <message id="btscanpro_connection_name">
-        <source>Or enter device name</source>
-        <translation>Або вкажіть назву з&apos;єднання</translation>
+        <source>Device name</source>
+        <translation>Ім&apos;я пристрою</translation>
     </message>
     <message id="btscanpro_connection_address">
-        <source>Or enter device address</source>
-        <translation>Або вкажіть адресу з&apos;єднання</translation>
+        <source>Device address</source>
+        <translation>Назва адреси</translation>
     </message>
     <message id="btscanpro_connections">
         <source>Devices</source>
@@ -35,16 +35,32 @@
         <source>Scan interval</source>
         <translation>Час сканування</translation>
     </message>
-    <message id="btscanpro_none">
-        <source>No scanning</source>
-        <translation>Не проскановано</translation>
-    </message>
     <message id="btscanpro_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n хвилина</numerusform>
             <numerusform>%n хвилини</numerusform>
         </translation>
+    </message>
+    <message id="btscanpro_method">
+        <source>Method</source>
+        <translation type="unfinished">Method</translation>
+    </message>
+    <message id="btscanpro_method_scanning">
+        <source>Scan devices</source>
+        <translation type="unfinished">Scan devices</translation>
+    </message>
+    <message id="btscanpro_method_active">
+        <source>Active connection</source>
+        <translation type="unfinished">Active connection</translation>
+    </message>
+    <message id="btscanpro_method_any">
+        <source>Any connection</source>
+        <translation type="unfinished">Any connection</translation>
+    </message>
+    <message id="btscanpro_device">
+        <source>Device</source>
+        <translation type="unfinished">Device</translation>
     </message>
 </context>
 </TS>

@@ -12,12 +12,12 @@
         <translation type="unfinished">Search for devices</translation>
     </message>
     <message id="btscanpro_connection_name">
-        <source>Or enter device name</source>
-        <translation type="unfinished">Or enter device name</translation>
+        <source>Device name</source>
+        <translation type="unfinished">Device name</translation>
     </message>
     <message id="btscanpro_connection_address">
-        <source>Or enter device address</source>
-        <translation type="unfinished">Or enter device address</translation>
+        <source>Device address</source>
+        <translation type="unfinished">Device address</translation>
     </message>
     <message id="btscanpro_connections">
         <source>Devices</source>
@@ -35,16 +35,32 @@
         <source>Scan interval</source>
         <translation type="unfinished">Scan interval</translation>
     </message>
-    <message id="btscanpro_none">
-        <source>No scanning</source>
-        <translation type="unfinished">No scanning</translation>
-    </message>
     <message id="btscanpro_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
         <translation type="unfinished">
             <numerusform>%n minute</numerusform>
             <numerusform>%n minutes</numerusform>
         </translation>
+    </message>
+    <message id="btscanpro_method">
+        <source>Method</source>
+        <translation type="unfinished">Method</translation>
+    </message>
+    <message id="btscanpro_method_scanning">
+        <source>Scan devices</source>
+        <translation type="unfinished">Scan devices</translation>
+    </message>
+    <message id="btscanpro_method_active">
+        <source>Active connection</source>
+        <translation type="unfinished">Active connection</translation>
+    </message>
+    <message id="btscanpro_method_any">
+        <source>Any connection</source>
+        <translation type="unfinished">Any connection</translation>
+    </message>
+    <message id="btscanpro_device">
+        <source>Device</source>
+        <translation type="unfinished">Device</translation>
     </message>
 </context>
 </TS>

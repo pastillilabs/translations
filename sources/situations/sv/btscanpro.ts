@@ -12,12 +12,12 @@
         <translation>Sök efter enheter</translation>
     </message>
     <message id="btscanpro_connection_name">
-        <source>Or enter device name</source>
-        <translation>Eller ange enhetsnamn</translation>
+        <source>Device name</source>
+        <translation>Enhetsnamn</translation>
     </message>
     <message id="btscanpro_connection_address">
-        <source>Or enter device address</source>
-        <translation>Eller ange enhetsadress</translation>
+        <source>Device address</source>
+        <translation>Enhetsadress</translation>
     </message>
     <message id="btscanpro_connections">
         <source>Devices</source>
@@ -35,16 +35,32 @@
         <source>Scan interval</source>
         <translation>Skanningsintervall</translation>
     </message>
-    <message id="btscanpro_none">
-        <source>No scanning</source>
-        <translation>Ingen skanning</translation>
-    </message>
     <message id="btscanpro_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n minut</numerusform>
             <numerusform>%n minuter</numerusform>
         </translation>
+    </message>
+    <message id="btscanpro_method">
+        <source>Method</source>
+        <translation>Metod</translation>
+    </message>
+    <message id="btscanpro_method_scanning">
+        <source>Scan devices</source>
+        <translation type="unfinished">Scan devices</translation>
+    </message>
+    <message id="btscanpro_method_active">
+        <source>Active connection</source>
+        <translation>Aktiv anslutning</translation>
+    </message>
+    <message id="btscanpro_method_any">
+        <source>Any connection</source>
+        <translation>Vilken anslutning som helst</translation>
+    </message>
+    <message id="btscanpro_device">
+        <source>Device</source>
+        <translation type="unfinished">Device</translation>
     </message>
 </context>
 </TS>

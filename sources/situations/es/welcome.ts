@@ -5,7 +5,7 @@
     <name></name>
     <message id="welcome1">
         <source>&lt;font size=&apos;7&apos;&gt;Welcome&lt;/font&gt;&lt;br&gt;to the&lt;br&gt;&lt;font size=&apos;7&apos;&gt;Situations&lt;/font&gt;&lt;br&gt;application!</source>
-        <translation>&lt;font size=&apos;7&apos;&gt;¡Bienvenido &lt;/font&gt;&lt;br&gt;a la aplicación &lt;br&gt;&lt;font size=&apos;7&apos;&gt;Situations!&lt;/font&gt;&lt;br&gt; </translation>
+        <translation>&lt;font size=&apos;7&apos;&gt;¡Bienvenido&lt;/font&gt;&lt;br&gt;a la &lt;br&gt;&lt;font size=&apos;7&apos;&gt;Situations&lt;/font&gt;&lt;br&gt;app!</translation>
     </message>
     <message id="welcome2">
         <source>This application lets you automate your device behavior by defining &lt;b&gt;Situations&lt;/b&gt;, i.e. &lt;b&gt;What&lt;/b&gt; happens and &lt;b&gt;When&lt;/b&gt;.&lt;br&gt;&lt;br&gt;With Situations you can for example ensure your phone is silent in meetings or at night. Or have your favorite music player open when connecting headphones.</source>

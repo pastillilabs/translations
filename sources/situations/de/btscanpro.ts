@@ -12,12 +12,12 @@
         <translation>Nach Verbindungen suchen</translation>
     </message>
     <message id="btscanpro_connection_name">
-        <source>Or enter device name</source>
-        <translation>oder Verbindungsname angeben</translation>
+        <source>Device name</source>
+        <translation>Gerätename</translation>
     </message>
     <message id="btscanpro_connection_address">
-        <source>Or enter device address</source>
-        <translation>oder Geräteadresse angeben</translation>
+        <source>Device address</source>
+        <translation>Geräteadresse</translation>
     </message>
     <message id="btscanpro_connections">
         <source>Devices</source>
@@ -35,16 +35,32 @@
         <source>Scan interval</source>
         <translation>Scan-Intervall</translation>
     </message>
-    <message id="btscanpro_none">
-        <source>No scanning</source>
-        <translation>Kein Scan</translation>
-    </message>
     <message id="btscanpro_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n Minute</numerusform>
             <numerusform>%n Minuten</numerusform>
         </translation>
+    </message>
+    <message id="btscanpro_method">
+        <source>Method</source>
+        <translation type="unfinished">Method</translation>
+    </message>
+    <message id="btscanpro_method_scanning">
+        <source>Scan devices</source>
+        <translation type="unfinished">Scan devices</translation>
+    </message>
+    <message id="btscanpro_method_active">
+        <source>Active connection</source>
+        <translation type="unfinished">Active connection</translation>
+    </message>
+    <message id="btscanpro_method_any">
+        <source>Any connection</source>
+        <translation type="unfinished">Any connection</translation>
+    </message>
+    <message id="btscanpro_device">
+        <source>Device</source>
+        <translation type="unfinished">Device</translation>
     </message>
 </context>
 </TS>

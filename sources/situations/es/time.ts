@@ -5,7 +5,7 @@
     <name></name>
     <message id="time_name">
         <source>Time</source>
-        <translation>Tiempo</translation>
+        <translation>Hora</translation>
     </message>
     <message id="time_mo">
         <source>Mo</source>

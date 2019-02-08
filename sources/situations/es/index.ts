@@ -17,7 +17,7 @@
     </message>
     <message id="ambience_description_index">
         <source>Ambience setting</source>
-        <translation>Conmutar ambiente</translation>
+        <translation>Ajuste der ambiente</translation>
     </message>
     <message id="calendarpro_title_index">
         <source>Calendar Pro</source>
@@ -33,7 +33,7 @@
     </message>
     <message id="flightmode_description_index">
         <source>Airplane mode setting</source>
-        <translation>Cambiar Modo Avión</translation>
+        <translation>Ajuste Modo Avión</translation>
     </message>
     <message id="location_title_index">
         <source>Location</source>
@@ -41,7 +41,7 @@
     </message>
     <message id="location_description_index">
         <source>Location condition using the best available positioning method</source>
-        <translation>Condición para ubicación usando el mejor método de posicionamiento disponible</translation>
+        <translation>Condición de ubicación usando el mejor método de posicionamiento disponible</translation>
     </message>
     <message id="mobiledata_title_index">
         <source>Mobile Data</source>
@@ -49,7 +49,7 @@
     </message>
     <message id="mobiledata_description_index">
         <source>Mobile data setting</source>
-        <translation>Cambiar Datos móviles</translation>
+        <translation>Ajuste de Datos móviles</translation>
     </message>
     <message id="mobilenetwork_title_index">
         <source>Mobile Network</source>
@@ -57,7 +57,7 @@
     </message>
     <message id="mobilenetwork_description_index">
         <source>Mobile network setting</source>
-        <translation>Interruptor para red móvil</translation>
+        <translation>Ajuster para red móvil</translation>
     </message>
     <message id="screentimeout_title_index">
         <source>Screen Timeout</source>
@@ -65,7 +65,7 @@
     </message>
     <message id="screentimeout_description_index">
         <source>Screen timeout setting</source>
-        <translation>Tiempo de apagado de la pantalla</translation>
+        <translation>Ajuste del tiempo de apagado de la pantalla</translation>
     </message>
     <message id="screenrotation_title_index">
         <source>Screen Rotation</source>
@@ -73,7 +73,7 @@
     </message>
     <message id="screenrotation_description_index">
         <source>Screen auto rotation setting</source>
-        <translation>Conmutar Autorotación de la pantalla</translation>
+        <translation>Ajuste der Autorotación de la pantalla</translation>
     </message>
     <message id="smsreply_title_index">
         <source>SMS Reply</source>
@@ -97,11 +97,11 @@
     </message>
     <message id="sync_description_index">
         <source>Account synchronization setting</source>
-        <translation>Cambiar sincronización</translation>
+        <translation>Configuración de sincronización de cuenta</translation>
     </message>
     <message id="volumemedia_title_index">
         <source>Media Volume</source>
-        <translation>Volumen de multimedia</translation>
+        <translation>Volumen Multimedia</translation>
     </message>
     <message id="volumemedia_description_index">
         <source>Media volume setting</source>
@@ -153,7 +153,7 @@
     </message>
     <message id="ringtone_description_index">
         <source>Ringtone setting</source>
-        <translation>Selección de tono de llamada</translation>
+        <translation>Ajuste de tono de llamada</translation>
     </message>
     <message id="wlanscanpro_title_index">
         <source>WiFi Pro</source>
@@ -169,7 +169,7 @@
     </message>
     <message id="display_description_index">
         <source>Display on/off state</source>
-        <translation>Condición de pantalla encendida/apagada</translation>
+        <translation>Estado de pantalla encendida/apagada</translation>
     </message>
     <message id="volumealarm_title_index">
         <source>Alarm Volume</source>
@@ -201,7 +201,7 @@
     </message>
     <message id="tethering_description_index">
         <source>Internet sharing (hotspot) setting</source>
-        <translation>Conmutar la compartición de Internet (punto de acceso)</translation>
+        <translation>Ajuste para compartir Internet (punto de acceso)</translation>
     </message>
     <message id="volumecontact_title_index">
         <source>Contact Volume</source>
@@ -217,7 +217,7 @@
     </message>
     <message id="wallpaper_description_index">
         <source>System wallpaper setting</source>
-        <translation>Cambiar el fondo de pantalla</translation>
+        <translation>Ajuste del fondo de pantalla</translation>
     </message>
     <message id="watchface_title_index">
         <source>Watchface</source>
@@ -233,7 +233,7 @@
     </message>
     <message id="gps_description_index">
         <source>GPS setting</source>
-        <translation>Ajustes del GPS</translation>
+        <translation>Ajuste GPS</translation>
     </message>
     <message id="activity_title_index">
         <source>Activity</source>
@@ -265,15 +265,15 @@
     </message>
     <message id="powersave_description_index">
         <source>Battery Saver setting</source>
-        <translation>Ajustes para ahorro de batería</translation>
+        <translation>Ajuste para ahorro de batería</translation>
     </message>
     <message id="donotdisturb_title_index">
         <source>Do Not Disturb</source>
-        <translation type="unfinished">Do Not Disturb</translation>
+        <translation>No Molestar</translation>
     </message>
     <message id="donotdisturb_description_index">
         <source>Do Not Disturb setting</source>
-        <translation type="unfinished">Do Not Disturb setting</translation>
-    </message>	
+        <translation>Ajuste No Molestar</translation>
+    </message>
 </context>
 </TS>

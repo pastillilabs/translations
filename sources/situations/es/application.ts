@@ -139,7 +139,7 @@ califique la app!</translation>
     </message>
     <message id="reset">
         <source>Reset</source>
-        <translation>Reset</translation>
+        <translation>Reiniciar</translation>
     </message>
     <message id="privacy_policy">
         <source>Privacy policy</source>
@@ -275,7 +275,7 @@ califique la app!</translation>
     </message>
     <message id="location_services_description">
         <source>To use this feature, location services must be enabled in system settings.</source>
-        <translation type="unfinished">To use this feature, location setting must be enabled in system settings.</translation>
+        <translation>Para utilizar esta característica, la configuración de ubicación debe estar habilitada en la configuración del sistema.</translation>
     </message>
     <message id="category_timelocation">
         <source>Time and Location</source>

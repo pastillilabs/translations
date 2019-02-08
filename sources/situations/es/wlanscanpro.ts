@@ -50,23 +50,23 @@
     </message>
     <message id="wlanscanpro_method">
         <source>Method</source>
-        <translation type="unfinished">Method</translation>
+        <translation>Método</translation>
     </message>
     <message id="wlanscanpro_method_scanning">
         <source>Scan networks</source>
-        <translation type="unfinished">Scan networks</translation>
+        <translation>Escanear redes</translation>
     </message>
     <message id="wlanscanpro_method_active">
         <source>Active connection</source>
-        <translation type="unfinished">Active connection</translation>
+        <translation>Conexión activa</translation>
     </message>
     <message id="wlanscanpro_method_any">
         <source>Any connection</source>
-        <translation type="unfinished">Any connection</translation>
+        <translation>Cualquier conexión</translation>
     </message>
     <message id="wlanscanpro_network">
         <source>Network</source>
-        <translation type="unfinished">Network</translation>
+        <translation>Red</translation>
     </message>
 </context>
 </TS>
