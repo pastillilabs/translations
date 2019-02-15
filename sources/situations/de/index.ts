@@ -240,7 +240,7 @@
         <translation>Aktivität</translation>
     </message>
     <message id="activity_description_index">
-        <source>Try to detect current activity (like walking, cycling or driving)</source>
+        <source>Change situation based on current activity (like walking, cycling or driving).</source>
         <translation>Versuchen, derzeitige Aktivität zu erkennen (z.B. Laufen, Fahrrad oder Auto fahren)</translation>
     </message>
     <message id="proximity_title_index">

@@ -12,7 +12,7 @@
         <translation>Търсене на връзки</translation>
     </message>
     <message id="btscan_connection_name">
-        <source>Or enter connection name</source>
+        <source>Or enter device name</source>
         <translation>или въвеждане на име на връзка</translation>
     </message>
     <message id="btscan_connections">

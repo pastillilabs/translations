@@ -12,7 +12,7 @@
         <translation>Buscar dispositivos</translation>
     </message>
     <message id="btscan_connection_name">
-        <source>Or enter connection name</source>
+        <source>Or enter device name</source>
         <translation>O introduzca el nombre de la conexión</translation>
     </message>
     <message id="btscan_connections">

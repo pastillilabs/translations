@@ -53,7 +53,7 @@
     </message>
     <message id="mobilenetwork_title_index">
         <source>Mobile Network</source>
-        <translation type="unfinished">Mobile network</translation>
+        <translation type="unfinished">Mobile Network</translation>
     </message>
     <message id="mobilenetwork_description_index">
         <source>Mobile network setting</source>

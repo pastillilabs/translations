@@ -240,7 +240,7 @@
         <translation>Aktivitet</translation>
     </message>
     <message id="activity_description_index">
-        <source>Try to detect current activity (like walking, cycling or driving)</source>
+        <source>Change situation based on current activity (like walking, cycling or driving).</source>
         <translation>Försök att identifiera aktuell aktivitet (som att gå, cykla eller köra)</translation>
     </message>
     <message id="proximity_title_index">
@@ -274,6 +274,6 @@
     <message id="donotdisturb_description_index">
         <source>Do Not Disturb setting</source>
         <translation type="unfinished">Do Not Disturb setting</translation>
-    </message>	
+    </message>
 </context>
 </TS>

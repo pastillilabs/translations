@@ -240,8 +240,8 @@
         <translation type="unfinished">Activity</translation>
     </message>
     <message id="activity_description_index">
-        <source>Try to detect current activity (like walking, cycling or driving)</source>
-        <translation type="unfinished">Try to detect current activity (like walking, cycling or driving)</translation>
+        <source>Change situation based on current activity (like walking, cycling or driving).</source>
+        <translation type="unfinished">Change situation based on current activity (like walking, cycling or driving).</translation>
     </message>
     <message id="proximity_title_index">
         <source>Proximity Sensor</source>
@@ -251,7 +251,7 @@
         <source>Detect objects being close to the device</source>
         <translation type="unfinished">Detect objects being close to the device</translation>
     </message>
-        <message id="nfcstate_title_index">
+    <message id="nfcstate_title_index">
         <source>NFC</source>
         <translation type="unfinished">NFC</translation>
     </message>
@@ -274,6 +274,6 @@
     <message id="donotdisturb_description_index">
         <source>Do Not Disturb setting</source>
         <translation type="unfinished">Do Not Disturb setting</translation>
-    </message>	
+    </message>
 </context>
 </TS>

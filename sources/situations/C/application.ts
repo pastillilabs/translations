@@ -205,6 +205,18 @@ the app!</translation>
         <source>Situations requires some permissions to function correctly.</source>
         <translation type="unfinished">Situations requires some permissions to function correctly.</translation>
     </message>
+    <message id="permission_query_do_not_disturb">
+        <source>Please allow Situations to access Do Not Disturb mode.</source>
+        <translation type="unfinished">Please allow Situations to access Do Not Disturb mode.</translation>
+    </message>
+    <message id="permission_query_system_settings">
+        <source>Please allow Situations to modify system settings.</source>
+        <translation type="unfinished">Please allow Situations to modify system settings.</translation>
+    </message>
+    <message id="permission_query_battery_optimization">
+        <source>To ensure smooth operation in background, please disable battery optimization for Situations.</source>
+        <translation type="unfinished">To ensure smooth operation in background, please disable battery optimization for Situations.</translation>
+    </message>
     <message id="less_than">
         <source>Less than</source>
         <translation type="unfinished">Less than</translation>

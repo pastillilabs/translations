@@ -27,5 +27,13 @@
         <source>Running</source>
         <translation>Laufen</translation>
     </message>
+    <message id="activity_confidence">
+        <source>Confidence: %1%</source>
+        <translation type="unfinished">Confidence: %1%</translation>
+    </message>
+    <message id="activity_interval">
+        <source>Interval: %1 s</source>
+        <translation type="unfinished">Interval: %1 s</translation>
+    </message>
 </context>
 </TS>

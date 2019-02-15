@@ -10,7 +10,7 @@
     <message id="plugins_description_index">
         <source>***</source>
         <translation>***</translation>
-    </message>    
+    </message>
     <message id="ambience_title_index">
         <source>Ambience</source>
         <translation>Tunnelma</translation>
@@ -240,8 +240,8 @@
         <translation>Aktiviteetti</translation>
     </message>
     <message id="activity_description_index">
-        <source>Try to detect current activity (like walking, cycling or driving)</source>
-        <translation>Yrittää tunnistaa aktiviteetin (kuten kävely, pyöräily tai autoilu)</translation>
+        <source>Change situation based on current activity (like walking, cycling or driving).</source>
+        <translation>Tunnista aktiviteeti (kuten kävely, pyöräily tai autoilu)</translation>
     </message>
     <message id="proximity_title_index">
         <source>Proximity Sensor</source>
@@ -266,7 +266,7 @@
     <message id="powersave_description_index">
         <source>Battery Saver setting</source>
         <translation>Virransäästön asetus</translation>
-    </message>	
+    </message>
     <message id="donotdisturb_title_index">
         <source>Do Not Disturb</source>
         <translation>Ei Saa Häiritä</translation>
@@ -274,6 +274,6 @@
     <message id="donotdisturb_description_index">
         <source>Do Not Disturb setting</source>
         <translation>Ei Saa Häiritä -asetus</translation>
-    </message>	
+    </message>
 </context>
 </TS>

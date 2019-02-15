@@ -243,6 +243,14 @@
         <source>Change situation based on current activity (like walking, cycling or driving).</source>
         <translation type="unfinished">Change situation based on current activity (like walking, cycling or driving).</translation>
     </message>
+    <message id="proximity_title_index">
+        <source>Proximity Sensor</source>
+        <translation type="unfinished">Proximity Sensor</translation>
+    </message>
+    <message id="proximity_description_index">
+        <source>Detect objects being close to the device</source>
+        <translation type="unfinished">Detect objects being close to the device</translation>
+    </message>
     <message id="nfcstate_title_index">
         <source>NFC</source>
         <translation type="unfinished">NFC</translation>
@@ -258,7 +266,7 @@
     <message id="powersave_description_index">
         <source>Battery Saver setting</source>
         <translation type="unfinished">Battery Saver setting</translation>
-    </message>	
+    </message>
     <message id="donotdisturb_title_index">
         <source>Do Not Disturb</source>
         <translation type="unfinished">Do Not Disturb</translation>
@@ -266,6 +274,6 @@
     <message id="donotdisturb_description_index">
         <source>Do Not Disturb setting</source>
         <translation type="unfinished">Do Not Disturb setting</translation>
-    </message>	
+    </message>
 </context>
 </TS>

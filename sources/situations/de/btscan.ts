@@ -12,7 +12,7 @@
         <translation>Nach Verbindungen suchen</translation>
     </message>
     <message id="btscan_connection_name">
-        <source>Or enter connection name</source>
+        <source>Or enter device name</source>
         <translation>oder Verbindungsname angeben</translation>
     </message>
     <message id="btscan_connections">
