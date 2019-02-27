@@ -5,35 +5,35 @@
     <name></name>
     <message id="time_name">
         <source>Time</source>
-        <translation type="unfinished">Data i godzina</translation>
+        <translation>Data i godzina</translation>
     </message>
     <message id="time_mo">
         <source>Mo</source>
-        <translation type="unfinished">Pn</translation>
+        <translation>Pn</translation>
     </message>
     <message id="time_tu">
         <source>Tu</source>
-        <translation type="unfinished">Wt</translation>
+        <translation>Wt</translation>
     </message>
     <message id="time_we">
         <source>We</source>
-        <translation type="unfinished">Śr</translation>
+        <translation>Śr</translation>
     </message>
     <message id="time_th">
         <source>Th</source>
-        <translation type="unfinished">Czw</translation>
+        <translation>Czw</translation>
     </message>
     <message id="time_fr">
         <source>Fr</source>
-        <translation type="unfinished">Pt</translation>
+        <translation>Pt</translation>
     </message>
     <message id="time_sa">
         <source>Sa</source>
-        <translation type="unfinished">Sob</translation>
+        <translation>Sob</translation>
     </message>
     <message id="time_su">
         <source>Su</source>
-        <translation type="unfinished">Nd</translation>
+        <translation>Nd</translation>
     </message>
 </context>
 </TS>

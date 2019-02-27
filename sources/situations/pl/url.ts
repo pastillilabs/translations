@@ -5,7 +5,7 @@
     <name></name>
     <message id="url_name">
         <source>Open URL</source>
-        <translation type="unfinished">Otwórz adres URL</translation>
+        <translation>Otwórz adres URL</translation>
     </message>
 </context>
 </TS>

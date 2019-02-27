@@ -5,7 +5,7 @@
     <name></name>
     <message id="wlan_name">
         <source>Stan WiFi</source>
-        <translation type="unfinished">Stan WiFi</translation>
+        <translation>Stan WiFi</translation>
     </message>
 </context>
 </TS>

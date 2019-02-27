@@ -5,23 +5,23 @@
     <name></name>
     <message id="accessory_name">
         <source>Accessory</source>
-        <translation type="unfinished">Akcesorium</translation>
+        <translation>Akcesorium</translation>
     </message>
     <message id="accessory_audio">
         <source>Audio</source>
-        <translation type="unfinished">Audio</translation>
+        <translation>Audio</translation>
     </message>
     <message id="accessory_video">
         <source>Video</source>
-        <translation type="unfinished">Wideo</translation>
+        <translation>Wideo</translation>
     </message>
     <message id="accessory_carkit">
         <source>Car kit</source>
-        <translation type="unfinished">Zestaw samochodowy</translation>
+        <translation>Zestaw samochodowy</translation>
     </message>
     <message id="accessory_charger">
         <source>Charger</source>
-        <translation type="unfinished">Ładowarka</translation>
+        <translation>Ładowarka</translation>
     </message>
 </context>
 </TS>

@@ -5,15 +5,15 @@
     <name></name>
     <message id="situation_changed">
         <source>Current situation:</source>
-        <translation type="unfinished">Obecna sytacja:</translation>
+        <translation>Obecna sytacja:</translation>
     </message>
     <message id="situation_name_separator">
         <source>, </source>
-        <translation type="unfinished">, </translation>
+        <translation>, </translation>
     </message>
     <message id="situations_active_none">
         <source>None</source>
-        <translation type="unfinished">Brak</translation>
+        <translation>Brak</translation>
     </message>
 </context>
 </TS>

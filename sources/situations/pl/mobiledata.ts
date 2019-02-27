@@ -5,7 +5,7 @@
     <name></name>
     <message id="mobiledata_name">
         <source>Mobile Data</source>
-        <translation type="unfinished">Dane mobilne</translation>
+        <translation>Dane mobilne</translation>
     </message>
 </context>
 </TS>

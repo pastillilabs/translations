@@ -21,7 +21,7 @@ Due to the nature of the application and its extensibility it requires a high am
 This langauge version of the application is provided by ***PUT YOUR [NAME/HANDLE/CONTACT] INFO HERE***.
 Please note that as the application evolves, parts of it may not be translated at all times.
         </source>
-        <translation type="unfinished">
+        <translation>
 Każdego dnia dostosowujemy zachowanie swojego telefonu do różnych sytuacji. Czemu nie pozwolić Twojemu urządzeniu na:
 
 - Przełączanie się na tryb "Cisza" podczas spotkań
@@ -41,7 +41,7 @@ W związku z ciągłym rozwojem aplikacji, część funkcjonalności może być 
     </message>
     <message id="promo">
         <source>Put the smart on your smartphone!</source>
-        <translation type="unfinished">Put the smart on your smartphone!</translation>
+        <translation>Put the smart on your smartphone!</translation>
     </message>
 </context>
 </TS>

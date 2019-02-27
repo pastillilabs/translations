@@ -5,7 +5,7 @@
     <name></name>
     <message id="tethering_name">
         <source>Internet sharing</source>
-        <translation type="unfinished">Hotspot</translation>
+        <translation>Hotspot</translation>
     </message>
 </context>
 </TS>

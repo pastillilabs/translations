@@ -5,7 +5,7 @@
     <name></name>
     <message id="screenrotation_name">
         <source>Screen Rotation</source>
-        <translation type="unfinished">Obracanie ekranu</translation>
+        <translation>Obracanie ekranu</translation>
     </message>
 </context>
 </TS>

@@ -5,7 +5,7 @@
     <name></name>
     <message id="proximity_name">
         <source>Proximity Sensor</source>
-        <translation type="unfinished">Czujnik zbliżeniowy</translation>
+        <translation>Czujnik zbliżeniowy</translation>
     </message>
 </context>
 </TS>

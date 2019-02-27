@@ -5,27 +5,27 @@
     <name></name>
     <message id="calendar_name">
         <source>Calendar</source>
-        <translation type="unfinished">Kalendarz</translation>
+        <translation>Kalendarz</translation>
     </message>
     <message id="events">
         <source>Events</source>
-        <translation type="unfinished">Wydarzenia:</translation>
+        <translation>Wydarzenia:</translation>
     </message>
     <message id="events_no_allday">
         <source>No all-day</source>
-        <translation type="unfinished">Poza całodniowymi</translation>
+        <translation>Poza całodniowymi</translation>
     </message>
     <message id="events_alarmed">
         <source>Alarmed</source>
-        <translation type="unfinished">Z alarmem</translation>
+        <translation>Z alarmem</translation>
     </message>
     <message id="events_recurring">
         <source>Recurring</source>
-        <translation type="unfinished">Powtarzające się</translation>
+        <translation>Powtarzające się</translation>
     </message>
     <message id="events_all">
         <source>Any event</source>
-        <translation type="unfinished">Dowolne wydarzenie</translation>
+        <translation>Dowolne wydarzenie</translation>
     </message>
 </context>
 </TS>

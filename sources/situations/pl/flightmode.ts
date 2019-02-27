@@ -5,7 +5,7 @@
     <name></name>
     <message id="flightmode_name">
         <source>Airplane Mode</source>
-        <translation type="unfinished">Tryb samolotowy</translation>
+        <translation>Tryb samolotowy</translation>
     </message>
 </context>
 </TS>

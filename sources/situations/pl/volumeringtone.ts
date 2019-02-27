@@ -5,7 +5,7 @@
     <name></name>
     <message id="volumeringtone_name">
         <source>Ringtone Volume</source>
-        <translation type="unfinished">Głośność dzwonka</translation>
+        <translation>Głośność dzwonka</translation>
     </message>
 </context>
 </TS>

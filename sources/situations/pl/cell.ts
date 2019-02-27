@@ -5,34 +5,34 @@
     <name></name>
     <message id="cell_name">
         <source>Network Cells</source>
-        <translation type="unfinished">Sieć komórkowa</translation>
+        <translation>Sieć komórkowa</translation>
     </message>
     <message id="cell_area_name">
         <source>Area name</source>
-        <translation type="unfinished">Nazwa obszaru sieci komórkowej</translation>
+        <translation>Nazwa obszaru sieci komórkowej</translation>
     </message>
     <message id="cell_count" numerus="yes">
         <source>%n cell(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n nadajnik</numerusform>
             <numerusform>%n nadajników</numerusform>
         </translation>
     </message>
     <message id="cell_record">
         <source>Record</source>
-        <translation type="unfinished">Skanuj</translation>
+        <translation>Skanuj</translation>
     </message>
     <message id="cell_erase">
         <source>Erase</source>
-        <translation type="unfinished">Wyczyść</translation>
+        <translation>Wyczyść</translation>
     </message>
     <message id="cell_recording">
         <source>Recording</source>
-        <translation type="unfinished">Skanowanie</translation>
+        <translation>Skanowanie</translation>
     </message>
     <message id="cell_erasing">
         <source>Erasing</source>
-        <translation type="unfinished">Usuwanie</translation>
+        <translation>Usuwanie</translation>
     </message>
 </context>
 </TS>

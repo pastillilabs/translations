@@ -5,7 +5,7 @@
     <name></name>
     <message id="bluetooth_name">
         <source>Bluetooth State</source>
-        <translation type="unfinished">Status Bluetooth</translation>
+        <translation>Status Bluetooth</translation>
     </message>
 </context>
 </TS>

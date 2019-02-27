@@ -5,11 +5,11 @@
     <name></name>
     <message id="launch_name">
         <source>Launch</source>
-        <translation type="unfinished">Uruchom</translation>
+        <translation>Uruchom</translation>
     </message>
     <message id="launch_select_application">
         <source>Select application</source>
-        <translation type="unfinished">Wybierz aplikację</translation>
+        <translation>Wybierz aplikację</translation>
     </message>
 </context>
 </TS>

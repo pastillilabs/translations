@@ -5,11 +5,11 @@
     <name></name>
     <message id="brightness_name">
         <source>Display Brightness</source>
-        <translation type="unfinished">Jasność wyświetlacza</translation>
+        <translation>Jasność wyświetlacza</translation>
     </message>
     <message id="automatic">
         <source>Automatic</source>
-        <translation type="unfinished">Automatycznie</translation>
+        <translation>Automatycznie</translation>
     </message>
 </context>
 </TS>

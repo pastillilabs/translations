@@ -5,7 +5,7 @@
     <name></name>
     <message id="ringtone_name">
         <source>Ringtone</source>
-        <translation type="unfinished">Dzwonek</translation>
+        <translation>Dzwonek</translation>
     </message>
 </context>
 </TS>

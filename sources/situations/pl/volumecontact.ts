@@ -5,23 +5,23 @@
     <name></name>
     <message id="volumecontact_name">
         <source>Contact Volume</source>
-        <translation type="unfinished">Głośność dzwonka kontaktu</translation>
+        <translation>Głośność dzwonka kontaktu</translation>
     </message>
     <message id="volumecontact_select_contact">
         <source>Select contact</source>
-        <translation type="unfinished">Wybierz kontakt</translation>
+        <translation>Wybierz kontakt</translation>
     </message>
     <message id="volumecontact_silent">
         <source>Silent</source>
-        <translation type="unfinished">Cisza</translation>
+        <translation>Cisza</translation>
     </message>
     <message id="volumecontact_vibrate">
         <source>Vibrate</source>
-        <translation type="unfinished">Wibracje</translation>
+        <translation>Wibracje</translation>
     </message>
     <message id="volumecontact_ringing">
         <source>Ringing %1%</source>
-        <translation type="unfinished">Głośność %1%</translation>
+        <translation>Głośność %1%</translation>
     </message>
 </context>
 </TS>

@@ -5,7 +5,7 @@
     <name></name>
     <message id="current_name">
         <source>Situation</source>
-        <translation type="unfinished">Sytuacja</translation>
+        <translation>Sytuacja</translation>
     </message>
 </context>
 </TS>

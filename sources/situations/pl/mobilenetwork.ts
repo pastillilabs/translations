@@ -5,23 +5,23 @@
     <name></name>
     <message id="mobilenetwork_name">
         <source>Mobile Network</source>
-        <translation type="unfinished">Sieć komórkowa</translation>
+        <translation>Sieć komórkowa</translation>
     </message>
     <message id="mobilenetwork_dual">
         <source>Dual</source>
-        <translation type="unfinished">Dual</translation>
+        <translation>Dual</translation>
     </message>
     <message id="mobilenetwork_4g">
         <source>4G</source>
-        <translation type="unfinished">4G</translation>
+        <translation>4G</translation>
     </message>
     <message id="mobilenetwork_3g">
         <source>3G</source>
-        <translation type="unfinished">3G</translation>
+        <translation>3G</translation>
     </message>
     <message id="mobilenetwork_2g">
         <source>2G</source>
-        <translation type="unfinished">2G</translation>
+        <translation>2G</translation>
     </message>
 </context>
 </TS>

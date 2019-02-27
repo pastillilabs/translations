@@ -5,27 +5,27 @@
     <name></name>
     <message id="profile_name">
         <source>Profile</source>
-        <translation type="unfinished">Profil</translation>
+        <translation>Profil</translation>
     </message>
     <message id="profile_silent">
         <source>Silent</source>
-        <translation type="unfinished">Cisza</translation>
+        <translation>Cisza</translation>
     </message>
     <message id="profile_beep">
         <source>Beep</source>
-        <translation type="unfinished">Beep</translation>
+        <translation>Beep</translation>
     </message>
     <message id="profile_vibrate">
         <source>Vibrate</source>
-        <translation type="unfinished">Wibracje</translation>
+        <translation>Wibracje</translation>
     </message>
     <message id="profile_normal">
         <source>Normal</source>
-        <translation type="unfinished">Normalny</translation>
+        <translation>Normalny</translation>
     </message>
     <message id="profile_ringing">
         <source>Ringing %1%</source>
-        <translation type="unfinished">Dzwonek %1%</translation>
+        <translation>Dzwonek %1%</translation>
     </message>
 </context>
 </TS>

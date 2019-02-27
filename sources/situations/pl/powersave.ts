@@ -5,7 +5,7 @@
     <name></name>
     <message id="powersave_name">
         <source>Battery Saver</source>
-        <translation type="unfinished">Oszczędzanie energii</translation>
+        <translation>Oszczędzanie energii</translation>
     </message>
 </context>
 </TS>

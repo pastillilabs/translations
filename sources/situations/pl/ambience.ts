@@ -5,7 +5,7 @@
     <name></name>
     <message id="ambience_name">
         <source>Ambience</source>
-        <translation type="unfinished">Nastrój</translation>
+        <translation>Atmosfera</translation>
     </message>
 </context>
 </TS>

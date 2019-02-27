@@ -5,39 +5,39 @@
     <name></name>
     <message id="wlanscanpro_name">
         <source>WiFi Networks</source>
-        <translation type="unfinished">Sieci WiFi</translation>
+        <translation>Sieci WiFi</translation>
     </message>
     <message id="wlanscanpro_search">
         <source>Search for networks</source>
-        <translation type="unfinished">Skanuj w poszukiwaniu sieci WiFi</translation>
+        <translation>Skanuj w poszukiwaniu sieci WiFi</translation>
     </message>
     <message id="wlanscanpro_connection_name">
         <source>Network name</source>
-        <translation type="unfinished">Nazwa sieci WiFi</translation>
+        <translation>Nazwa sieci WiFi</translation>
     </message>
     <message id="wlanscanpro_connection_address">
         <source>Access point address</source>
-        <translation type="unfinished">Adres punktu dostępu</translation>
+        <translation>Adres punktu dostępu</translation>
     </message>
     <message id="wlanscanpro_connections">
         <source>Networks</source>
-        <translation type="unfinished">Znalezione sieci WiFi</translation>
+        <translation>Znalezione sieci WiFi</translation>
     </message>
     <message id="wlanscanpro_no_connections">
         <source>No networks</source>
-        <translation type="unfinished">Brak sieci WiFi</translation>
+        <translation>Brak sieci WiFi</translation>
     </message>
     <message id="wlanscanpro_turn_on_wlan">
         <source>Turn on WiFi</source>
-        <translation type="unfinished">Włącz WiFi</translation>
+        <translation>Włącz WiFi</translation>
     </message>
     <message id="wlanscanpro_interval">
         <source>Scan interval</source>
-        <translation type="unfinished">Interwał skanowania</translation>
+        <translation>Interwał skanowania</translation>
     </message>
     <message id="wlanscanpro_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n minuta</numerusform>
             <numerusform>%n minut</numerusform>
         </translation>
@@ -45,27 +45,27 @@
     <message id="wlanscan_scan_always">
         <source>Scan always
 (also when WiFi is off)</source>
-        <translation type="unfinished">Zawsze skanuj w poszukiwaniu sieci WiFi (nawet, gdy WiFi jest wyłączone)</translation>
+        <translation>Zawsze skanuj w poszukiwaniu sieci WiFi (nawet, gdy WiFi jest wyłączone)</translation>
     </message>
     <message id="wlanscanpro_method">
         <source>Method</source>
-        <translation type="unfinished">Metoda</translation>
+        <translation>Metoda</translation>
     </message>
     <message id="wlanscanpro_method_scanning">
         <source>Scan networks</source>
-        <translation type="unfinished">Skanuj w poszukiwaniu sieci</translation>
+        <translation>Skanuj w poszukiwaniu sieci</translation>
     </message>
     <message id="wlanscanpro_method_active">
         <source>Active connection</source>
-        <translation type="unfinished">Aktywne połączenia</translation>
+        <translation>Aktywne połączenia</translation>
     </message>
     <message id="wlanscanpro_method_any">
         <source>Any connection</source>
-        <translation type="unfinished">Dowolne połączenie</translation>
+        <translation>Dowolne połączenie</translation>
     </message>
     <message id="wlanscanpro_network">
         <source>Network</source>
-        <translation type="unfinished">Sieć WiFi</translation>
+        <translation>Sieć WiFi</translation>
     </message>
 </context>
 </TS>

@@ -5,27 +5,27 @@
     <name></name>
     <message id="nfc_name">
         <source>NFC tag</source>
-        <translation type="unfinished">Tag NFC</translation>
+        <translation>Tag NFC</translation>
     </message>
     <message id="nfc_virtual">
         <source>Virtual tag</source>
-        <translation type="unfinished">Tag wirtualny</translation>
+        <translation>Tag wirtualny</translation>
     </message>
     <message id="nfc_no_tag">
         <source>Read NFC tag</source>
-        <translation type="unfinished">Odczytaj tag NFC</translation>
+        <translation>Odczytaj tag NFC</translation>
     </message>
     <message id="nfc_tag_name">
         <source>Name the tag</source>
-        <translation type="unfinished">Nazwij tag</translation>
+        <translation>Nazwij tag</translation>
     </message>
     <message id="nfc_power_title">
         <source>NFC not enabled</source>
-        <translation type="unfinished">Usługa NFC jest wyłączona</translation>
+        <translation>Usługa NFC jest wyłączona</translation>
     </message>
     <message id="nfc_power_description">
         <source>To use NFC it must be enabled in device settings.</source>
-        <translation type="unfinished">Aby użyć NFC należy włączyć je w ustawieniach.</translation>
+        <translation>Aby użyć NFC należy włączyć je w ustawieniach.</translation>
     </message>
 </context>
 </TS>

@@ -5,7 +5,7 @@
     <name></name>
     <message id="volumemedia_name">
         <source>Media Volume</source>
-        <translation type="unfinished">Głośność multimedió</translation>
+        <translation>Głośność multimedió</translation>
     </message>
 </context>
 </TS>

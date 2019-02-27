@@ -5,35 +5,35 @@
     <name></name>
     <message id="activity_name">
         <source>Activity</source>
-        <translation type="unfinished">Aktywność</translation>
+        <translation>Aktywność</translation>
     </message>
     <message id="activity_invehicle">
         <source>In a vehicle</source>
-        <translation type="unfinished">W samochodzie</translation>
+        <translation>W samochodzie</translation>
     </message>
     <message id="activity_onbicycle">
         <source>On a bicycle</source>
-        <translation type="unfinished">Na rowerze</translation>
+        <translation>Na rowerze</translation>
     </message>
     <message id="activity_still">
         <source>Still</source>
-        <translation type="unfinished">Zawsze</translation>
+        <translation>Zawsze</translation>
     </message>
     <message id="activity_walking">
         <source>Walking</source>
-        <translation type="unfinished">Spacer</translation>
+        <translation>Spacer</translation>
     </message>
     <message id="activity_running">
         <source>Running</source>
-        <translation type="unfinished">Bieganie</translation>
+        <translation>Bieganie</translation>
     </message>
     <message id="activity_confidence">
         <source>Confidence: %1%</source>
-        <translation type="unfinished">Zaufanie: %1%</translation>
+        <translation>Zaufanie: %1%</translation>
     </message>
     <message id="activity_interval">
         <source>Interval: %1 s</source>
-        <translation type="unfinished">Interwał: %1 s</translation>
+        <translation>Interwał: %1 s</translation>
     </message>
 </context>
 </TS>

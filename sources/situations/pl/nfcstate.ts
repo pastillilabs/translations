@@ -5,7 +5,7 @@
     <name></name>
     <message id="nfcstate_name">
         <source>NFC</source>
-        <translation type="unfinished">NFC</translation>
+        <translation>NFC</translation>
     </message>
 </context>
 </TS>

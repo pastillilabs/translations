@@ -5,7 +5,7 @@
     <name></name>
     <message id="gps_name">
         <source>GPS</source>
-        <translation type="unfinished">GPS</translation>
+        <translation>GPS</translation>
     </message>
 </context>
 </TS>

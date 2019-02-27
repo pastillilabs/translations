@@ -5,7 +5,7 @@
     <name></name>
     <message id="wallpaper_name">
         <source>Wallpaper</source>
-        <translation type="unfinished">Tapeta</translation>
+        <translation>Tapeta</translation>
     </message>
 </context>
 </TS>

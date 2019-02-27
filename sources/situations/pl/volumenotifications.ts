@@ -5,7 +5,7 @@
     <name></name>
     <message id="volumenotifications_name">
         <source>Notification Volume</source>
-        <translation type="unfinished">Głośność powiadomień</translation>
+        <translation>Głośność powiadomień</translation>
     </message>
 </context>
 </TS>

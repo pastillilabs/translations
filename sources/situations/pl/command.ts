@@ -5,7 +5,7 @@
     <name></name>
     <message id="command_name">
         <source>Command</source>
-        <translation type="unfinished">Polecenie</translation>
+        <translation>Polecenie</translation>
     </message>
 </context>
 </TS>
