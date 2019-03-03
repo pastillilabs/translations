@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="it">
+<TS version="2.1" language="it">
 <context>
     <name></name>
     <message id="plugins_title_index">
@@ -17,7 +17,7 @@
     </message>
     <message id="ambience_description_index">
         <source>Ambience setting</source>
-        <translation>Selettore atmosfera</translation>
+        <translation>Impostazioni atmosfera</translation>
     </message>
     <message id="calendarpro_title_index">
         <source>Calendar Pro</source>
@@ -33,7 +33,7 @@
     </message>
     <message id="flightmode_description_index">
         <source>Airplane mode setting</source>
-        <translation>Toggle per la modalità aereo</translation>
+        <translation>Impostazioni per la modalità aereo</translation>
     </message>
     <message id="location_title_index">
         <source>Location</source>
@@ -49,7 +49,7 @@
     </message>
     <message id="mobiledata_description_index">
         <source>Mobile data setting</source>
-        <translation>Toggle per rete dati</translation>
+        <translation>Impostazioni per rete dati</translation>
     </message>
     <message id="mobilenetwork_title_index">
         <source>Mobile Network</source>
@@ -57,7 +57,7 @@
     </message>
     <message id="mobilenetwork_description_index">
         <source>Mobile network setting</source>
-        <translation>Toggle per la modalità di rete</translation>
+        <translation>Impostazioni per la modalità di rete</translation>
     </message>
     <message id="screentimeout_title_index">
         <source>Screen Timeout</source>
@@ -73,7 +73,7 @@
     </message>
     <message id="screenrotation_description_index">
         <source>Screen auto rotation setting</source>
-        <translation>Toggle per attivare/disattivare la rotazione automatica dello schermo</translation>
+        <translation>Impostazioni per la rotazione automatica dello schermo</translation>
     </message>
     <message id="smsreply_title_index">
         <source>SMS Reply</source>
@@ -97,7 +97,7 @@
     </message>
     <message id="sync_description_index">
         <source>Account synchronization setting</source>
-        <translation>Toggle per sincronizzazione</translation>
+        <translation>Impostazioni per sincronizzazione account</translation>
     </message>
     <message id="volumemedia_title_index">
         <source>Media Volume</source>
@@ -153,7 +153,7 @@
     </message>
     <message id="ringtone_description_index">
         <source>Ringtone setting</source>
-        <translation>Seleziona suoneria</translation>
+        <translation>Impostazioni suoneria</translation>
     </message>
     <message id="wlanscanpro_title_index">
         <source>WiFi Pro</source>
@@ -201,7 +201,7 @@
     </message>
     <message id="tethering_description_index">
         <source>Internet sharing (hotspot) setting</source>
-        <translation>Toggle condivisione internet (hotspot)</translation>
+        <translation>Impostazioni condivisione internet (hotspot)</translation>
     </message>
     <message id="volumecontact_title_index">
         <source>Contact Volume</source>
@@ -221,59 +221,59 @@
     </message>
     <message id="watchface_title_index">
         <source>Watchface</source>
-        <translation type="unfinished">Watchface</translation>
+        <translation>Watchface</translation>
     </message>
     <message id="watchface_description_index">
         <source>Change watchface on your smartwatch. Compatible with Rockpool app.</source>
-        <translation type="unfinished">Change watchface on your smartwatch. Compatible with Rockpool app.</translation>
+        <translation>Cambia la watchface del tuo smartwatch. Compatibile con l&apos;app Rockpool.</translation>
     </message>
     <message id="gps_title_index">
         <source>GPS</source>
-        <translation type="unfinished">GPS</translation>
+        <translation>GPS</translation>
     </message>
     <message id="gps_description_index">
         <source>GPS setting</source>
-        <translation type="unfinished">GPS setting</translation>
+        <translation>Impostazioni GPS</translation>
     </message>
     <message id="activity_title_index">
         <source>Activity</source>
-        <translation type="unfinished">Activity</translation>
+        <translation>Attività</translation>
     </message>
     <message id="activity_description_index">
         <source>Change situation based on current activity (like walking, cycling or driving).</source>
-        <translation type="unfinished">Change situation based on current activity (like walking, cycling or driving).</translation>
+        <translation>Cambia situazione in base all&apos;attività corrente (camminata, bici, auto).</translation>
     </message>
     <message id="proximity_title_index">
         <source>Proximity Sensor</source>
-        <translation type="unfinished">Proximity Sensor</translation>
+        <translation>Sensore di prossimità</translation>
     </message>
     <message id="proximity_description_index">
         <source>Detect objects being close to the device</source>
-        <translation type="unfinished">Detect objects being close to the device</translation>
+        <translation>Rileva oggetti vicini al dispositivo</translation>
     </message>
     <message id="nfcstate_title_index">
         <source>NFC</source>
-        <translation type="unfinished">NFC</translation>
+        <translation>NFC</translation>
     </message>
     <message id="nfcstate_description_index">
         <source>NFC setting</source>
-        <translation type="unfinished">NFC setting</translation>
+        <translation>Impostazioni NFC</translation>
     </message>
     <message id="powersave_title_index">
         <source>Battery Saver</source>
-        <translation type="unfinished">Battery Saver</translation>
+        <translation>Risparmio batteria</translation>
     </message>
     <message id="powersave_description_index">
         <source>Battery Saver setting</source>
-        <translation type="unfinished">Battery Saver setting</translation>
+        <translation>Impostazioni risparmio batteria</translation>
     </message>
     <message id="donotdisturb_title_index">
         <source>Do Not Disturb</source>
-        <translation type="unfinished">Do Not Disturb</translation>
+        <translation>Non disturbare</translation>
     </message>
     <message id="donotdisturb_description_index">
         <source>Do Not Disturb setting</source>
-        <translation type="unfinished">Do Not Disturb setting</translation>
+        <translation>Impostazioni Non disturbare</translation>
     </message>
 </context>
 </TS>

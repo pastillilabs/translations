@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="it">
+<TS version="2.1" language="it">
 <context>
     <name></name>
     <message id="wlanscanpro_name">
         <source>WiFi Networks</source>
-        <translation type="unfinished">WiFi Networks</translation>
+        <translation>Reti WiFi</translation>
     </message>
     <message id="wlanscanpro_search">
         <source>Search for networks</source>
@@ -50,23 +50,23 @@
     </message>
     <message id="wlanscanpro_method">
         <source>Method</source>
-        <translation type="unfinished">Method</translation>
+        <translation>Metodo</translation>
     </message>
     <message id="wlanscanpro_method_scanning">
         <source>Scan networks</source>
-        <translation type="unfinished">Scan networks</translation>
+        <translation>Cerca connessioni</translation>
     </message>
     <message id="wlanscanpro_method_active">
         <source>Active connection</source>
-        <translation type="unfinished">Active connection</translation>
+        <translation>Connessione attiva</translation>
     </message>
     <message id="wlanscanpro_method_any">
         <source>Any connection</source>
-        <translation type="unfinished">Any connection</translation>
+        <translation>Qualsiasi connessione</translation>
     </message>
     <message id="wlanscanpro_network">
         <source>Network</source>
-        <translation type="unfinished">Network</translation>
+        <translation>Rete</translation>
     </message>
 </context>
 </TS>
