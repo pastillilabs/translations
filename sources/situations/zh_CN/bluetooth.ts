@@ -5,7 +5,7 @@
     <name></name>
     <message id="bluetooth_name">
         <source>Bluetooth State</source>
-        <translation>À¶ÑÀ×´Ì¬</translation>
+        <translation>蓝牙状态</translation>
     </message>
 </context>
 </TS>
