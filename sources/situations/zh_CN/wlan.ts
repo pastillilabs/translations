@@ -8,3 +8,4 @@
         <translation>WiFi ״̬</translation>
     </message>
 </context>
+</TS>

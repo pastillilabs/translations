@@ -5,7 +5,7 @@
     <name></name>
     <message id="screenrotation_name">
         <source>Screen Rotation</source>
-        <translation>��Ļ��ת</translation>
+        <translation>ÆÁÄ»Ðý×ª</translation>
     </message>
 </context>
 </TS>

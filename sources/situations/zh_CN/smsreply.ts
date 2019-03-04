@@ -5,21 +5,21 @@
     <name></name>
     <message id="smsreply_name">
         <source>SMS Reply</source>
-        <translation>¶ÌĞÅ»Ø¸´</translation>
+        <translation>çŸ­ä¿¡å›å¤</translation>
     </message>
     <message id="smsreply_default_answer">
         <source>Sorry, cannot answer right now.
 
 Sent using Situations-application</source>
-        <translation>±§Ç¸£¬Ä¿Ç°ÔİÊ±ÎŞ·¨»Ø¸´£¬Ê¹ÓÃ Situations Ó¦ÓÃ³ÌĞò·¢ËÍ</translation>
+        <translation>æŠ±æ­‰ï¼Œç›®å‰æš‚æ—¶æ— æ³•å›å¤ï¼Œä½¿ç”¨ Situations åº”ç”¨ç¨‹åºå‘é€</translation>
     </message>
     <message id="smsreply_sms_also">
         <source>Reply to SMS messages also</source>
-        <translation>»Ø¸´¶ÌĞÅ</translation>
+        <translation>å›å¤çŸ­ä¿¡</translation>
     </message>
     <message id="smsreply_only_contacts">
         <source>Only to contacts</source>
-        <translation>½ö·¢ËÍ¸øÁªÏµÈË</translation>
+        <translation>ä»…å‘é€ç»™è”ç³»äºº</translation>
     </message>
 </context>
 </TS>

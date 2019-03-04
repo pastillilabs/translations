@@ -5,27 +5,27 @@
     <name></name>
     <message id="calendar_name">
         <source>Calendar</source>
-        <translation>日历</translation>
+        <translation>鏃ュ巻</translation>
     </message>
     <message id="events">
         <source>Events</source>
-        <translation>事件</translation>
+        <translation>浜嬩欢</translation>
     </message>
     <message id="events_no_allday">
         <source>No all-day</source>
-        <translation>并非每天</translation>
+        <translation>骞堕潪姣忓ぉ</translation>
     </message>
     <message id="events_alarmed">
         <source>Alarmed</source>
-        <translation>提醒</translation>
+        <translation>鎻愰啋</translation>
     </message>
     <message id="events_recurring">
         <source>Recurring</source>
-        <translation>循环</translation>
+        <translation>寰幆</translation>
     </message>
     <message id="events_all">
         <source>Any event</source>
-        <translation>任何事件</translation>
+        <translation>浠讳綍浜嬩欢</translation>
     </message>
 </context>
 </TS>

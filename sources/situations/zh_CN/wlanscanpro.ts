@@ -5,15 +5,15 @@
     <name></name>
     <message id="wlanscanpro_name">
         <source>WiFi Networks</source>
-        <translation>WiFi ÍøÂç</translation>
+        <translation>WiFi ç½‘ç»œ</translation>
     </message>
     <message id="wlanscanpro_search">
         <source>Search for networks</source>
-        <translation>ËÑË÷ÍøÂç</translation>
+        <translation>æœç´¢ç½‘ç»œ</translation>
     </message>
     <message id="wlanscanpro_connection_name">
         <source>Network name</source>
-        <translation>ÍøÂçÃû³Æ</translation>
+        <translation>ç½‘ç»œåç§°</translation>
     </message>
     <message id="wlanscanpro_connection_address">
         <source>Access point address</source>
@@ -21,19 +21,19 @@
     </message>
     <message id="wlanscanpro_connections">
         <source>Networks</source>
-        <translation>ÍøÂç½ÓÈëµãµØÖ·</translation>
+        <translation>ç½‘ç»œæ¥å…¥ç‚¹åœ°å€</translation>
     </message>
     <message id="wlanscanpro_no_connections">
         <source>No networks</source>
-        <translation>ÎŞÍøÂç</translation>
+        <translation>æ— ç½‘ç»œ</translation>
     </message>
     <message id="wlanscanpro_turn_on_wlan">
         <source>Turn on WiFi</source>
-        <translation>¿ªÆô WiFi</translation>
+        <translation>å¼€å¯ WiFi</translation>
     </message>
     <message id="wlanscanpro_interval">
         <source>Scan interval</source>
-        <translation>É¨Ãè¼ä¸ô</translation>
+        <translation>æ‰«æé—´éš”</translation>
     </message>
     <message id="wlanscanpro_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
@@ -45,28 +45,28 @@
     <message id="wlanscan_scan_always">
         <source>Scan always
 (also when WiFi is off</source>
-        <translation>×ÜÊÇÉ¨Ãè
-(¼´Ê¹ WiFi ¹Ø±Õ)</translation>
+        <translation>æ€»æ˜¯æ‰«æ
+(å³ä½¿ WiFi å…³é—­)</translation>
     </message>
     <message id="wlanscanpro_method">
         <source>Method</source>
-        <translation>·½Ê½</translation>
+        <translation>æ–¹å¼</translation>
     </message>
     <message id="wlanscanpro_method_scanning">
         <source>Scan networks</source>
-        <translation>É¨ÃèÍøÂç</translation>
+        <translation>æ‰«æç½‘ç»œ</translation>
     </message>
     <message id="wlanscanpro_method_active">
         <source>Active connection</source>
-        <translation>»î¶¯Á¬½Ó</translation>
+        <translation>æ´»åŠ¨è¿æ¥</translation>
     </message>
     <message id="wlanscanpro_method_any">
         <source>Any connection</source>
-        <translation>ÈÎÒâÁ¬½Ó</translation>
+        <translation>ä»»æ„è¿æ¥</translation>
     </message>
     <message id="wlanscanpro_network">
         <source>Network</source>
-        <translation>ÍøÂç</translation>
+        <translation>ç½‘ç»œ</translation>
     </message>
 </context>
 </TS>

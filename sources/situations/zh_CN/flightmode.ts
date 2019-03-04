@@ -5,7 +5,7 @@
     <name></name>
     <message id="flightmode_name">
         <source>Airplane Mode</source>
-        <translation>����ģʽ</translation>
+        <translation>и╔лл─Б╩й</translation>
     </message>
 </context>
 </TS>

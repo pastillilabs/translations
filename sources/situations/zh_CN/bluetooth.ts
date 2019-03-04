@@ -5,6 +5,7 @@
     <name></name>
     <message id="bluetooth_name">
         <source>Bluetooth State</source>
-        <translation>����״̬</translation>
+        <translation>À¶ÑÀ×´Ì¬</translation>
     </message>
 </context>
+</TS>

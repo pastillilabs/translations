@@ -5,15 +5,15 @@
     <name></name>
     <message id="close_name">
         <source>Close</source>
-        <translation>关闭</translation>
+        <translation>鍏抽棴</translation>
     </message>
     <message id="close_all">
         <source>All open applications</source>
-        <translation>关闭全部应用程序</translation>
+        <translation>鍏抽棴鍏ㄩ儴搴旂敤绋嬪簭</translation>
     </message>
     <message id="close_select_application">
         <source>Select application</source>
-        <translation>选择应用程序</translation>
+        <translation>閫夋嫨搴旂敤绋嬪簭</translation>
     </message>
 </context>
 </TS>

@@ -5,7 +5,7 @@
     <name></name>
     <message id="plugins_title_index">
         <source>Get all plugins!!</source>
-        <translation>»ñÈ¡ËùÓĞ²å¼ş!</translation>
+        <translation>è·å–æ‰€æœ‰æ’ä»¶!</translation>
     </message>
     <message id="plugins_description_index">
         <source>***</source>
@@ -13,11 +13,11 @@
     </message>
     <message id="ambience_title_index">
         <source>Ambience</source>
-        <translation>·ÕÎ§</translation>
+        <translation>æ°›å›´</translation>
     </message>
     <message id="ambience_description_index">
         <source>Ambience setting</source>
-        <translation>·ÕÎ§ÉèÖÃ</translation>
+        <translation>æ°›å›´è®¾ç½®</translation>
     </message>
     <message id="calendarpro_title_index">
         <source>Calendar Pro</source>
@@ -25,119 +25,119 @@
     </message>
     <message id="calendarpro_description_index">
         <source>Extends the Calendar condition with keyword search and calendar selection</source>
-        <translation>Ê¹ÓÃÊäÈë·¨ËÑË÷ºÍÈÕÀúÑ¡ÔñÀ©Õ¹ÈÕÆÚ·¶Î§</translation>
+        <translation>ä½¿ç”¨è¾“å…¥æ³•æœç´¢å’Œæ—¥å†é€‰æ‹©æ‰©å±•æ—¥æœŸèŒƒå›´</translation>
     </message>
     <message id="flightmode_title_index">
         <source>Airplane Mode</source>
-        <translation>·ÉĞĞÄ£Ê½</translation>
+        <translation>é£è¡Œæ¨¡å¼</translation>
     </message>
     <message id="flightmode_description_index">
         <source>Airplane mode setting</source>
-        <translation>·ÉĞĞÄ£Ê½ÉèÖÃ</translation>
+        <translation>é£è¡Œæ¨¡å¼è®¾ç½®</translation>
     </message>
     <message id="location_title_index">
         <source>Location</source>
-        <translation>Î»ÖÃ</translation>
+        <translation>ä½ç½®</translation>
     </message>
     <message id="location_description_index">
         <source>Location condition using the best available positioning method</source>
-        <translation>Î»ÖÃÌõ¼şÊ¹ÓÃ×î¼Ñ¿ÉÓÃ¶¨Î»·½·¨</translation>
+        <translation>ä½ç½®æ¡ä»¶ä½¿ç”¨æœ€ä½³å¯ç”¨å®šä½æ–¹æ³•</translation>
     </message>
     <message id="mobiledata_title_index">
         <source>Mobile Data</source>
-        <translation>ÒÆ¶¯Êı¾İÍøÂçÁ¬½Ó</translation>
+        <translation>ç§»åŠ¨æ•°æ®ç½‘ç»œè¿æ¥</translation>
     </message>
     <message id="mobiledata_description_index">
         <source>Mobile data setting</source>
-        <translation>ÒÆ¶¯Êı¾İÍøÂçÁ¬½ÓÉèÖÃ</translation>
+        <translation>ç§»åŠ¨æ•°æ®ç½‘ç»œè¿æ¥è®¾ç½®</translation>
     </message>
     <message id="mobilenetwork_title_index">
         <source>Mobile Network</source>
-        <translation>ÒÆ¶¯ÍøÂç</translation>
+        <translation>ç§»åŠ¨ç½‘ç»œ</translation>
     </message>
     <message id="mobilenetwork_description_index">
         <source>Mobile network setting</source>
-        <translation>ÒÆ¶¯ÍøÂçÁ¬½ÓÉèÖÃ</translation>
+        <translation>ç§»åŠ¨ç½‘ç»œè¿æ¥è®¾ç½®</translation>
     </message>
     <message id="screentimeout_title_index">
         <source>Screen Timeout</source>
-        <translation>Ï¨ÆÁÊ±¼ä</translation>
+        <translation>ç†„å±æ—¶é—´</translation>
     </message>
     <message id="screentimeout_description_index">
         <source>Screen timeout setting</source>
-        <translation>Ï¨ÆÁÊ±¼äÉèÖÃ</translation>
+        <translation>ç†„å±æ—¶é—´è®¾ç½®</translation>
     </message>
     <message id="screenrotation_title_index">
         <source>Screen Rotation</source>
-        <translation>ÆÁÄ»Ğı×ª</translation>
+        <translation>å±å¹•æ—‹è½¬</translation>
     </message>
     <message id="screenrotation_description_index">
         <source>Screen auto rotation setting</source>
-        <translation>ÆÁÄ»×Ô¶¯Ğı×ªÉèÖÃ</translation>
+        <translation>å±å¹•è‡ªåŠ¨æ—‹è½¬è®¾ç½®</translation>
     </message>
     <message id="smsreply_title_index">
         <source>SMS Reply</source>
-        <translation>¶ÌĞÅ»Ø¸´</translation>
+        <translation>çŸ­ä¿¡å›å¤</translation>
     </message>
     <message id="smsreply_description_index">
         <source>Reply missed calls with SMS</source>
-        <translation>Ê¹ÓÃ¶ÌĞÅ»Ø¸´Î´½Óµç»°</translation>
+        <translation>ä½¿ç”¨çŸ­ä¿¡å›å¤æœªæ¥ç”µè¯</translation>
     </message>
     <message id="smssend_title_index">
         <source>Send SMS</source>
-        <translation>·¢ËÍ¶ÌĞÅ</translation>
+        <translation>å‘é€çŸ­ä¿¡</translation>
     </message>
     <message id="smssend_description_index">
         <source>Sends SMS message to selected contact</source>
-        <translation>·¢ËÍ¶ÌĞÅµ½Ñ¡ÔñµÄÁªÏµÈË</translation>
+        <translation>å‘é€çŸ­ä¿¡åˆ°é€‰æ‹©çš„è”ç³»äºº</translation>
     </message>
     <message id="sync_title_index">
         <source>Sync</source>
-        <translation>Í¬²½</translation>
+        <translation>åŒæ­¥</translation>
     </message>
     <message id="sync_description_index">
         <source>Account synchronization setting</source>
-        <translation>ÕË»§Í¬²½ÉèÖÃ</translation>
+        <translation>è´¦æˆ·åŒæ­¥è®¾ç½®</translation>
     </message>
     <message id="volumemedia_title_index">
         <source>Media Volume</source>
-        <translation>Ã½ÌåÒôÁ¿</translation>
+        <translation>åª’ä½“éŸ³é‡</translation>
     </message>
     <message id="volumemedia_description_index">
         <source>Media volume setting</source>
-        <translation>Ã½ÌåÒôÁ¿ÉèÖÃ</translation>
+        <translation>åª’ä½“éŸ³é‡è®¾ç½®</translation>
     </message>
     <message id="volumenotifications_title_index">
         <source>Notifications Volume</source>
-        <translation>Í¨ÖªÒôÁ¿</translation>
+        <translation>é€šçŸ¥éŸ³é‡</translation>
     </message>
     <message id="volumenotifications_description_index">
         <source>Notifications volume setting</source>
-        <translation>Í¨ÖªÒôÁ¿ÉèÖÃ</translation>
+        <translation>é€šçŸ¥éŸ³é‡è®¾ç½®</translation>
     </message>
     <message id="volumeringtone_title_index">
         <source>Ringtone Volume</source>
-        <translation>ÁåÉùÒôÁ¿</translation>
+        <translation>é“ƒå£°éŸ³é‡</translation>
     </message>
     <message id="volumeringtone_description_index">
         <source>Ringtone volume setting</source>
-        <translation>ÁåÉùÒôÁ¿ÉèÖÃ</translation>
+        <translation>é“ƒå£°éŸ³é‡è®¾ç½®</translation>
     </message>
     <message id="nfc_title_index">
         <source>NFC Tag</source>
-        <translation>NFC ±êÇ©</translation>
+        <translation>NFC æ ‡ç­¾</translation>
     </message>
     <message id="nfc_description_index">
         <source>Use NFC tags to toggle situations</source>
-        <translation>Ê¹ÓÃ NFC ±êÇ©ÇĞ»»×´Ì¬</translation>
+        <translation>ä½¿ç”¨ NFC æ ‡ç­¾åˆ‡æ¢çŠ¶æ€</translation>
     </message>
     <message id="command_title_index">
         <source>Command</source>
-        <translation>ÃüÁî</translation>
+        <translation>å‘½ä»¤</translation>
     </message>
     <message id="command_description_index">
         <source>Run any custom command</source>
-        <translation>ÔËĞĞÈÎÒâ×Ô¶¨ÒåÃüÁî</translation>
+        <translation>è¿è¡Œä»»æ„è‡ªå®šä¹‰å‘½ä»¤</translation>
     </message>
     <message id="btscanpro_title_index">
         <source>Bluetooth Pro</source>
@@ -145,15 +145,15 @@
     </message>
     <message id="btscanpro_description_index">
         <source>Extends the Bluetooth condition with address based search and scan interval selection</source>
-        <translation>Í¨¹ı»ùÓÚµØÖ·µÄËÑË÷ºÍÉ¨Ãè¼ä¸ôÑ¡ÔñÀ©Õ¹À¶ÑÀÌõ¼ş</translation>
+        <translation>é€šè¿‡åŸºäºåœ°å€çš„æœç´¢å’Œæ‰«æé—´éš”é€‰æ‹©æ‰©å±•è“ç‰™æ¡ä»¶</translation>
     </message>
     <message id="ringtone_title_index">
         <source>Ringtone</source>
-        <translation>ÁåÉù</translation>
+        <translation>é“ƒå£°</translation>
     </message>
     <message id="ringtone_description_index">
         <source>Ringtone setting</source>
-        <translation>ÁåÉùÉèÖÃ</translation>
+        <translation>é“ƒå£°è®¾ç½®</translation>
     </message>
     <message id="wlanscanpro_title_index">
         <source>WiFi Pro</source>
@@ -161,71 +161,71 @@
     </message>
     <message id="wlanscanpro_description_index">
         <source>Extends the WiFi condition with address based search and scan interval selection</source>
-        <translation>Í¨¹ı»ùÓÚµØÖ·µÄËÑË÷ºÍÉ¨Ãè¼ä¸ôÑ¡ÔñÀ©Õ¹ WiFi Ìõ¼ş</translation>
+        <translation>é€šè¿‡åŸºäºåœ°å€çš„æœç´¢å’Œæ‰«æé—´éš”é€‰æ‹©æ‰©å±• WiFi æ¡ä»¶</translation>
     </message>
     <message id="display_title_index">
         <source>Display</source>
-        <translation>ÏÔÊ¾</translation>
+        <translation>æ˜¾ç¤º</translation>
     </message>
     <message id="display_description_index">
         <source>Display on/off state</source>
-        <translation>ÏÔÊ¾¿ªÆô/¹Ø±Õ×´Ì¬</translation>
+        <translation>æ˜¾ç¤ºå¼€å¯/å…³é—­çŠ¶æ€</translation>
     </message>
     <message id="volumealarm_title_index">
         <source>Alarm Volume</source>
-        <translation>Í¨ÖªÒôÁ¿</translation>
+        <translation>é€šçŸ¥éŸ³é‡</translation>
     </message>
     <message id="volumealarm_description_index">
         <source>Alarm volume setting</source>
-        <translation>Í¨ÖªÒôÁ¿ÉèÖÃ</translation>
+        <translation>é€šçŸ¥éŸ³é‡è®¾ç½®</translation>
     </message>
     <message id="vibration_title_index">
         <source>Vibration</source>
-        <translation>Õğ¶¯</translation>
+        <translation>éœ‡åŠ¨</translation>
     </message>
     <message id="vibration_description_index">
         <source>Vibration setting</source>
-        <translation>Õğ¶¯ÉèÖÃ</translation>
+        <translation>éœ‡åŠ¨è®¾ç½®</translation>
     </message>
     <message id="logging_title_index">
         <source>Log</source>
-        <translation>ÈÕÖ¾</translation>
+        <translation>æ—¥å¿—</translation>
     </message>
     <message id="logging_description_index">
         <source>Keep log of situation changes</source>
-        <translation>¼ÇÂ¼×´Ì¬¸ü¸ÄÈÕÖ¾</translation>
+        <translation>è®°å½•çŠ¶æ€æ›´æ”¹æ—¥å¿—</translation>
     </message>
     <message id="tethering_title_index">
         <source>Internet Sharing</source>
-        <translation>ÍøÂç·ÖÏí</translation>
+        <translation>ç½‘ç»œåˆ†äº«</translation>
     </message>
     <message id="tethering_description_index">
         <source>Internet sharing (hotspot) setting</source>
-        <translation>IÍøÂç·ÖÏí (ÈÈµã) ÉèÖÃ</translation>
+        <translation>Iç½‘ç»œåˆ†äº« (çƒ­ç‚¹) è®¾ç½®</translation>
     </message>
     <message id="volumecontact_title_index">
         <source>Contact Volume</source>
-        <translation>ÁªÏµÈËÒôÁ¿</translation>
+        <translation>è”ç³»äººéŸ³é‡</translation>
     </message>
     <message id="volumecontact_description_index">
         <source>Contact specific volume for incoming calls and SMS</source>
-        <translation>¶Ô²»Í¬ÁªÏµÈËµÄÀ´µçºÍ¶ÌĞÅÊ¹ÓÃÌØ±ğµÄÒôÁ¿<</translation>
+        <translation>å¯¹ä¸åŒè”ç³»äººçš„æ¥ç”µå’ŒçŸ­ä¿¡ä½¿ç”¨ç‰¹åˆ«çš„éŸ³é‡</translation>
     </message>
     <message id="wallpaper_title_index">
         <source>Wallpaper</source>
-        <translation>±ÚÖ½</translation>
+        <translation>å£çº¸</translation>
     </message>
     <message id="wallpaper_description_index">
         <source>System wallpaper setting</source>
-        <translation>ÏµÍ³±ÚÖ½ÉèÖÃ</translation>
+        <translation>ç³»ç»Ÿå£çº¸è®¾ç½®</translation>
     </message>
     <message id="watchface_title_index">
         <source>Watchface</source>
-        <translation>±íÅÌ</translation>
+        <translation>è¡¨ç›˜</translation>
     </message>
     <message id="watchface_description_index">
         <source>Change watchface on your smartwatch. Compatible with Rockpool app.</source>
-        <translation>¸ü¸ÄÄãµÄÖÇÄÜÊÖ±í±íÅÌ£¬¼æÈİ Rockpool Ó¦ÓÃ³ÌĞò</translation>
+        <translation>æ›´æ”¹ä½ çš„æ™ºèƒ½æ‰‹è¡¨è¡¨ç›˜ï¼Œå…¼å®¹ Rockpool åº”ç”¨ç¨‹åº</translation>
     </message>
     <message id="gps_title_index">
         <source>GPS</source>
@@ -233,23 +233,23 @@
     </message>
     <message id="gps_description_index">
         <source>GPS setting</source>
-        <translation>GPS ÉèÖÃ</translation>
+        <translation>GPS è®¾ç½®</translation>
     </message>
     <message id="activity_title_index">
         <source>Activity</source>
-        <translation>»î¶¯</translation>
+        <translation>æ´»åŠ¨</translation>
     </message>
     <message id="activity_description_index">
         <source>Change situation based on current activity (like walking, cycling or driving).</source>
-        <translation>¸ù¾İµ±Ç°»î¶¯£¨Èç²½ĞĞ£¬Æï×ÔĞĞ³µ»ò¼İÊ»£©ÇĞ»»×´Ì¬¡£</translation>
+        <translation>æ ¹æ®å½“å‰æ´»åŠ¨ï¼ˆå¦‚æ­¥è¡Œï¼Œéª‘è‡ªè¡Œè½¦æˆ–é©¾é©¶ï¼‰åˆ‡æ¢çŠ¶æ€ã€‚</translation>
     </message>
     <message id="proximity_title_index">
         <source>Proximity Sensor</source>
-        <translation>½Ó½ü´«¸ĞÆ÷</translation>
+        <translation>æ¥è¿‘ä¼ æ„Ÿå™¨</translation>
     </message>
     <message id="proximity_description_index">
         <source>Detect objects being close to the device</source>
-        <translation>¼ì²â½Ó½üÉè±¸µÄÎïÌå</translation>
+        <translation>æ£€æµ‹æ¥è¿‘è®¾å¤‡çš„ç‰©ä½“</translation>
     </message>
     <message id="nfcstate_title_index">
         <source>NFC</source>
@@ -257,23 +257,23 @@
     </message>
     <message id="nfcstate_description_index">
         <source>NFC setting</source>
-        <translation>NFC ÉèÖÃ</translation>
+        <translation>NFC è®¾ç½®</translation>
     </message>
     <message id="powersave_title_index">
         <source>Battery Saver</source>
-        <translation>Ê¡µçÄ£Ê½</translation>
+        <translation>çœç”µæ¨¡å¼</translation>
     </message>
     <message id="powersave_description_index">
         <source>Battery Saver setting</source>
-        <translation>Ê¡µçÄ£Ê½ÉèÖÃ</translation>
+        <translation>çœç”µæ¨¡å¼è®¾ç½®</translation>
     </message>
     <message id="donotdisturb_title_index">
         <source>Do Not Disturb</source>
-        <translation>ÎğÈÅÄ£Ê½</translation>
+        <translation>å‹¿æ‰°æ¨¡å¼</translation>
     </message>
     <message id="donotdisturb_description_index">
         <source>Do Not Disturb setting</source>
-        <translation>ÆôÓÃÎğÈÅÄ£Ê½</translation>
+        <translation>å¯ç”¨å‹¿æ‰°æ¨¡å¼</translation>
     </message>
 </context>
 </TS>

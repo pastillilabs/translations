@@ -5,35 +5,35 @@
     <name></name>
     <message id="activity_name">
         <source>Activity</source>
-        <translation>»î¶¯</translation>
+        <translation>æ´»åŠ¨</translation>
     </message>
     <message id="activity_invehicle">
         <source>In a vehicle</source>
-        <translation>ÔÚ³µÉÏ</translation>
+        <translation>åœ¨è½¦ä¸Š</translation>
     </message>
     <message id="activity_onbicycle">
         <source>On a bicycle</source>
-        <translation>Æï×ÔÐÐ³µ</translation>
+        <translation>éª‘è‡ªè¡Œè½¦</translation>
     </message>
     <message id="activity_still">
         <source>Still</source>
-        <translation>×ÜÊÇ</translation>
+        <translation>æ€»æ˜¯</translation>
     </message>
     <message id="activity_walking">
         <source>Walking</source>
-        <translation>²½ÐÐ</translation>
+        <translation>æ­¥è¡Œ</translation>
     </message>
     <message id="activity_running">
         <source>Running</source>
-        <translation>ÅÜ²½</translation>
+        <translation>è·‘æ­¥</translation>
     </message>
     <message id="activity_confidence">
         <source>Confidence: %1%</source>
-        <translation>ÐÅÈÎ: %1%</translation>
+        <translation>ä¿¡ä»»: %1%</translation>
     </message>
     <message id="activity_interval">
         <source>Interval: %1 s</source>
-        <translation>¼ä¸ô: %1 s</translation>
+        <translation>é—´éš”: %1 s</translation>
     </message>
 </context>
 </TS>

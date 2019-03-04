@@ -5,27 +5,27 @@
     <name></name>
     <message id="nfc_name">
         <source>NFC tag</source>
-        <translation>NFC ±êÇ©</translation>
+        <translation>NFC æ ‡ç­¾</translation>
     </message>
     <message id="nfc_virtual">
         <source>Virtual tag</source>
-        <translation>ĞéÄâ tag</translation>
+        <translation>è™šæ‹Ÿ tag</translation>
     </message>
     <message id="nfc_no_tag">
         <source>Read NFC tag</source>
-        <translation>=¶ÁÈ¡ NFC ±êÇ©</translation>
+        <translation>=è¯»å– NFC æ ‡ç­¾</translation>
     </message>
     <message id="nfc_tag_name">
         <source>Name the tag</source>
-        <translation>ÃüÃû±êÇ©</translation>
+        <translation>å‘½åæ ‡ç­¾</translation>
     </message>
     <message id="nfc_power_title">
         <source>NFC not enabled</source>
-        <translation>Î´¿ªÆô NFC </translation>
+        <translation>æœªå¼€å¯ NFC </translation>
     </message>
     <message id="nfc_power_description">
         <source>To use NFC it must be enabled in device settings.</source>
-        <translation>Èç¹ûÏëÒªÊ¹ÓÃ NFC £¬ÇëÏÈÔÚÏµÍ³ÉèÖÃ¿ªÆô¡£</translation>
+        <translation>å¦‚æœæƒ³è¦ä½¿ç”¨ NFC ï¼Œè¯·å…ˆåœ¨ç³»ç»Ÿè®¾ç½®å¼€å¯ã€‚</translation>
     </message>
 </context>
 </TS>

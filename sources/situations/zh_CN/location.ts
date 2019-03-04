@@ -5,27 +5,27 @@
     <name></name>
     <message id="location_latitude">
         <source>Latitude: %1</source>
-        <translation>Î³¶È: %1</translation>
+        <translation>çº¬åº¦: %1</translation>
     </message>
     <message id="location_longitude">
         <source>Longitude: %1</source>
-        <translation>¾­¶È: %1</translation>
+        <translation>ç»åº¦: %1</translation>
     </message>
     <message id="location_radius">
         <source>Radius: %1</source>
-        <translation>°ë¾¶: %1</translation>
+        <translation>åŠå¾„: %1</translation>
     </message>
     <message id="location_placeholder_name">
         <source>Location name</source>
-        <translation>Î»ÖÃÃû³Æ</translation>
+        <translation>ä½ç½®åç§°</translation>
     </message>
     <message id="location_name">
         <source>Location</source>
-        <translation>Î»ÖÃ</translation>
+        <translation>ä½ç½®</translation>
     </message>
     <message id="location_disabled">
         <source>Please enable Location from system settings</source>
-        <translation>Çë´ÓÏµÍ³ÉèÖÃ¿ªÆôÎ»ÖÃ·şÎñ</translation>
+        <translation>è¯·ä»ç³»ç»Ÿè®¾ç½®å¼€å¯ä½ç½®æœåŠ¡</translation>
     </message>
 </context>
 </TS>

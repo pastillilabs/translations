@@ -5,7 +5,7 @@
     <name></name>
     <message id="screentimeout_name">
         <source>Screen Timeout</source>
-        <translation>Ϩ��ʱ��</translation>
+        <translation>Ï¨ÆÁÊ±¼ä</translation>
     </message>
     <message id="screentimeout_seconds" numerus="yes">
         <source>%n second(s)</source>

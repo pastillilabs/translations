@@ -5,7 +5,7 @@
     <name></name>
     <message id="wallpaper_name">
         <source>Wallpaper</source>
-        <translation>��ֽ</translation>
+        <translation>±ÚÖ½</translation>
     </message>
 </context>
 </TS>

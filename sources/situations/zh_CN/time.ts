@@ -5,35 +5,35 @@
     <name></name>
     <message id="time_name">
         <source>Time</source>
-        <translation>时间</translation>
+        <translation>鏃堕棿</translation>
     </message>
     <message id="time_mo">
         <source>Mo</source>
-        <translation>周一</translation>
+        <translation>鍛ㄤ竴</translation>
     </message>
     <message id="time_tu">
         <source>Tu</source>
-        <translation>周二</translation>
+        <translation>鍛ㄤ簩</translation>
     </message>
     <message id="time_we">
         <source>We</source>
-        <translation>周三</translation>
+        <translation>鍛ㄤ笁</translation>
     </message>
     <message id="time_th">
         <source>Th</source>
-        <translation>周四</translation>
+        <translation>鍛ㄥ洓</translation>
     </message>
     <message id="time_fr">
         <source>Fr</source>
-        <translation>周五</translation>
+        <translation>鍛ㄤ簲</translation>
     </message>
     <message id="time_sa">
         <source>Sa</source>
-        <translation>周六</translation>
+        <translation>鍛ㄥ叚</translation>
     </message>
     <message id="time_su">
         <source>Su</source>
-        <translation>周日</translation>
+        <translation>鍛ㄦ棩</translation>
     </message>
 </context>
 </TS>

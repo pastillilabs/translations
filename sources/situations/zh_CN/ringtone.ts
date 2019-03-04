@@ -5,7 +5,7 @@
     <name></name>
     <message id="ringtone_name">
         <source>Ringtone</source>
-        <translation>’Ò¡Â</translation>
+        <translation>√ï√±√Å√•</translation>
     </message>
 </context>
 </TS>

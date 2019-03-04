@@ -5,31 +5,31 @@
     <name></name>
     <message id="btscanpro_name">
         <source>Bluetooth Devices</source>
-        <translation>À¶ÑÀÉè±¸</translation>
+        <translation>è“ç‰™è®¾å¤‡</translation>
     </message>
     <message id="btscanpro_search">
         <source>Search for devices</source>
-        <translation>ËÑË÷Éè±¸</translation>
+        <translation>æœç´¢è®¾å¤‡</translation>
     </message>
     <message id="btscanpro_connection_name">
         <source>Device name</source>
-        <translation>Éè±¸Ãû³Æ</translation>
+        <translation>è®¾å¤‡åç§°</translation>
     </message>
     <message id="btscanpro_connection_address">
         <source>Device address</source>
-        <translation>Éè±¸µØÖ·</translation>
+        <translation>è®¾å¤‡åœ°å€</translation>
     </message>
     <message id="btscanpro_connections">
         <source>Devices</source>
-        <translation>Éè±¸</translation>
+        <translation>è®¾å¤‡</translation>
     </message>
     <message id="btscanpro_no_connections">
         <source>No devices</source>
-        <translation>ÎŞÉè±¸</translation>
+        <translation>æ— è®¾å¤‡</translation>
     </message>
     <message id="btscanpro_turn_on_bt">
         <source>Turn on Bluetooth</source>
-        <translation>¿ªÆôÀ¶ÑÀ</translation>
+        <translation>å¼€å¯è“ç‰™</translation>
     </message>
     <message id="btscanpro_interval">
         <source>Scan interval</source>

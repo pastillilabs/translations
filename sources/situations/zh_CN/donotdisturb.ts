@@ -5,6 +5,7 @@
     <name></name>
     <message id="donotdisturb_name">
         <source>Do Not Disturb</source>
-        <translation>����ģʽ</translation>
+        <translation>ÎðÈÅÄ£Ê½</translation>
     </message>
 </context>
+</TS>

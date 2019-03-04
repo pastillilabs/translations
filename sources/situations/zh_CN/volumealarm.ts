@@ -5,7 +5,7 @@
     <name></name>
     <message id="volumealarm_name">
         <source>Alarm Volume</source>
-        <translation>œÏ¡Â“Ù¡ø</translation>
+        <translation>√è√¨√Å√•√í√¥√Å¬ø</translation>
     </message>
 </context>
 </TS>

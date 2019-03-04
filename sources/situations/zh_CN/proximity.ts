@@ -5,7 +5,7 @@
     <name></name>
     <message id="proximity_name">
         <source>Proximity Sensor</source>
-        <translatio>接近传感器</translation>
+        <translation>陆脫陆眉麓芦赂脨脝梅</translation>
     </message>
 </context>
 </TS>

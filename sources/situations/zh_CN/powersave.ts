@@ -5,7 +5,7 @@
     <name></name>
     <message id="powersave_name">
         <source>Battery Saver</source>
-        <translatio>ʡ��</translation>
+        <translation>Ê¡µç</translation>
     </message>
 </context>
 </TS>

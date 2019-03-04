@@ -9,43 +9,43 @@
     </message>
     <message id="welcome2">
         <source>This application lets you automate your device behavior by defining &#60;b&#62;Situations&#60;/b&#62;, i.e. &#60;b&#62;What&#60;/b&#62; happens and &#60;b&#62;When&#60;/b&#62;.&#60;br&#62;&#60;br&#62;With Situations you can for example ensure your phone is silent in meetings or at night. Or have your favorite music player open when connecting headphones.</source>
-        <translation>±¾Ó¦ÓÃ³ÌĞòÔÊĞíÄãÍ¨¹ı×Ô¶¨Òå×Ô¶¯ÇĞ»»Éè±¸ĞĞÎª &#60;b&#62;Situations&#60;/b&#62;, i.e. &#60;b&#62;What&#60;/b&#62; happens and &#60;b&#62;When&#60;/b&#62;.&#60;br&#62;&#60;br&#62;Í¨¹ı Situations Äã¿ÉÒÔÈ·±£ÊÖ»úÔÚ»áÒé»òÒ¹¼ä±£³Ö¾²Òô¡£ »òÕßÔÚÁ¬½Ó¶ú»úÊ±´ò¿ªÄãÏ²»¶µÄÒôÀÖ²¥·ÅÆ÷¡£</translation>
+        <translation>æœ¬åº”ç”¨ç¨‹åºå…è®¸ä½ é€šè¿‡è‡ªå®šä¹‰è‡ªåŠ¨åˆ‡æ¢è®¾å¤‡è¡Œä¸º &#60;b&#62;Situations&#60;/b&#62;, i.e. &#60;b&#62;What&#60;/b&#62; happens and &#60;b&#62;When&#60;/b&#62;.&#60;br&#62;&#60;br&#62;é€šè¿‡ Situations ä½ å¯ä»¥ç¡®ä¿æ‰‹æœºåœ¨ä¼šè®®æˆ–å¤œé—´ä¿æŒé™éŸ³ã€‚ æˆ–è€…åœ¨è¿æ¥è€³æœºæ—¶æ‰“å¼€ä½ å–œæ¬¢çš„éŸ³ä¹æ’­æ”¾å™¨ã€‚</translation>
     </message>
     <message id="welcome3">
         <source>Some features of the application require access to personal information, such as calendar and location.&#60;br&#62;&#60;br&#62;See our &#60;a href="1"&#62;privacy policy&#60;/a&#62; for more information.</source>
-        <translation>Ó¦ÓÃ³ÌĞòµÄÄ³Ğ©¹¦ÄÜĞèÒª·ÃÎÊ¸öÈËĞÅÏ¢£¬ÀıÈçÈÕÀúºÍÎ»ÖÃ &#60;br&#62;&#60;br&#62;See our &#60;a href="1"&#62; ÒşË½Õş²ß &#60;/a&#62; ¸ü¶àĞÅÏ¢</translation>
+        <translation>åº”ç”¨ç¨‹åºçš„æŸäº›åŠŸèƒ½éœ€è¦è®¿é—®ä¸ªäººä¿¡æ¯ï¼Œä¾‹å¦‚æ—¥å†å’Œä½ç½® &#60;br&#62;&#60;br&#62;See our &#60;a href="1"&#62; éšç§æ”¿ç­– &#60;/a&#62; æ›´å¤šä¿¡æ¯</translation>
     </message>
     <message id="welcome4">
         <source>Lets set up some default situations next.&#60;br&#62;&#60;br&#62;You can customize them later to better suit your individual needs...</source>
-        <translation>ÈÃÎÒÃÇ¿ªÊ¼ÉèÖÃÒ»Ğ©×´Ì¬¡£&#60;br&#62;&#60;br&#62; Äã¿ÉÒÔÖ®ºó¸ù¾İÄãµÄÏ°¹ß¶¨ÖÆ²Ù×÷...</translation>
+        <translation>è®©æˆ‘ä»¬å¼€å§‹è®¾ç½®ä¸€äº›çŠ¶æ€ã€‚&#60;br&#62;&#60;br&#62; ä½ å¯ä»¥ä¹‹åæ ¹æ®ä½ çš„ä¹ æƒ¯å®šåˆ¶æ“ä½œ...</translation>
     </message>
     <message id="welcome5">
         <source>Choose your defaults:</source>
-        <translation>Ñ¡ÔñÄ¬ÈÏ:</translation>
+        <translation>é€‰æ‹©é»˜è®¤:</translation>
     </message>
     <message id="welcome6">
         <source>Now you're all set up!&#60;br&#62;&#60;br&#62;We wish you happy situations :)</source>
-        <translation>ÏÖÔÚÄãÒÑ×¼±¸¾ÍĞ÷!&#60;br&#62;&#60;br&#62;Ï£ÍûÄãÊ¹ÓÃ situations ¿ªĞÄ:)</translation>
+        <translation>ç°åœ¨ä½ å·²å‡†å¤‡å°±ç»ª!&#60;br&#62;&#60;br&#62;å¸Œæœ›ä½ ä½¿ç”¨ situations å¼€å¿ƒ:)</translation>
     </message>
     <message id="situation_home">
         <source>At home</source>
-        <translation>ÔÚ¼Ò</translation>
+        <translation>åœ¨å®¶</translation>
     </message>
     <message id="situation_sleeping">
         <source>Sleeping</source>
-        <translation>Ë¯¾õ</translation>
+        <translation>ç¡è§‰</translation>
     </message>
     <message id="situation_work">
         <source>At work</source>
-        <translation>¹¤×÷</translation>
+        <translation>å·¥ä½œ</translation>
     </message>
     <message id="situation_meeting">
         <source>In a meeting</source>
-        <translation>¿ª»á</translation>
+        <translation>å¼€ä¼š</translation>
     </message>
     <message id="situation_school">
         <source>At school</source>
-        <translation>ÉÏÑ§</translation>
+        <translation>ä¸Šå­¦</translation>
     </message>
 </context>
 </TS>

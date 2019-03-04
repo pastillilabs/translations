@@ -5,7 +5,7 @@
     <name></name>
     <message id="url_name">
         <source>Open URL</source>
-        <translation>������</translation>
+        <translation>´ò¿ªÁ´½Ó</translation>
     </message>
 </context>
 </TS>

@@ -5,23 +5,23 @@
     <name></name>
     <message id="volumecontact_name">
         <source>Contact Volume</source>
-        <translation>ÁªÏµÈËÒôÁ¿</translation>
+        <translation>è”ç³»äººéŸ³é‡</translation>
     </message>
     <message id="volumecontact_select_contact">
         <source>Select contact</source>
-        <translation>Ñ¡ÔñÁªÏµÈË</translation>
+        <translation>é€‰æ‹©è”ç³»äºº</translation>
     </message>
     <message id="volumecontact_silent">
         <source>Silent</source>
-        <translation>¾²Òô</translation>
+        <translation>é™éŸ³</translation>
     </message>
     <message id="volumecontact_vibrate">
         <source>Vibrate</source>
-        <translation>Õğ¶¯</translation>
+        <translation>éœ‡åŠ¨</translation>
     </message>
     <message id="volumecontact_ringing">
         <source>Ringing %1%</source>
-        <translation>ÏìÁå %1%</translation>
+        <translation>å“é“ƒ %1%</translation>
     </message>
 </context>
 </TS>

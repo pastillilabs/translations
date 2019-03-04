@@ -5,23 +5,23 @@
     <name></name>
     <message id="vibration_name">
         <source>Vibration</source>
-        <translation>Õğ¶¯</translation>
+        <translation>éœ‡åŠ¨</translation>
     </message>
     <message id="vibration_on">
         <source>Always</source>
-        <translation>×ÜÊÇ</translation>
+        <translation>æ€»æ˜¯</translation>
     </message>
     <message id="vibration_off">
         <source>Never</source>
-        <translation>ÓÀ²»</translation>
+        <translation>æ°¸ä¸</translation>
     </message>
     <message id="vibration_general">
         <source>Only when sounds on</source>
-        <translation>½öµ±ÉùÒô¿ªÆôÊ±</translation>
+        <translation>ä»…å½“å£°éŸ³å¼€å¯æ—¶</translation>
     </message>
     <message id="vibration_silent">
         <source>Only when silent</source>
-        <translation>½öµ±¾²ÒôÊ±</translation>
+        <translation>ä»…å½“é™éŸ³æ—¶</translation>
     </message>
 </context>
 </TS>

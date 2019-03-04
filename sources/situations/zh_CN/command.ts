@@ -5,7 +5,7 @@
     <name></name>
     <message id="command_name">
         <source>Command</source>
-        <translation>√¸¡Ó</translation>
+        <translation>√É√º√Å√Æ</translation>
     </message>
 </context>
 </TS>

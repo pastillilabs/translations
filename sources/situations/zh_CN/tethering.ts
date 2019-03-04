@@ -5,7 +5,7 @@
     <name></name>
     <message id="tethering_name">
         <source>Internet sharing</source>
-        <translation>ÍøÂç¹²Ïí</translation>
+        <translation>ÃÃ¸Ã‚Ã§Â¹Â²ÃÃ­</translation>
     </message>
 </context>
 </TS>

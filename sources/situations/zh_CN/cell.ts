@@ -5,11 +5,11 @@
     <name></name>
     <message id="cell_name">
         <source>Network Cells</source>
-        <translation>ÍøÂçµ¥Ôª</translation>
+        <translation>ç½‘ç»œå•å…ƒ</translation>
     </message>
     <message id="cell_area_name">
         <source>Area name</source>
-        <translation>ÇøÓòÃû³Æ</translation>
+        <translation>åŒºåŸŸåç§°</translation>
     </message>
     <message id="cell_count" numerus="yes">
         <source>%n cell(s)</source>
@@ -20,19 +20,19 @@
     </message>
     <message id="cell_record">
         <source>Record</source>
-        <translation>¼ÇÂ¼</translation>
+        <translation>è®°å½•</translation>
     </message>
     <message id="cell_erase">
         <source>Erase</source>
-        <translation>Çå³ı</translation>
+        <translation>æ¸…é™¤</translation>
     </message>
     <message id="cell_recording">
         <source>Recording</source>
-        <translation>¼ÇÂ¼ÖĞ</translation>
+        <translation>è®°å½•ä¸­</translation>
     </message>
     <message id="cell_erasing">
         <source>Erasing</source>
-        <translation>Çå³ıÖĞ</translation>
+        <translation>æ¸…é™¤ä¸­</translation>
     </message>
 </context>
 </TS>

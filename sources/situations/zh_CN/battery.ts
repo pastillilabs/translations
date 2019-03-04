@@ -5,19 +5,19 @@
     <name></name>
     <message id="battery_name">
         <source>Battery</source>
-        <translation>电池</translation>
+        <translation>鐢垫睜</translation>
     </message>
     <message id="battery_remaining">
         <source>%1% remaining</source>
-        <translation> 剩余电量 %1% </translation>
+        <translation> 鍓╀綑鐢甸噺 %1% </translation>
     </message>
     <message id="battery_less_than_value">
         <source>Less than %1% remaining</source>
-        <translation>剩余电量少于 %1%</translation>
+        <translation>鍓╀綑鐢甸噺灏戜簬 %1%</translation>
     </message>
     <message id="battery_more_than_value">
         <source>More than %1% remaining</source>
-        <translation> 剩余电量超过 %1% </translation>
+        <translation> 鍓╀綑鐢甸噺瓒呰繃 %1% </translation>
     </message>
 </context>
 </TS>

@@ -1,76 +1,76 @@
  </message>
     <message id="features">
         <source>Features</source>
-        <translation>ÌØĞÔ</translation>
+        <translation>ç‰¹æ€§</translation>
     </message>
     <message id="settings">
         <source>Settings</source>
-        <translation>ÉèÖÃ</translation>
+        <translation>è®¾ç½®</translation>
     </message>
     <message id="on">
         <source>On</source>
-        <translation>¿ªÆô</translation>
+        <translation>å¼€å¯</translation>
     </message>
     <message id="off">
         <source>Off</source>
-        <translation>¹Ø±Õ</translation>
+        <translation>å…³é—­</translation>
     </message>
     <message id="enabled">
         <source>Enabled</source>
-        <translation>ÆôÓÃ</translation>
+        <translation>å¯ç”¨</translation>
     </message>
     <message id="disabled">
         <source>Disabled</source>
-        <translation>½ûÓÃ</translation>
+        <translation>ç¦ç”¨</translation>
     </message>
     <message id="application_state">
         <source>Application active</source>
-        <translation>Èí¼şÆôÓÃ</translation>
+        <translation>è½¯ä»¶å¯ç”¨</translation>
     </message>
     <message id="application_notifications">
         <source>Notifications</source>
-        <translation>Í¨Öª</translation>
+        <translation>é€šçŸ¥</translation>
     </message>
     <message id="application_background">
         <source>Background image</source>
-        <translation>±³¾°Í¼Æ¬</translation>
+        <translation>èƒŒæ™¯å›¾ç‰‡</translation>
     </message>
     <message id="disabled_note">
         <source>Application is disabled. Enable?</source>
-        <translation>Èí¼şÒÑ½ûÓÃ£¬ÊÇ·ñÆôÓÃ?</translation>
+        <translation>è½¯ä»¶å·²ç¦ç”¨ï¼Œæ˜¯å¦å¯ç”¨?</translation>
     </message>
     <message id="situations_empty_hint">
         <source>Start by adding your first situation</source>
-        <translation>Í¨¹ıÌí¼ÓÄãµÚÒ»¸ö×´Ì¬ÆôÓÃ</translation>
+        <translation>é€šè¿‡æ·»åŠ ä½ ç¬¬ä¸€ä¸ªçŠ¶æ€å¯ç”¨</translation>
     </message>
     <message id="situations_update_hint">
         <source>Please update the application first!</source>
-        <translation>ÇëÏÈ¸üĞÂ´ËÈí¼ş!</translation>
+        <translation>è¯·å…ˆæ›´æ–°æ­¤è½¯ä»¶!</translation>
     </message>
     <message id="install">
         <source>Install</source>
-        <translation>°²×°</translation>
+        <translation>å®‰è£…</translation>
     </message>
     <message id="update">
         <source>Update</source>
-        <translation>¸üĞÂ</translation>
+        <translation>æ›´æ–°</translation>
     </message>
     <message id="uninstall">
         <source>Remove</source>
-        <translation>ÒÆ³ı</translation>
+        <translation>ç§»é™¤</translation>
     </message>
     <message id="reset">
         <source>Reset</source>
-        <translation>ÖØÖÃ</translation>
+        <translation>é‡ç½®</translation>
     </message>
     <message id="privacy_policy">
         <source>Privacy policy</source>
-        <translation>ÒşË½Õş²ß</translation>
+        <translation>éšç§æ”¿ç­–</translation>
     </message>
     <message id="translation">
         <source>Language</source>
-        <translation>ÓïÑÔ</translation>
+        <translation>è¯­è¨€</translation>
     </message>
     <message id="translation_updated">
         <source>Application language updated!&#60;br&#62;&#60;br&#62;NOTE: Parts of the application may not be translated at all times. More info here:&#60;br&#62;%1</source>
-        <translation>Èí¼şÓïÑÔÒÑ¸üĞÂ!&#60;br&#62;&#60;br&#62;UWAGA: ¿ÉÄÜÈí¼ş²¿·ÖÔİÎ´·­Òë aj:&#60;br&#62;%1</translation>
+        <translation>è½¯ä»¶è¯­è¨€å·²æ›´æ–°!&#60;br&#62;&#60;br&#62;UWAGA: å¯èƒ½è½¯ä»¶éƒ¨åˆ†æš‚æœªç¿»è¯‘ aj:&#60;br&#62;%1</translation>

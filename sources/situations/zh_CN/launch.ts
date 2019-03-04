@@ -5,11 +5,11 @@
     <name></name>
     <message id="launch_name">
         <source>Launch</source>
-        <translation>打开</translation>
+        <translation>鎵撳紑</translation>
     </message>
     <message id="launch_select_application">
         <source>Select application</source>
-        <translation>选择应用程序</translation>
+        <translation>閫夋嫨搴旂敤绋嬪簭</translation>
     </message>
 </context>
 </TS>

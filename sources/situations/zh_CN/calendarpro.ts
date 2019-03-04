@@ -5,63 +5,63 @@
     <name></name>
     <message id="calendarpro_name">
         <source>Calendar</source>
-        <translation>ÈÕÀú</translation>
+        <translation>æ—¥å†</translation>
     </message>
     <message id="events">
         <source>Events</source>
-        <translation>ÊÂ¼ş</translation>
+        <translation>äº‹ä»¶</translation>
     </message>
     <message id="events_no_allday">
         <source>No all-day</source>
-        <translation>²¢·ÇÃ¿Ìì</translation>
+        <translation>å¹¶éæ¯å¤©</translation>
     </message>
     <message id="events_alarmed">
         <source>Alarmed</source>
-        <translation>ÌáĞÑ</translation>
+        <translation>æé†’</translation>
     </message>
     <message id="events_recurring">
         <source>Recurring</source>
-        <translation>·´¸´</translation>
+        <translation>åå¤</translation>
     </message>
     <message id="events_keyword">
         <source>Keyword</source>
-        <translation>¹Ø¼ü´Ê</translation>
+        <translation>å…³é”®è¯</translation>
     </message>
     <message id="events_keyword_placholder">
         <source>Event keyword</source>
-        <translation>ÊÂ¼ş¹Ø¼ü´Ê</translation>
+        <translation>äº‹ä»¶å…³é”®è¯</translation>
     </message>
     <message id="events_availability">
         <source>Availability</source>
-        <translation>ÓĞ¿Õ</translation>
+        <translation>æœ‰ç©º</translation>
     </message>
     <message id="events_availability_any">
         <source>Any</source>
-        <translation>ÈÎÒâ</translation>
+        <translation>ä»»æ„</translation>
     </message>
     <message id="events_availability_busy">
         <source>Busy</source>
-        <translation>Ã¦Âµ</translation>
+        <translation>å¿™ç¢Œ</translation>
     </message>
     <message id="events_availability_free">
         <source>Free</source>
-        <translation>×ÔÓÉ</translation>
+        <translation>è‡ªç”±</translation>
     </message>
     <message id="events_availability_tentative">
         <source>Tentative</source>
-        <translation>²»È·¶¨</translation>
+        <translation>ä¸ç¡®å®š</translation>
     </message>
     <message id="events_all">
         <source>Any event</source>
-        <translation>ÈÎºÎÊÂ¼ş</translation>
+        <translation>ä»»ä½•äº‹ä»¶</translation>
     </message>
     <message id="calendars">
         <source>Calendars</source>
-        <translation>ÈÕÀú</translation>
+        <translation>æ—¥å†</translation>
     </message>
     <message id="calendar_noname">
         <source>&lt;Unnamed calendar&gt;</source>
-        <translation>&lt; Î´ÃüÃûÈÕÀú &gt;</translation>
+        <translation>&lt; æœªå‘½åæ—¥å† &gt;</translation>
     </message>
 </context>
 </TS>

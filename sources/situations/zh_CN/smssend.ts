@@ -5,13 +5,13 @@
     <name></name>
     <message id="smssend_name">
         <source>Send SMS</source>
-        <translation>·¢ËÍ¶ÌĞÅ</translation>
+        <translation>å‘é€çŸ­ä¿¡</translation>
     </message>
     <message id="smssend_default_message">
         <source>
 
 Sent using Situations-application</source>
-        <translation>Ê¹ÓÃ Situations Ó¦ÓÃ³ÌĞò·¢ËÍ</translation>
+        <translation>ä½¿ç”¨ Situations åº”ç”¨ç¨‹åºå‘é€</translation>
     </message>
     <message id="smssend_recipient">
         <source>%2, %1</source>
@@ -19,7 +19,7 @@ Sent using Situations-application</source>
     </message>
     <message id="smssend_select_recipient">
         <source>Select recipient</source>
-        <translation>Ñ¡ÔñÊÕĞÅÈË</translation>
+        <translation>é€‰æ‹©æ”¶ä¿¡äºº</translation>
     </message>
 </context>
 </TS>

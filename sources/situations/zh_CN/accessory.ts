@@ -5,23 +5,23 @@
     <name></name>
     <message id="accessory_name">
         <source>Accessory</source>
-        <translation>¸½¼þ</translation>
+        <translation>é™„ä»¶</translation>
     </message>
     <message id="accessory_audio">
         <source>Audio</source>
-        <translation>ÒôÆµ</translation>
+        <translation>éŸ³é¢‘</translation>
     </message>
     <message id="accessory_video">
         <source>Video</source>
-        <translation>ÊÓÆµ</translation>
+        <translation>è§†é¢‘</translation>
     </message>
     <message id="accessory_carkit">
         <source>Car kit</source>
-        <translation>³µÓÃÌ×¼þ</translation>
+        <translation>è½¦ç”¨å¥—ä»¶</translation>
     </message>
     <message id="accessory_charger">
         <source>Charger</source>
-        <translation>³äµçÆ÷</translation>
+        <translation>å……ç”µå™¨</translation>
     </message>
 </context>
 </TS>

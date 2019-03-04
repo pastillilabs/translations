@@ -5,27 +5,27 @@
     <name></name>
     <message id="profile_name">
         <source>Profile</source>
-        <translation>配置</translation>
+        <translation>脜盲脰脙</translation>
     </message>
     <message id="profile_silent">
         <source>Silent</source>
-        <translation>静音</translation>
+        <translation>戮虏脪么</translation>
     </message>
     <message id="profile_beep">
         <source>Beep</source>
-        <translation>蜂鸣</translation>
+        <translation>路盲脙霉</translation>
     </message>
     <message id="profile_vibrate">
         <source>Vibrate</source>
-        <translation>震动</translation>
+        <translation>脮冒露炉</translation>
     </message>
     <message id="profile_normal">
         <source>Normal</source>
-        <translation>正常</translation>
+        <translation>脮媒鲁拢</translation>
     </message>
     <message id="profile_ringing">
         <source>Ringing %1%</source>
-        <translation>振铃 %1%</translation>
+        <translation>脮帽脕氓 %1%</translation>
     </message>
 </context>
 </TS>

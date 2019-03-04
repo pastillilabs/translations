@@ -5,7 +5,7 @@
     <name></name>
     <message id="situation_changed">
         <source>Current situation:</source>
-        <translation>��ǰ״̬:</translation>
+        <translation>µ±Ç°×´Ì¬:</translation>
     </message>
     <message id="situation_name_separator">
         <source>, </source>
@@ -13,7 +13,7 @@
     </message>
     <message id="situations_active_none">
         <source>None</source>
-        <translation>��</translation>
+        <translation>ÎÞ</translation>
     </message>
 </context>
 </TS>
