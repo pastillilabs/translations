@@ -5,11 +5,11 @@
     <name></name>
     <message id="brightness_name">
         <source>Display Brightness</source>
-        <translation>	ÏÔÊ¾ÁÁ¶È</translation>
+        <translation>显示亮度</translation>
     </message>
     <message id="automatic">
         <source>Automatic</source>
-        <translation>×Ô¶¯</translation>
+        <translation>自动</translation>
     </message>
 </context>
 </TS>
