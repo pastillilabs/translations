@@ -269,11 +269,11 @@
     </message>
     <message id="donotdisturb_title_index">
         <source>Do Not Disturb</source>
-        <translation type="unfinished">Do Not Disturb</translation>
+        <translation>Stör inte</translation>
     </message>
     <message id="donotdisturb_description_index">
         <source>Do Not Disturb setting</source>
-        <translation type="unfinished">Do Not Disturb setting</translation>
+        <translation>Inställning för &quot;Stör inte&quot;</translation>
     </message>
 </context>
 </TS>
