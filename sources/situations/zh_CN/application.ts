@@ -214,7 +214,7 @@ the app!</source>
     </message>
     <message id="permission_query_battery_optimization">
         <source>To ensure smooth operation in background, please disable battery optimization for Situations.</source>
-        <translationo>为了确保在后台顺利操作 Situations，请禁电池优化。</translation>
+        <translation>为了确保在后台顺利操作 Situations，请禁电池优化。</translation>
     </message>
     <message id="less_than">
         <source>Less than</source>
