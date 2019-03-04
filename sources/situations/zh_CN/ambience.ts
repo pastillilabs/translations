@@ -5,7 +5,7 @@
     <name></name>
     <message id="ambience_name">
         <source>Ambience</source>
-        <translation>ทีฮง</translation>
+        <translation>氛围</translation>
     </message>
 </context>
 </TS>
