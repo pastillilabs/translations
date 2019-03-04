@@ -29,11 +29,11 @@
     </message>
     <message id="activity_confidence">
         <source>Confidence: %1%</source>
-        <translation type="unfinished">Confidence: %1%</translation>
+        <translation>Förtroende: %1%</translation>
     </message>
     <message id="activity_interval">
         <source>Interval: %1 s</source>
-        <translation type="unfinished">Interval: %1 s</translation>
+        <translation>Intervall: %1 s</translation>
     </message>
 </context>
 </TS>
