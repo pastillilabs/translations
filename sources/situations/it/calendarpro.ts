@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="it">
+<TS version="2.1" language="it">
 <context>
     <name></name>
     <message id="calendarpro_name">
@@ -9,7 +9,7 @@
     </message>
     <message id="events">
         <source>Events</source>
-        <translation>Eventi:</translation>
+        <translation>Eventi</translation>
     </message>
     <message id="events_no_allday">
         <source>No all-day</source>
@@ -33,23 +33,23 @@
     </message>
     <message id="events_availability">
         <source>Availability</source>
-        <translation type="unfinished">Availability</translation>
+        <translation>Disponibilità</translation>
     </message>
     <message id="events_availability_any">
         <source>Any</source>
-        <translation type="unfinished">Any</translation>
+        <translation>Qualsiasi</translation>
     </message>
     <message id="events_availability_busy">
         <source>Busy</source>
-        <translation type="unfinished">Busy</translation>
+        <translation>Occupato</translation>
     </message>
     <message id="events_availability_free">
         <source>Free</source>
-        <translation type="unfinished">Free</translation>
+        <translation>Libero</translation>
     </message>
     <message id="events_availability_tentative">
         <source>Tentative</source>
-        <translation type="unfinished">Tentative</translation>
+        <translation>Tentativo</translation>
     </message>
     <message id="events_all">
         <source>Any event</source>

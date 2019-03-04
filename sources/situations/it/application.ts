@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="it">
+<TS version="2.1" language="it">
 <context>
     <name></name>
     <message id="and">
         <source>AND</source>
-        <translation>e</translation>
+        <translation>E</translation>
     </message>
     <message id="or">
         <source>OR</source>
-        <translation>o</translation>
+        <translation>O</translation>
     </message>
     <message id="help">
         <source>Help</source>
@@ -25,7 +25,7 @@
     </message>
     <message id="third_party_licenses">
         <source>3rd party licenses</source>
-        <translation>Licenza terze parti</translation>
+        <translation>Licenze di terze parti</translation>
     </message>
     <message id="translations">
         <source>Translations</source>
@@ -75,7 +75,7 @@ valuta l&apos;app!</translation>
     </message>
     <message id="next">
         <source>Next</source>
-        <translation type="unfinished">Next</translation>
+        <translation>Successivo</translation>
     </message>
     <message id="features">
         <source>Features</source>
@@ -111,7 +111,7 @@ valuta l&apos;app!</translation>
     </message>
     <message id="application_background">
         <source>Background image</source>
-        <translation type="unfinished">Background image</translation>
+        <translation>Immagine di sfondo</translation>
     </message>
     <message id="disabled_note">
         <source>Application is disabled. Enable?</source>
@@ -150,11 +150,11 @@ valuta l&apos;app!</translation>
         <translation>Lingua app</translation>
     </message>
     <message id="translation_updated">
-        <source>Application language updated!&#60;br&#62;&#60;br&#62;NOTE: Parts of the application may not be translated at all times. More info here:&#60;br&#62;%1</source>
+        <source>Application language updated!&lt;br&gt;&lt;br&gt;NOTE: Parts of the application may not be translated at all times. More info here:&lt;br&gt;%1</source>
         <translation>Lingua app aggiornata!&lt;br&gt;&lt;br&gt;NOTA: Alcune parti dell&apos;app potrebbero non essere tradotte. Maggiori informazioni qui:&lt;br&gt;%1</translation>
     </message>
     <message id="translation_not_available">
-        <source>Could not update or the application is not yet translated for your language.&#60;br&#62;&#60;br&#62;Please consider supporting us and other users of the application by providing a translation here:&#60;br&#62;%1</source>
+        <source>Could not update or the application is not yet translated for your language.&lt;br&gt;&lt;br&gt;Please consider supporting us and other users of the application by providing a translation here:&lt;br&gt;%1</source>
         <translation>Non è possibile aggiornare o l&apos;app non è ancora disponibile nella tua lingua.&lt;br&gt;&lt;br&gt;Se desideri tradurre l&apos;app ed aiutare gli altri utenti, puoi fornire una traduzione qui:&lt;br&gt;%1</translation>
     </message>
     <message id="restart_required">
@@ -163,11 +163,11 @@ valuta l&apos;app!</translation>
     </message>
     <message id="setting_purpose">
         <source>Purpose</source>
-        <translation>Modello:</translation>
+        <translation>Modello</translation>
     </message>
     <message id="purpose_empty">
         <source>Empty</source>
-        <translation>(nessuno)</translation>
+        <translation>Vuoto</translation>
     </message>
     <message id="purpose_silent">
         <source>Silent</source>
@@ -187,7 +187,7 @@ valuta l&apos;app!</translation>
     </message>
     <message id="purpose_connectivity">
         <source>Connectivity</source>
-        <translation>Connessioni</translation>
+        <translation>Connettività</translation>
     </message>
     <message id="purpose_offline">
         <source>Offline</source>
@@ -203,19 +203,19 @@ valuta l&apos;app!</translation>
     </message>
     <message id="permission_query">
         <source>Situations requires some permissions to function correctly.</source>
-        <translation type="unfinished">Situations requires some permissions to function correctly.</translation>
+        <translation>Situations ha bisogno di alcuni permessi per funzionare correttamente.</translation>
     </message>
     <message id="permission_query_do_not_disturb">
         <source>Please allow Situations to access Do Not Disturb mode.</source>
-        <translation type="unfinished">Please allow Situations to access Do Not Disturb mode.</translation>
+        <translation>Consenti a Situations di accedere alla modalità Non disturbare.</translation>
     </message>
     <message id="permission_query_system_settings">
         <source>Please allow Situations to modify system settings.</source>
-        <translation type="unfinished">Please allow Situations to modify system settings.</translation>
+        <translation>Consenti a Situations di modificare le impostazioni di sistema.</translation>
     </message>
     <message id="permission_query_battery_optimization">
         <source>To ensure smooth operation in background, please disable battery optimization for Situations.</source>
-        <translation type="unfinished">To ensure smooth operation in background, please disable battery optimization for Situations.</translation>
+        <translation>Per garantire il corretto funzionamento in background, disattiva l&apos;Ottimizzazione batteria per Situations.</translation>
     </message>
     <message id="less_than">
         <source>Less than</source>
@@ -227,87 +227,87 @@ valuta l&apos;app!</translation>
     </message>
     <message id="equals">
         <source>Exactly</source>
-        <translation type="unfinished">Exactly</translation>
+        <translation>Esattamente</translation>
     </message>
     <message id="timer_hours">
         <source>Hours</source>
-        <translation type="unfinished">Hours</translation>
+        <translation>Ore</translation>
     </message>
     <message id="timer_minutes">
         <source>Minutes</source>
-        <translation type="unfinished">Minutes</translation>
+        <translation>Minuti</translation>
     </message>
     <message id="application_data">
         <source>Application data</source>
-        <translation type="unfinished">Application data</translation>
+        <translation>Dati applicazione</translation>
     </message>
     <message id="export">
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>Esporta</translation>
     </message>
     <message id="export_to">
         <source>Export to file:</source>
-        <translation type="unfinished">Export to file:</translation>
+        <translation>Esporta in file:</translation>
     </message>
     <message id="export_warning">
         <source>Existing file will be overwritten!</source>
-        <translation type="unfinished">Existing file will be overwritten!</translation>
+        <translation>Il file esistente verrà sovrascritto!</translation>
     </message>
     <message id="import">
         <source>Import</source>
-        <translation type="unfinished">Import</translation>
+        <translation>Importa</translation>
     </message>
     <message id="import_from">
         <source>Import from file:</source>
-        <translation type="unfinished">Import from file:</translation>
+        <translation>Importa da file:</translation>
     </message>
     <message id="import_warning">
         <source>Current application data will be overwritten! Internet connection may be required for successful import!</source>
-        <translation type="unfinished">Current application data will be overwritten! Internet connection may be required for successful import!</translation>
+        <translation>I dati correnti verranno sovrascritti! Una connessione internet potrebbe essere necessaria per eseguire l&apos;operazione correttamente!</translation>
     </message>
     <message id="application_theme">
         <source>Theme</source>
-        <translation type="unfinished">Theme</translation>
+        <translation>Tema</translation>
     </message>
     <message id="theme_light">
         <source>Light</source>
-        <translation type="unfinished">Light</translation>
+        <translation>Chiaro</translation>
     </message>
     <message id="theme_dark">
         <source>Dark</source>
-        <translation type="unfinished">Dark</translation>
+        <translation>Scuro</translation>
     </message>
     <message id="user_action_title">
         <source>User Action Required!</source>
-        <translation type="unfinished">User Action Required!</translation>
+        <translation>Azione utente richiesta!</translation>
     </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
-        <translation type="unfinished">To use this feature, Situations must be selected as the default Assistant application in system settings.</translation>
+        <translation>Per utilizzare questa funzionalità, Situations deve essere impostato come applicazione Assistente predefinita nelle impostazioni di sistema.</translation>
     </message>
     <message id="location_services_description">
         <source>To use this feature, location services must be enabled in system settings.</source>
-        <translation type="unfinished">To use this feature, location setting must be enabled in system settings.</translation>
+        <translation>Per utilizzare questa funzionalità, i servizi di localizzazione devono essere attivati nelle impostazioni di sistema.</translation>
     </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
-        <translation type="unfinished">Time and Location</translation>
+        <translation>Data e posizione</translation>
     </message>
     <message id="category_device">
         <source>Device</source>
-        <translation type="unfinished">Device</translation>
+        <translation>Dispositivo</translation>
     </message>
     <message id="category_connectivity">
         <source>Connectivity</source>
-        <translation type="unfinished">Connectivity</translation>
+        <translation>Connettività</translation>
     </message>
     <message id="category_ui">
         <source>User Interface</source>
-        <translation type="unfinished">User Interface</translation>
+        <translation>Interfaccia utente</translation>
     </message>
     <message id="category_action">
         <source>Action</source>
-        <translation type="unfinished">Action</translation>
+        <translation>Azione</translation>
     </message>
 </context>
 </TS>

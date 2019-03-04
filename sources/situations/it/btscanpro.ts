@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="it">
+<TS version="2.1" language="it">
 <context>
     <name></name>
     <message id="btscanpro_name">
         <source>Bluetooth Devices</source>
-        <translation type="unfinished">Bluetooth Devices</translation>
+        <translation>Dispositivi Bluetooth</translation>
     </message>
     <message id="btscanpro_search">
         <source>Search for devices</source>
@@ -44,23 +44,23 @@
     </message>
     <message id="btscanpro_method">
         <source>Method</source>
-        <translation type="unfinished">Method</translation>
+        <translation>Metodo</translation>
     </message>
     <message id="btscanpro_method_scanning">
         <source>Scan devices</source>
-        <translation type="unfinished">Scan devices</translation>
+        <translation>Cerca dispositivi</translation>
     </message>
     <message id="btscanpro_method_active">
         <source>Active connection</source>
-        <translation type="unfinished">Active connection</translation>
+        <translation>Connessione attiva</translation>
     </message>
     <message id="btscanpro_method_any">
         <source>Any connection</source>
-        <translation type="unfinished">Any connection</translation>
+        <translation>Qualsiasi connessione</translation>
     </message>
     <message id="btscanpro_device">
         <source>Device</source>
-        <translation type="unfinished">Device</translation>
+        <translation>Dispositivo</translation>
     </message>
 </context>
 </TS>

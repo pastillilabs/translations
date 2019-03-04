@@ -1,39 +1,39 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="it">
+<TS version="2.1" language="it">
 <context>
     <name></name>
     <message id="activity_name">
         <source>Activity</source>
-        <translation type="unfinished">Activity</translation>
+        <translation>Attività</translation>
     </message>
     <message id="activity_invehicle">
         <source>In a vehicle</source>
-        <translation type="unfinished">In a vehicle</translation>
+        <translation>In auto</translation>
     </message>
     <message id="activity_onbicycle">
         <source>On a bicycle</source>
-        <translation type="unfinished">On a bicycle</translation>
+        <translation>In bici</translation>
     </message>
     <message id="activity_still">
         <source>Still</source>
-        <translation type="unfinished">Still</translation>
+        <translation>Fermo</translation>
     </message>
     <message id="activity_walking">
         <source>Walking</source>
-        <translation type="unfinished">Walking</translation>
+        <translation>Camminata</translation>
     </message>
     <message id="activity_running">
         <source>Running</source>
-        <translation type="unfinished">Running</translation>
+        <translation>Corsa</translation>
     </message>
     <message id="activity_confidence">
         <source>Confidence: %1%</source>
-        <translation type="unfinished">Confidence: %1%</translation>
+        <translation>Passo: %1%</translation>
     </message>
     <message id="activity_interval">
         <source>Interval: %1 s</source>
-        <translation type="unfinished">Interval: %1 s</translation>
+        <translation>Intervallo: %1 s</translation>
     </message>
 </context>
 </TS>

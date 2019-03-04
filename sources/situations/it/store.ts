@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="it">
+<TS version="2.1" language="it">
 <context>
     <name></name>
     <message id="description">
@@ -9,7 +9,7 @@ Every day we change the behavior of our mobile devices to match different situat
 
 - Switch to silent during meetings
 - Have music player opened when connecting headphones
-- Extend phone's battery life when not in use
+- Extend phone&apos;s battery life when not in use
 - And much more!
 
 Situations helps you get rid of routine phone management tasks by doing them automatically for you.
@@ -31,17 +31,17 @@ Ogni giorno, prendiamo il nostro telefono solo per cambiarne le impostazioni ed 
 
 Con Situations puoi dire addio alle normali operazioni di routine!
 
-L'app contiene un esteso set di opzioni; altri plugin sono disponibili gratuitamente o a pagamento e possono essere installati direttamente dall'applicazione. E ne aggiungiamo sempre di nuovi!
+L&apos;app contiene un esteso set di opzioni; altri plugin sono disponibili gratuitamente o a pagamento e possono essere installati direttamente dall&apos;applicazione. E ne aggiungiamo sempre di nuovi!
 
-A causa della natura stessa dell'applicazione, essa richiede un alto numero di permessi. Nessun dato sull'utente o sull'utilizzo dell'app viene raccolto. Per maggiori informazioni, potete leggere la nostra informativa sulla privacy.
+A causa della natura stessa dell&apos;applicazione, essa richiede un alto numero di permessi. Nessun dato sull&apos;utente o sull&apos;utilizzo dell&apos;app viene raccolto. Per maggiori informazioni, potete leggere la nostra informativa sulla privacy.
 
-Traduzione a cura di Fra (Twitter: @fravaccaro).
+Traduzione a cura di Fra (Twitter: @itsamefra).
 Alcune funzionalità potrebbero non essere immediatamente tradotte.
         </translation>
     </message>
     <message id="promo">
         <source>Put the smart on your smartphone!</source>
-        <translation>Con Situations rendi il tuo smartphone ancora più "smart"!</translation>
+        <translation>Con Situations rendi il tuo smartphone ancora più &quot;smart&quot;!</translation>
     </message>
 </context>
 </TS>
