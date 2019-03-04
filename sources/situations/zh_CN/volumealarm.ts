@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="zh_cn">
+<context>
+    <name></name>
+    <message id="volumealarm_name">
+        <source>Alarm Volume</source>
+        <translation>œÏ¡Â“Ù¡ø</translation>
+    </message>
+</context>
+</TS>
