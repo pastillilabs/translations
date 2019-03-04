@@ -34,7 +34,7 @@
     <message id="rate_app">
         <source>Please rate
 the app!</source>
-        <translation>请给本软件打评!</translation>
+        <translation>请给本应用程序打分!</translation>
     </message>
     <message id="donate">
         <source>Please donate!</source>
@@ -82,231 +82,231 @@ the app!</source>
     </message>
     <message id="settings">
         <source>Settings</source>
-        <translation type="unfinished">Settings</translation>
+        <translation>设置</translation>
     </message>
     <message id="on">
         <source>On</source>
-        <translation type="unfinished">On</translation>
+        <translation>打开</translation>
     </message>
     <message id="off">
         <source>Off</source>
-        <translation type="unfinished">Off</translation>
+        <translation>关闭</translation>
     </message>
     <message id="enabled">
         <source>Enabled</source>
-        <translation type="unfinished">Enabled</translation>
+        <translation>已启用</translation>
     </message>
     <message id="disabled">
         <source>Disabled</source>
-        <translation type="unfinished">Disabled</translation>
+        <translation>已禁用</translation>
     </message>
     <message id="application_state">
         <source>Application active</source>
-        <translation type="unfinished">Application active</translation>
+        <translation>启用应用程序</translation>
     </message>
     <message id="application_notifications">
         <source>Notifications</source>
-        <translation type="unfinished">Notifications</translation>
+        <translation>通知</translation>
     </message>
     <message id="application_background">
         <source>Background image</source>
-        <translation type="unfinished">Background image</translation>
+        <translation>背景图片</translation>
     </message>
     <message id="disabled_note">
         <source>Application is disabled. Enable?</source>
-        <translation type="unfinished">Application is disabled. Enable?</translation>
+        <translation>软件已禁用，是否启用?</translation>
     </message>
     <message id="situations_empty_hint">
         <source>Start by adding your first situation</source>
-        <translation type="unfinished">Start by adding your first situation</translation>
+        <translation>通过添加第一个状态以开始</translation>
     </message>
     <message id="situations_update_hint">
         <source>Please update the application first!</source>
-        <translation type="unfinished">Please update the application first!</translation>
+        <translation>请先更新应用程序!</translation>
     </message>
     <message id="install">
         <source>Install</source>
-        <translation type="unfinished">Install</translation>
+        <translation>安装</translation>
     </message>
     <message id="update">
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>更新</translation>
     </message>
     <message id="uninstall">
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>移除</translation>
     </message>
     <message id="reset">
         <source>Reset</source>
-        <translation type="unfinished">Reset</translation>
+        <translation>重设</translation>
     </message>
     <message id="privacy_policy">
         <source>Privacy policy</source>
-        <translation type="unfinished">Privacy policy</translation>
+        <translation>隐私政策</translation>
     </message>
     <message id="translation">
         <source>Language</source>
-        <translation type="unfinished">Language</translation>
+        <translation>语言</translation>
     </message>
     <message id="translation_updated">
         <source>Application language updated!&#60;br&#62;&#60;br&#62;NOTE: Parts of the application may not be translated at all times. More info here:&#60;br&#62;%1</source>
-        <translation type="unfinished">Application language updated!&#60;br&#62;&#60;br&#62;NOTE: Parts of the application may not be translated at all times. More info here:&#60;br&#62;%1</translation>
+        <translation>已更新应用程序语言!&#60;br&#62;&#60;br&#62;NOTE: 软件的所有部分不是随时都有翻译，更多信息:&#60;br&#62;%1</translation>
     </message>
     <message id="translation_not_available">
         <source>Could not update or the application is not yet translated for your language.&#60;br&#62;&#60;br&#62;Please consider supporting us and other users of the application by providing a translation here:&#60;br&#62;%1</source>
-        <translation type="unfinished">Could not update or the application is not yet translated for your language.&#60;br&#62;&#60;br&#62;Please consider supporting us and other users of the application by providing a translation here:&#60;br&#62;%1</translation>
+        <translation>无法更新或应用程序暂时没有被翻译成你的语言。&#60;br&#62;&#60;br&#62;请考虑帮助我们翻译或邀请他人在此提供翻译:&#60;br&#62;%1</translation>
     </message>
     <message id="restart_required">
         <source>Situations needs to be restarted.</source>
-        <translation type="unfinished">Situations needs to be restarted.</translation>
+        <translation>你需要重启 Situations </translation>
     </message>
     <message id="setting_purpose">
         <source>Purpose</source>
-        <translation type="unfinished">Purpose</translation>
+        <translation>意图</translation>
     </message>
     <message id="purpose_empty">
         <source>Empty</source>
-        <translation type="unfinished">Empty</translation>
+        <translation>空</translation>
     </message>
     <message id="purpose_silent">
         <source>Silent</source>
-        <translation type="unfinished">Silent</translation>
+        <translation>静音</translation>
     </message>
     <message id="purpose_discreet">
         <source>Discreet</source>
-        <translation type="unfinished">Discreet</translation>
+        <translation>慎重</translation>
     </message>
     <message id="purpose_loud">
         <source>Loud</source>
-        <translation type="unfinished">Loud</translation>
+        <translation>高音量</translation>
     </message>
     <message id="purpose_powersave">
         <source>Powersave</source>
-        <translation type="unfinished">Powersave</translation>
+        <translation>省电</translation>
     </message>
     <message id="purpose_connectivity">
         <source>Connectivity</source>
-        <translation type="unfinished">Connectivity</translation>
+        <translation>连接</translation>
     </message>
     <message id="purpose_offline">
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>离线</translation>
     </message>
     <message id="at_end">
         <source>At situation end</source>
-        <translation type="unfinished">At situation end</translation>
+        <translation>在状态结束时</translation>
     </message>
     <message id="timeout">
         <source>Timeout</source>
-        <translation type="unfinished">Timeout</translation>
+        <translation>超时</translation>
     </message>
     <message id="permission_query">
         <source>Situations requires some permissions to function correctly.</source>
-        <translation type="unfinished">Situations requires some permissions to function correctly.</translation>
+        <translation>Situations 要求获取某些访问权限以正常工作。</translation>
     </message>
     <message id="permission_query_do_not_disturb">
         <source>Please allow Situations to access Do Not Disturb mode.</source>
-        <translation type="unfinished">Please allow Situations to access Do Not Disturb mode.</translation>
+        <translation>请允许 Situations 使用勿扰模式。</translation>
     </message>
     <message id="permission_query_system_settings">
         <source>Please allow Situations to modify system settings.</source>
-        <translation type="unfinished">Please allow Situations to modify system settings.</translation>
+        <translation>请允许 Situations 修改系统设置。</translation>
     </message>
     <message id="permission_query_battery_optimization">
         <source>To ensure smooth operation in background, please disable battery optimization for Situations.</source>
-        <translation type="unfinished">To ensure smooth operation in background, please disable battery optimization for Situations.</translation>
+        <translationo>为了确保在后台顺利操作 Situations，请禁电池优化。</translation>
     </message>
     <message id="less_than">
         <source>Less than</source>
-        <translation type="unfinished">Less than</translation>
+        <translation>少于</translation>
     </message>
     <message id="more_than">
         <source>More than</source>
-        <translation type="unfinished">More than</translation>
+        <translation>多于</translation>
     </message>
     <message id="equals">
         <source>Exactly</source>
-        <translation type="unfinished">Exactly</translation>
+        <translation>精确</translation>
     </message>
     <message id="timer_hours">
         <source>Hours</source>
-        <translation type="unfinished">Hours</translation>
+        <translation>小时</translation>
     </message>
     <message id="timer_minutes">
         <source>Minutes</source>
-        <translation type="unfinished">Minutes</translation>
+        <translation>分钟</translation>
     </message>
     <message id="application_data">
         <source>Application data</source>
-        <translation type="unfinished">Application data</translation>
+        <translation>应用程序数据</translation>
     </message>
     <message id="export">
         <source>Export</source>
-        <translation type="unfinished">Export</translation>
+        <translation>输出</translation>
     </message>
     <message id="export_to">
         <source>Export to file:</source>
-        <translation type="unfinished">Export to file:</translation>
+        <translation>输出到文件:</translation>
     </message>
     <message id="export_warning">
         <source>Existing file will be overwritten!</source>
-        <translation type="unfinished">Existing file will be overwritten!</translation>
+        <translation>现存文件将被覆盖!</translation>
     </message>
     <message id="import">
         <source>Import</source>
-        <translation type="unfinished">Import</translation>
+        <translation>输入</translation>
     </message>
     <message id="import_from">
         <source>Import from file:</source>
-        <translation type="unfinished">Import from file:</translation>
+        <translation>从文件输入:</translation>
     </message>
     <message id="import_warning">
         <source>Current application data will be overwritten! Internet connection may be required for successful import!</source>
-        <translation type="unfinished">Current application data will be overwritten! Internet connection may be required for successful import!</translation>
+        <translation>当前应用程序数据将被覆盖！ 可能需要互联网连接以成功导入！</translation>
     </message>
     <message id="application_theme">
         <source>Theme</source>
-        <translation type="unfinished">Theme</translation>
+        <translation>主题</translation>
     </message>
     <message id="theme_light">
         <source>Light</source>
-        <translation type="unfinished">Light</translation>
+        <translation>亮色</translation>
     </message>
     <message id="theme_dark">
         <source>Dark</source>
-        <translation type="unfinished">Dark</translation>
+        <translation>深色</translation>
     </message>
     <message id="user_action_title">
         <source>User Action Required!</source>
-        <translation type="unfinished">User Action Required!</translation>
+        <translation>要求用户操作!</translation>
     </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
-        <translation type="unfinished">To use this feature, Situations must be selected as the default Assistant application in system settings.</translation>
+        <translation>为了使用特性,你必须在系统设置中选择 Situations 作为默认助理应用程序。</translation>
     </message>
     <message id="location_services_description">
         <source>To use this feature, location services must be enabled in system settings.</source>
-        <translation type="unfinished">To use this feature, location setting must be enabled in system settings.</translation>
+        <translation>为了使用特性, 你必须在系统设置中启用位置服务。</translation>
     </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
-        <translation type="unfinished">Time and Location</translation>
+        <translation>时间和位置</translation>
     </message>
     <message id="category_device">
         <source>Device</source>
-        <translation type="unfinished">Device</translation>
+        <translation>设备</translation>
     </message>
     <message id="category_connectivity">
         <source>Connectivity</source>
-        <translation type="unfinished">Connectivity</translation>
+        <translation>连接</translation>
     </message>
     <message id="category_ui">
         <source>User Interface</source>
-        <translation type="unfinished">User Interface</translation>
+        <translation>用户界面</translation>
     </message>
     <message id="category_action">
         <source>Action</source>
-        <translation type="unfinished">Action</translation>
+        <translation>操作</translation>
     </message>
 </context>
 </TS>
