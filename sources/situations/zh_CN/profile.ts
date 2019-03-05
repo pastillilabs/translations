@@ -5,27 +5,27 @@
     <name></name>
     <message id="profile_name">
         <source>Profile</source>
-        <translation>ÅäÖÃ</translation>
+        <translation>配置</translation>
     </message>
     <message id="profile_silent">
         <source>Silent</source>
-        <translation>¾²Òô</translation>
+        <translation>静音</translation>
     </message>
     <message id="profile_beep">
         <source>Beep</source>
-        <translation>·äÃù</translation>
+        <translation>蜂鸣</translation>
     </message>
     <message id="profile_vibrate">
         <source>Vibrate</source>
-        <translation>Õð¶¯</translation>
+        <translation>震动</translation>
     </message>
     <message id="profile_normal">
         <source>Normal</source>
-        <translation>Õý³£</translation>
+        <translation>正常</translation>
     </message>
     <message id="profile_ringing">
         <source>Ringing %1%</source>
-        <translation>ÕñÁå %1%</translation>
+        <translation>响铃 %1%</translation>
     </message>
 </context>
 </TS>
