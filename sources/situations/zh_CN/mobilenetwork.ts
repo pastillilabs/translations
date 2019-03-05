@@ -5,11 +5,11 @@
     <name></name>
     <message id="mobilenetwork_name">
         <source>Mobile Network</source>
-        <translation>ÒÆ¶¯ÍøÂç</translation>
+        <translation>移动网络</translation>
     </message>
     <message id="mobilenetwork_dual">
         <source>Dual</source>
-        <translation>Ë«¿¨</translation>
+        <translation>双卡</translation>
     </message>
     <message id="mobilenetwork_4g">
         <source>4G</source>
