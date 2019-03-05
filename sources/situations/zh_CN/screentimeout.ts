@@ -5,7 +5,7 @@
     <name></name>
     <message id="screentimeout_name">
         <source>Screen Timeout</source>
-        <translation>Ï¨ÆÁÊ±¼ä</translation>
+        <translation>屏幕超时</translation>
     </message>
     <message id="screentimeout_seconds" numerus="yes">
         <source>%n second(s)</source>
