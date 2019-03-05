@@ -201,7 +201,7 @@
     </message>
     <message id="tethering_description_index">
         <source>Internet sharing (hotspot) setting</source>
-        <translation>I网络分享 (热点) 设置</translation>
+        <translation>网络分享 (热点) 设置</translation>
     </message>
     <message id="volumecontact_title_index">
         <source>Contact Volume</source>
