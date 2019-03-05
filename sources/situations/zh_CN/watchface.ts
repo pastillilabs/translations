@@ -5,7 +5,7 @@
     <name></name>
     <message id="watchface_name">
         <source>Watchface</source>
-        <translation>±íÅÌ</translation>
+        <translation>表盘</translation>
     </message>
 </context>
 </TS>
