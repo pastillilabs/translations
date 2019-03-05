@@ -5,7 +5,7 @@
     <name></name>
     <message id="volumenotifications_name">
         <source>Notification Volume</source>
-        <translation>Í¨ÖªÒôÁ¿</translation>
+        <translation>通知音量</translation>
     </message>
 </context>
 </TS>
