@@ -5,7 +5,7 @@
     <name></name>
     <message id="display_name">
         <source>Display</source>
-        <translation>ÏÔÊ¾</translation>
+        <translation>显示</translation>
     </message>
 </context>
 </TS>
