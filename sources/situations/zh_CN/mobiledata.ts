@@ -5,7 +5,7 @@
     <name></name>
     <message id="mobiledata_name">
         <source>Mobile Data</source>
-        <translation>ÒÆ¶¯Êý¾ÝÍøÂç</translation>
+        <translation>移动数据</translation>
     </message>
 </context>
 </TS>
