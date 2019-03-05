@@ -5,7 +5,7 @@
     <name></name>
     <message id="donotdisturb_name">
         <source>Do Not Disturb</source>
-        <translation>ÎðÈÅÄ£Ê½</translation>
+        <translation>勿扰模式</translation>
     </message>
 </context>
 </TS>
