@@ -5,27 +5,27 @@
     <name></name>
     <message id="bluetooth_name">
         <source>Bluetooth State</source>
-        <translation>À¶ÑÀ×´Ì¬</translation>
+        <translation>蓝牙状态</translation>
     </message>
     <message id="btscan_search">
         <source>Search for devices</source>
-        <translation type="unfinished">Search for devices</translation>
+        <translation>搜索设备</translation>
     </message>
     <message id="btscan_connection_name">
         <source>Or enter device name</source>
-        <translation type="unfinished">Or enter connection name</translation>
+        <translation>或输入设备名称</translation>
     </message>
     <message id="btscan_connections">
         <source>Devices</source>
-        <translation type="unfinished">Devices</translation>
+        <translation>设备</translation>
     </message>
     <message id="btscan_no_connections">
         <source>No devices</source>
-        <translation type="unfinished">No devices</translation>
+        <translation>无设备</translation>
     </message>
     <message id="btscan_turn_on_bt">
         <source>Turn on Bluetooth</source>
-        <translation type="unfinished">Turn on Bluetooth</translation>
+        <translation>打开蓝牙</translation>
     </message>
 </context>
 </TS>
