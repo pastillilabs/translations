@@ -5,15 +5,15 @@
     <name></name>
     <message id="logging_name">
         <source>Log</source>
-        <translation>ÈÕÖ¾</translation>
+        <translation>日志</translation>
     </message>
     <message id="open_log">
         <source>Open</source>
-        <translation>¿ªÆô</translation>
+        <translation>打开</translation>
     </message>
     <message id="clear_log">
         <source>Clear</source>
-        <translation>Çå³ý</translation>
+        <translation>清除</translation>
     </message>
 </context>
 </TS>
