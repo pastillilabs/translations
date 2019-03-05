@@ -33,7 +33,7 @@
     </message>
     <message id="btscanpro_interval">
         <source>Scan interval</source>
-        <translation type="unfinished">Scan interval</translation>
+        <translation>扫描间隔</translation>
     </message>
     <message id="btscanpro_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
@@ -44,23 +44,23 @@
     </message>
     <message id="btscanpro_method">
         <source>Method</source>
-        <translation type="unfinished">Method</translation>
+        <translation>方式</translation>
     </message>
     <message id="btscanpro_method_scanning">
         <source>Scan devices</source>
-        <translation type="unfinished">Scan devices</translation>
+        <translation>扫描设备</translation>
     </message>
     <message id="btscanpro_method_active">
         <source>Active connection</source>
-        <translation type="unfinished">Active connection</translation>
+        <translation>活动连接</translation>
     </message>
     <message id="btscanpro_method_any">
         <source>Any connection</source>
-        <translation type="unfinished">Any connection</translation>
+        <translation>任何连接</translation>
     </message>
     <message id="btscanpro_device">
         <source>Device</source>
-        <translation type="unfinished">Device</translation>
+        <translation>设备</translation>
     </message>
 </context>
 </TS>
