@@ -5,7 +5,7 @@
     <name></name>
     <message id="url_name">
         <source>Open URL</source>
-        <translation>´ò¿ªÁ´½Ó</translation>
+        <translation>打开链接</translation>
     </message>
 </context>
 </TS>
