@@ -5,7 +5,7 @@
     <name></name>
     <message id="current_name">
         <source>Situation</source>
-        <translation>状态̬</translation>
+        <translation>状态</translation>
     </message>
 </context>
 </TS>
