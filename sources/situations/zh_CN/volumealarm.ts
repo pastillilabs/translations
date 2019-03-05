@@ -5,7 +5,7 @@
     <name></name>
     <message id="volumealarm_name">
         <source>Alarm Volume</source>
-        <translation>ÏìÁåÒôÁ¿</translation>
+        <translation>提醒音量</translation>
     </message>
 </context>
 </TS>
