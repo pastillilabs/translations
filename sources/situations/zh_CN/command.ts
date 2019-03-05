@@ -5,7 +5,7 @@
     <name></name>
     <message id="command_name">
         <source>Command</source>
-        <translation>ÃüÁî</translation>
+        <translation>命令</translation>
     </message>
 </context>
 </TS>
