@@ -5,7 +5,7 @@
     <name></name>
     <message id="volumeringtone_name">
         <source>Ringtone Volume</source>
-        <translation>ÁåÉùÒôÁ¿</translation>
+        <translation>铃声音量</translation>
     </message>
 </context>
 </TS>
