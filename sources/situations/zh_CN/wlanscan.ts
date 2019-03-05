@@ -5,33 +5,33 @@
     <name></name>
     <message id="wlanscan_name">
         <source>WiFi Networks</source>
-        <translation>WiFi ÍøÂç</translation>
+        <translation>WiFi 网络</translation>
     </message>
     <message id="wlanscan_search">
         <source>Search for networks</source>
-        <translation>ËÑË÷ÍøÂç</translation>
+        <translation>搜索网络</translation>
     </message>
     <message id="wlanscan_connection_name">
         <source>Or enter network name</source>
-        <translation>»òÊäÈëÍøÂçÃû³Æ</translation>
+        <translation>或输入网络名称</translation>
     </message>
     <message id="wlanscan_connections">
         <source>Networks</source>
-        <translation>ÍøÂç</translation>
+        <translation>网络</translation>
     </message>
     <message id="wlanscan_no_connections">
         <source>No networks</source>
-        <translation>ÎÞÍøÂç</translation>
+        <translation>无网络</translation>
     </message>
     <message id="wlanscan_turn_on_wlan">
         <source>Turn on WiFi</source>
-        <translation>¿ªÆô WiFi</translation>
+        <translation>打开 WiFi</translation>
     </message>
     <message id="wlanscan_scan_always">
         <source>Scan always
 (also when WiFi is off)</source>
-        <translation>×ÜÊÇÉ¨Ãè
-(¼´Ê¹ Wifi ¹Ø±Õ)</translation>
+        <translation>×总是搜索
+(即使 Wifi 关闭)</translation>
     </message>
 </context>
 </TS>
