@@ -123,6 +123,14 @@
         <source>Ringtone volume setting</source>
         <translation>Настраивает громкость звонка</translation>
     </message>
+    <message id="volumevoicecall_title_index">
+        <source>Voice Call Volume</source>
+        <translation type="unfinished">Voice Call Volume</translation>
+    </message>
+    <message id="volumevoicecall_description_index">
+        <source>Voice Call Volume setting</source>
+        <translation type="unfinished">Voice Call Volume setting</translation>
+    </message>
     <message id="nfc_title_index">
         <source>NFC Tag</source>
         <translation type="unfinished">NFC Tag</translation>
@@ -274,6 +282,14 @@
     <message id="donotdisturb_description_index">
         <source>Do Not Disturb setting</source>
         <translation type="unfinished">Do Not Disturb setting</translation>
+    </message>
+    <message id="callstate_title_index">
+        <source>Call State</source>
+        <translation type="unfinished">Call State</translation>
+    </message>
+    <message id="callstate_description_index">
+        <source>Call State</source>
+        <translation type="unfinished">Current call state</translation>
     </message>
 </context>
 </TS>

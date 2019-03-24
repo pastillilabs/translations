@@ -105,7 +105,7 @@
     </message>
     <message id="volumemedia_description_index">
         <source>Media volume setting</source>
-        <translation>Mediaäänen voimakkuuden säätö</translation>
+        <translation>Mediaäänen voimakkuuden asetus</translation>
     </message>
     <message id="volumenotifications_title_index">
         <source>Notifications Volume</source>
@@ -113,7 +113,7 @@
     </message>
     <message id="volumenotifications_description_index">
         <source>Notifications volume setting</source>
-        <translation>Ilmoitusäänen voimakkuuden säätö</translation>
+        <translation>Ilmoitusäänen voimakkuuden asetus</translation>
     </message>
     <message id="volumeringtone_title_index">
         <source>Ringtone Volume</source>
@@ -121,7 +121,15 @@
     </message>
     <message id="volumeringtone_description_index">
         <source>Ringtone volume setting</source>
-        <translation>Soittoäänen voimakkuuden säätö</translation>
+        <translation>Soittoäänen voimakkuuden asetus</translation>
+    </message>
+    <message id="volumevoicecall_title_index">
+        <source>Voice Call Volume</source>
+        <translation>Puheluäänen voimakkuus</translation>
+    </message>
+    <message id="volumevoicecall_description_index">
+        <source>Voice Call Volume setting</source>
+        <translation>Puheluäänen voimakkuuden asetus</translation>
     </message>
     <message id="nfc_title_index">
         <source>NFC Tag</source>
@@ -274,6 +282,14 @@
     <message id="donotdisturb_description_index">
         <source>Do Not Disturb setting</source>
         <translation>Ei Saa Häiritä -asetus</translation>
+    </message>
+    <message id="callstate_title_index">
+        <source>Call State</source>
+        <translation>Puhelun Tila</translation>
+    </message>
+    <message id="callstate_description_index">
+        <source>Call State</source>
+        <translation>Tunnistaa puhelun tilan</translation>
     </message>
 </context>
 </TS>
