@@ -249,7 +249,7 @@
     </message>
     <message id="activity_description_index">
         <source>Change situation based on current activity (like walking, cycling or driving).</source>
-        <translation type="unfinished">Försök att identifiera aktuell aktivitet (som att gå, cykla eller köra).</translation>
+        <translation>Försök att identifiera aktuell aktivitet (som att gå, cykla eller köra).</translation>
     </message>
     <message id="proximity_title_index">
         <source>Proximity Sensor</source>

@@ -5,7 +5,7 @@
     <name></name>
     <message id="callstate_name">
         <source>Call State</source>
-        <translation>Samtalsstatus/translation>
+        <translation>Samtalsstatus</translation>
     </message>
     <message id="callstate_none">
         <source>None</source>
