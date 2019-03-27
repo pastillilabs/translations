@@ -125,11 +125,11 @@
     </message>
     <message id="volumevoicecall_title_index">
         <source>Voice Call Volume</source>
-        <translation type="unfinished">Voice Call Volume</translation>
+        <translation>Volym för röstsamtal</translation>
     </message>
     <message id="volumevoicecall_description_index">
         <source>Voice Call Volume setting</source>
-        <translation type="unfinished">Voice Call Volume setting</translation>
+        <translation>Volyminställning för röstsamtal</translation>
     </message>
     <message id="nfc_title_index">
         <source>NFC Tag</source>
@@ -249,7 +249,7 @@
     </message>
     <message id="activity_description_index">
         <source>Change situation based on current activity (like walking, cycling or driving).</source>
-        <translation>Försök att identifiera aktuell aktivitet (som att gå, cykla eller köra)</translation>
+        <translation type="unfinished">Försök att identifiera aktuell aktivitet (som att gå, cykla eller köra).</translation>
     </message>
     <message id="proximity_title_index">
         <source>Proximity Sensor</source>
@@ -285,11 +285,11 @@
     </message>
     <message id="callstate_title_index">
         <source>Call State</source>
-        <translation type="unfinished">Call State</translation>
+        <translation>Samtalsstatus</translation>
     </message>
     <message id="callstate_description_index">
         <source>Call State</source>
-        <translation type="unfinished">Current call state</translation>
+        <translation>Samtalsstatus</translation>
     </message>
 </context>
 </TS>
