@@ -17,7 +17,7 @@ Mensaje enviado por la aplicación Situations</translation>
     </message>
     <message id="smsreply_sms_also">
         <source>Reply to SMS messages also</source>
-        <translation type="unfinished">Reply to SMS messages also</translation>
+        <translation>Responder también a mensajes SMS</translation>
     </message>
     <message id="smsreply_only_contacts">
         <source>Only to contacts</source>

@@ -5,19 +5,19 @@
     <name></name>
     <message id="callstate_name">
         <source>Call State</source>
-        <translation type="unfinished">Call State</translation>
+        <translation>Estado de llamada</translation>
     </message>
     <message id="callstate_none">
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>Ninguno</translation>
     </message>
     <message id="callstate_ringing">
         <source>Ringing</source>
-        <translation type="unfinished">Ringing</translation>
+        <translation>Sonoro</translation>
     </message>
     <message id="callstate_active">
         <source>Active</source>
-        <translation type="unfinished">Active</translation>
+        <translation>Activo</translation>
     </message>
 </context>
 </TS>

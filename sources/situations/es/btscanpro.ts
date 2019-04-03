@@ -48,7 +48,7 @@
     </message>
     <message id="btscanpro_method_scanning">
         <source>Scan devices</source>
-        <translation type="unfinished">Scan devices</translation>
+        <translation>Escanear dispositivos</translation>
     </message>
     <message id="btscanpro_method_active">
         <source>Active connection</source>
@@ -60,7 +60,7 @@
     </message>
     <message id="btscanpro_device">
         <source>Device</source>
-        <translation type="unfinished">Device</translation>
+        <translation>Dispositivo</translation>
     </message>
 </context>
 </TS>
