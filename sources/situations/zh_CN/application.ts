@@ -216,6 +216,22 @@ the app!</source>
         <source>To ensure smooth operation in background, please disable battery optimization for Situations.</source>
         <translation>为了确保在后台顺利操作 Situations，请禁电池优化。</translation>
     </message>
+    <message id="sonar_query">
+        <source>Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</source>
+        <translation type="unfinished">Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</translation>
+    </message>
+    <message id="sonar_install">
+        <source>Install Sonar</source>
+        <translation type="unfinished">Install Sonar</translation>
+    </message>
+    <message id="sonar_update">
+        <source>Update Sonar</source>
+        <translation type="unfinished">Update Sonar</translation>
+    </message>
+    <message id="sonar_uninstall">
+        <source>Uninstall Sonar</source>
+        <translation type="unfinished">Uninstall Sonar</translation>
+    </message>
     <message id="less_than">
         <source>Less than</source>
         <translation>少于</translation>
