@@ -5,7 +5,7 @@
     <name></name>
     <message id="volumevoicecall_name">
         <source>Voice Call Volume</source>
-        <translation type="unfinished">Voice Call Volume</translation>
+        <translation>语音通话音量</translation>
     </message>
 </context>
 </TS>
