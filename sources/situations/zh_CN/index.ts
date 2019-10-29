@@ -125,11 +125,11 @@
     </message>
     <message id="volumevoicecall_title_index">
         <source>Voice Call Volume</source>
-        <translation type="unfinished">Voice Call Volume</translation>
+        <translation>语音通话音量</translation>
     </message>
     <message id="volumevoicecall_description_index">
         <source>Voice Call Volume setting</source>
-        <translation type="unfinished">Voice Call Volume setting</translation>
+        <translation>语音通话音量设置</translation>
     </message>
     <message id="nfc_title_index">
         <source>NFC Tag</source>
@@ -285,11 +285,11 @@
     </message>
     <message id="callstate_title_index">
         <source>Call State</source>
-        <translation type="unfinished">Call State</translation>
+        <translation>通话状态</translation>
     </message>
     <message id="callstate_description_index">
         <source>Call State</source>
-        <translation type="unfinished">Current call state</translation>
+        <translation>通话状态</translation>
     </message>
 </context>
 </TS>
