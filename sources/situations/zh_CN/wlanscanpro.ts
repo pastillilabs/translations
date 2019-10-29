@@ -17,7 +17,7 @@
     </message>
     <message id="wlanscanpro_connection_address">
         <source>Access point address</source>
-        <translation></translation>
+        <translation>接入点地址</translation>
     </message>
     <message id="wlanscanpro_connections">
         <source>Networks</source>
@@ -39,7 +39,7 @@
         <source>%n minute(s)</source>
         <translation>
             <numerusform>%n minute</numerusform>
-            <numerusform>%n minutes</numerusform>
+            <numerusform>%n 分钟</numerusform>
         </translation>
     </message>
     <message id="wlanscan_scan_always">
