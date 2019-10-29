@@ -42,7 +42,7 @@ the app!</source>
     </message>
     <message id="tab_conditions">
         <source>When</source>
-        <translation>何时</translation>
+        <translation>When</translation>
     </message>
     <message id="tab_actions">
         <source>What</source>
@@ -78,7 +78,7 @@ the app!</source>
     </message>
     <message id="features">
         <source>Features</source>
-        <translation type="unfinished">Features</translation>
+        <translation>组件</translation>
     </message>
     <message id="settings">
         <source>Settings</source>
@@ -218,19 +218,19 @@ the app!</source>
     </message>
     <message id="sonar_query">
         <source>Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</source>
-        <translation type="unfinished">Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</translation>
+        <translation>某些使用的功能需要安装或更新单独的名为声呐的支持组件。 &lt;br&gt;&lt;br&gt; 请在设备设置中允许安装不受信任的应用程序，然后开始安装。 &lt;br&gt;&lt;br&gt; 你可以在此找到更多信：&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</translation>
     </message>
     <message id="sonar_install">
         <source>Install Sonar</source>
-        <translation type="unfinished">Install Sonar</translation>
+        <translation>安装声呐</translation>
     </message>
     <message id="sonar_update">
         <source>Update Sonar</source>
-        <translation type="unfinished">Update Sonar</translation>
+        <translation>更新声呐</translation>
     </message>
     <message id="sonar_uninstall">
         <source>Uninstall Sonar</source>
-        <translation type="unfinished">Uninstall Sonar</translation>
+        <translation>卸载声呐</translation>
     </message>
     <message id="less_than">
         <source>Less than</source>
@@ -258,11 +258,11 @@ the app!</source>
     </message>
     <message id="export">
         <source>Export</source>
-        <translation>输出</translation>
+        <translation>导出</translation>
     </message>
     <message id="export_to">
         <source>Export to file:</source>
-        <translation>输出到文件:</translation>
+        <translation>导出到文件:</translation>
     </message>
     <message id="export_warning">
         <source>Existing file will be overwritten!</source>
@@ -270,11 +270,11 @@ the app!</source>
     </message>
     <message id="import">
         <source>Import</source>
-        <translation>输入</translation>
+        <translation>导入</translation>
     </message>
     <message id="import_from">
         <source>Import from file:</source>
-        <translation>从文件输入:</translation>
+        <translation>从文件导入:</translation>
     </message>
     <message id="import_warning">
         <source>Current application data will be overwritten! Internet connection may be required for successful import!</source>
@@ -314,7 +314,7 @@ the app!</source>
     </message>
     <message id="category_connectivity">
         <source>Connectivity</source>
-        <translation>连接</translation>
+        <translation>连接性</translation>
     </message>
     <message id="category_ui">
         <source>User Interface</source>
