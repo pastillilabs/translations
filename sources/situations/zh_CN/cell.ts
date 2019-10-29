@@ -15,7 +15,7 @@
         <source>%n cell(s)</source>
         <translation>
             <numerusform>%n cell</numerusform>
-            <numerusform>%n cells</numerusform>
+            <numerusform>%n 单元</numerusform>
         </translation>
     </message>
     <message id="cell_record">
