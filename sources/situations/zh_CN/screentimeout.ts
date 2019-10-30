@@ -9,15 +9,13 @@
     </message>
     <message id="screentimeout_seconds" numerus="yes">
         <source>%n second(s)</source>
-        <translation type="unfinished">
-            <numerusform>%n second</numerusform>
+        <translation>
             <numerusform>%n 秒钟</numerusform>
         </translation>
     </message>
     <message id="screentimeout_minutes" numerus="yes">
         <source>%n minute(s)</source>
-        <translation type="unfinished">
-            <numerusform>%n minute</numerusform>
+        <translation>
             <numerusform>%n 分钟</numerusform>
         </translation>
     </message>

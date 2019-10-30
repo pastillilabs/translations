@@ -37,9 +37,8 @@
     </message>
     <message id="btscanpro_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
-        <translation type="unfinished">
-            <numerusform>%n minute</numerusform>
-            <numerusform>%n minutes</numerusform>
+        <translation>
+            <numerusform>%n 分钟</numerusform>
         </translation>
     </message>
     <message id="btscanpro_method">

@@ -14,7 +14,6 @@
     <message id="cell_count" numerus="yes">
         <source>%n cell(s)</source>
         <translation>
-            <numerusform>%n cell</numerusform>
             <numerusform>%n 单元</numerusform>
         </translation>
     </message>

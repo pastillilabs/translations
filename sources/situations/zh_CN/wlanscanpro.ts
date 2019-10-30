@@ -38,7 +38,6 @@
     <message id="wlanscanpro_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
         <translation>
-            <numerusform>%n minute</numerusform>
             <numerusform>%n 分钟</numerusform>
         </translation>
     </message>
