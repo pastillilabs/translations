@@ -15,5 +15,21 @@
         <source>None</source>
         <translation>Brak</translation>
     </message>
+    <message id="notification_channel_launch">
+        <source>Launch notifications</source>
+        <translation type="unfinished">Launch notifications</translation>
+    </message>
+    <message id="notification_channel_url">
+        <source>Open URL notifications</source>
+        <translation type="unfinished">Open URL notifications</translation>
+    </message>
+    <message id="notification_title_launch">
+        <source>Launch application:</source>
+        <translation type="unfinished">Launch application:</translation>
+    </message>
+    <message id="notification_title_url">
+        <source>Open URL:</source>
+        <translation type="unfinished">Open URL:</translation>
+    </message>
 </context>
 </TS>
