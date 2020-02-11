@@ -17,19 +17,19 @@
     </message>
     <message id="notification_channel_launch">
         <source>Launch notifications</source>
-        <translation type="unfinished">Launch notifications</translation>
+        <translation>打开通知</translation>
     </message>
     <message id="notification_channel_url">
         <source>Open URL notifications</source>
-        <translation type="unfinished">Open URL notifications</translation>
+        <translation>打开 URL 通知</translation>
     </message>
     <message id="notification_title_launch">
         <source>Launch application:</source>
-        <translation type="unfinished">Launch application:</translation>
+        <translation>打开应用程序：</translation>
     </message>
     <message id="notification_title_url">
         <source>Open URL:</source>
-        <translation type="unfinished">Open URL:</translation>
+        <translation>打开链接：</translation>
     </message>
 </context>
 </TS>
