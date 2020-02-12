@@ -21,7 +21,7 @@
     </message>
     <message id="eula">
         <source>End user license agreement</source>
-        <translation>和用户许可协议</translation>
+        <translation>终端用户许可协议</translation>
     </message>
     <message id="third_party_licenses">
         <source>3rd party licenses</source>
@@ -42,7 +42,7 @@ the app!</source>
     </message>
     <message id="tab_conditions">
         <source>When</source>
-        <translation>When</translation>
+        <translation>时间</translation>
     </message>
     <message id="tab_actions">
         <source>What</source>
