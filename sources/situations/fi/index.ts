@@ -288,8 +288,24 @@
         <translation>Puhelun Tila</translation>
     </message>
     <message id="callstate_description_index">
-        <source>Call State</source>
+        <source>Current call state</source>
         <translation>Tunnistaa puhelun tilan</translation>
+    </message>
+    <message id="missedcalls_title_index">
+        <source>Missed Calls</source>
+        <translation>Vastaamattomat Puhelut</translation>
+    </message>
+    <message id="missedcalls_description_index">
+        <source>There are missed calls in the call log</source>
+        <translation>Puhelimessa on vastaamattomia puheluita</translation>
+    </message>
+    <message id="missedsms_title_index">
+        <source>Unread SMS Messages</source>
+        <translation>Vastaamattomat Puhelut</translation>
+    </message>
+    <message id="missedcalls_description_index">
+        <source>There are missed calls in the call log</source>
+        <translation>Puhelimessa on vastaamattomia puheluita</translation>
     </message>
 </context>
 </TS>

@@ -288,8 +288,24 @@
         <translation>Samtalsstatus</translation>
     </message>
     <message id="callstate_description_index">
-        <source>Call State</source>
+        <source>Current call state</source>
         <translation>Samtalsstatus</translation>
+    </message>
+    <message id="missedcalls_title_index">
+        <source>Missed Calls</source>
+        <translation type="unfinished">Missed Calls</translation>
+    </message>
+    <message id="missedcalls_description_index">
+        <source>There are missed calls in the call log</source>
+        <translation type="unfinished">There are missed calls in the call log</translation>
+    </message>
+    <message id="missedsms_title_index">
+        <source>Unread SMS Messages</source>
+        <translation type="unfinished">Unread SMS Messages</translation>
+    </message>
+    <message id="missedcalls_description_index">
+        <source>There are unread SMS messages</source>
+        <translation type="unfinished">There are unread SMS messages</translation>
     </message>
 </context>
 </TS>

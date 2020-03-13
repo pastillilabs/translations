@@ -317,6 +317,10 @@ the app!</translation>
         <source>Connectivity</source>
         <translation type="unfinished">Connectivity</translation>
     </message>
+    <message id="category_communications">
+        <source>Communications</source>
+        <translation type="unfinished">Communications</translation>
+    </message>
     <message id="category_ui">
         <source>User Interface</source>
         <translation type="unfinished">User Interface</translation>
