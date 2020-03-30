@@ -303,9 +303,9 @@
         <source>Unread SMS Messages</source>
         <translation>Vastaamattomat Puhelut</translation>
     </message>
-    <message id="missedcalls_description_index">
-        <source>There are missed calls in the call log</source>
-        <translation>Puhelimessa on vastaamattomia puheluita</translation>
+    <message id="missedsms_description_index">
+        <source>There are unread SMS messages</source>
+        <translation>Puhelimessa on lukemattomia SMS-viestejä</translation>
     </message>
 </context>
 </TS>

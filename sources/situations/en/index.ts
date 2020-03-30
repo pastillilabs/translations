@@ -303,7 +303,7 @@
         <source>Unread SMS Messages</source>
         <translation>Unread SMS Messages</translation>
     </message>
-    <message id="missedcalls_description_index">
+    <message id="missedsms_description_index">
         <source>There are unread SMS messages</source>
         <translation>There are unread SMS messages</translation>
     </message>
