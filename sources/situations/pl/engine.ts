@@ -5,7 +5,7 @@
     <name></name>
     <message id="situation_changed">
         <source>Current situation:</source>
-        <translation>Obecna sytacja:</translation>
+        <translation>Obecna sytuacja:</translation>
     </message>
     <message id="situation_name_separator">
         <source>, </source>
