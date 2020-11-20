@@ -5,7 +5,7 @@
     <name></name>
     <message id="missedcalls_name">
         <source>Missed Calls</source>
-        <translation type="unfinished">Missed Calls</translation>
+        <translation>未接来电</translation>
     </message>
 </context>
 </TS>
