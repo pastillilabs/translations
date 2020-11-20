@@ -5,7 +5,7 @@
     <name></name>
     <message id="missedsms_name">
         <source>Unread SMS Messages</source>
-        <translation type="unfinished">Unread SMS Messages</translation>
+        <translation>未读短信消息</translation>
     </message>
 </context>
 </TS>
