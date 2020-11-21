@@ -249,7 +249,7 @@
     </message>
     <message id="activity_description_index">
         <source>Change situation based on current activity (like walking, cycling or driving).</source>
-        <translation>根据当前活动（如步行，骑自行车或驾驶）切换状态。</translation>
+        <translation>根据当前活动（如步行、骑自行车或驾驶）切换状态。</translation>
     </message>
     <message id="proximity_title_index">
         <source>Proximity Sensor</source>
@@ -293,19 +293,19 @@
     </message>
     <message id="missedcalls_title_index">
         <source>Missed Calls</source>
-        <translation type="unfinished">Missed Calls</translation>
+        <translation>未接来电</translation>
     </message>
     <message id="missedcalls_description_index">
         <source>There are missed calls in the call log</source>
-        <translation type="unfinished">There are missed calls in the call log</translation>
+        <translation>你的通话日志中存在未接来电</translation>
     </message>
     <message id="missedsms_title_index">
         <source>Unread SMS Messages</source>
-        <translation type="unfinished">Unread SMS Messages</translation>
+        <translation>未读短信消息</translation>
     </message>
     <message id="missedsms_description_index">
         <source>There are unread SMS messages</source>
-        <translation type="unfinished">There are unread SMS messages</translation>
+        <translation>你有未读短信消息</translation>
     </message>
 </context>
 </TS>
