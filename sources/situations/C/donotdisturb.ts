@@ -5,7 +5,7 @@
     <name></name>
     <message id="donotdisturb_name">
         <source>Do Not Disturb</source>
-        <translation>Do Not Disturb</translation>
+        <translation type="unfinished">Do Not Disturb</translation>
     </message>
 </context>
 </TS>

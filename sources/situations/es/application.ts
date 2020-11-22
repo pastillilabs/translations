@@ -317,6 +317,10 @@ califique la app!</translation>
         <source>Connectivity</source>
         <translation>Conectividad</translation>
     </message>
+    <message id="category_communications">
+        <source>Communications</source>
+        <translation type="unfinished">Communications</translation>
+    </message>
     <message id="category_ui">
         <source>User Interface</source>
         <translation>Interfaz de usuario</translation>
@@ -324,6 +328,10 @@ califique la app!</translation>
     <message id="category_action">
         <source>Action</source>
         <translation>Acción</translation>
+    </message>
+    <message id="empty">
+        <source>Empty</source>
+        <translation type="unfinished">Empty</translation>
     </message>
 </context>
 </TS>

@@ -329,5 +329,9 @@ the app!</translation>
         <source>Action</source>
         <translation type="unfinished">Action</translation>
     </message>
+    <message id="empty">
+        <source>Empty</source>
+        <translation type="unfinished">Empty</translation>
+    </message>
 </context>
 </TS>

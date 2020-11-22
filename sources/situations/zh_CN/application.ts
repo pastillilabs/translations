@@ -316,6 +316,10 @@ the app!</source>
         <source>Connectivity</source>
         <translation>连接性</translation>
     </message>
+    <message id="category_communications">
+        <source>Communications</source>
+        <translation type="unfinished">Communications</translation>
+    </message>
     <message id="category_ui">
         <source>User Interface</source>
         <translation>用户界面</translation>
@@ -323,6 +327,10 @@ the app!</source>
     <message id="category_action">
         <source>Action</source>
         <translation>操作</translation>
+    </message>
+    <message id="empty">
+        <source>Empty</source>
+        <translation type="unfinished">Empty</translation>
     </message>
 </context>
 </TS>

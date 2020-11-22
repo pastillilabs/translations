@@ -317,6 +317,10 @@ appen!</translation>
         <source>Connectivity</source>
         <translation>Anslutning</translation>
     </message>
+    <message id="category_communications">
+        <source>Communications</source>
+        <translation type="unfinished">Communications</translation>
+    </message>
     <message id="category_ui">
         <source>User Interface</source>
         <translation>Användargränssnitt</translation>
@@ -324,6 +328,10 @@ appen!</translation>
     <message id="category_action">
         <source>Action</source>
         <translation>Åtgärd</translation>
+    </message>
+    <message id="empty">
+        <source>Empty</source>
+        <translation type="unfinished">Empty</translation>
     </message>
 </context>
 </TS>
