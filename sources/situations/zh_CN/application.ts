@@ -318,7 +318,7 @@ the app!</source>
     </message>
     <message id="category_communications">
         <source>Communications</source>
-        <translation type="unfinished">Communications</translation>
+        <translation>通讯</translation>
     </message>
     <message id="category_ui">
         <source>User Interface</source>
@@ -330,7 +330,7 @@ the app!</source>
     </message>
     <message id="empty">
         <source>Empty</source>
-        <translation type="unfinished">Empty</translation>
+        <translation>空</translation>
     </message>
 </context>
 </TS>
