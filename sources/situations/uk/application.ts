@@ -149,14 +149,6 @@ the app!</source>
         <source>Language</source>
         <translation>Мова додатку:</translation>
     </message>
-    <message id="translation_updated">
-        <source>Application language updated!&#60;br&#62;&#60;br&#62;NOTE: Parts of the application may not be translated at all times. More info here:&#60;br&#62;%1</source>
-        <translation>Мову додатку оновлено!&lt;br&gt;&lt;br&gt;ПРИМІТКА: Деякі частини додатку можуть бути не перекладені. Більше інформації тут:&lt;br&gt;%1</translation>
-    </message>
-    <message id="translation_not_available">
-        <source>Could not update or the application is not yet translated for your language.&#60;br&#62;&#60;br&#62;Please consider supporting us and other users of the application by providing a translation here:&#60;br&#62;%1</source>
-        <translation>Неможливо обновити або ж додаток не має перекладу на вашу мову.&lt;br&gt;&lt;br&gt;Ласка, розгляньте питання про підтримку нас та інших користувачів додатку, забезпечивши переклад тут:&lt;br&gt;%1</translation>
-    </message>
     <message id="restart_required">
         <source>Situations needs to be restarted.</source>
         <translation>Situations необхідно перезапустити.</translation>
@@ -216,6 +208,10 @@ the app!</source>
     <message id="permission_query_battery_optimization">
         <source>To ensure smooth operation in background, please disable battery optimization for Situations.</source>
         <translation type="unfinished">To ensure smooth operation in background, please disable battery optimization for Situations.</translation>
+    </message>
+    <message id="permission_query_can_draw_overlay">
+        <source>Please allow Situations to display over other apps.</source>
+        <translation type="unfinished">Please allow Situations to display over other apps</translation>
     </message>
     <message id="sonar_query">
         <source>Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</source>

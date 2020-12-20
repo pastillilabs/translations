@@ -149,14 +149,6 @@ valuta l&apos;app!</translation>
         <source>Language</source>
         <translation>Lingua app</translation>
     </message>
-    <message id="translation_updated">
-        <source>Application language updated!&lt;br&gt;&lt;br&gt;NOTE: Parts of the application may not be translated at all times. More info here:&lt;br&gt;%1</source>
-        <translation>Lingua app aggiornata!&lt;br&gt;&lt;br&gt;NOTA: Alcune parti dell&apos;app potrebbero non essere tradotte. Maggiori informazioni qui:&lt;br&gt;%1</translation>
-    </message>
-    <message id="translation_not_available">
-        <source>Could not update or the application is not yet translated for your language.&lt;br&gt;&lt;br&gt;Please consider supporting us and other users of the application by providing a translation here:&lt;br&gt;%1</source>
-        <translation>Non è possibile aggiornare o l&apos;app non è ancora disponibile nella tua lingua.&lt;br&gt;&lt;br&gt;Se desideri tradurre l&apos;app ed aiutare gli altri utenti, puoi fornire una traduzione qui:&lt;br&gt;%1</translation>
-    </message>
     <message id="restart_required">
         <source>Situations needs to be restarted.</source>
         <translation>Situations ha bisogno di essere riavviato.</translation>
@@ -216,6 +208,10 @@ valuta l&apos;app!</translation>
     <message id="permission_query_battery_optimization">
         <source>To ensure smooth operation in background, please disable battery optimization for Situations.</source>
         <translation>Per garantire il corretto funzionamento in background, disattiva l&apos;Ottimizzazione batteria per Situations.</translation>
+    </message>
+    <message id="permission_query_can_draw_overlay">
+        <source>Please allow Situations to display over other apps.</source>
+        <translation type="unfinished">Please allow Situations to display over other apps</translation>
     </message>
     <message id="sonar_query">
         <source>Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</source>

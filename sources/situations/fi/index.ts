@@ -301,7 +301,7 @@
     </message>
     <message id="missedsms_title_index">
         <source>Unread SMS Messages</source>
-        <translation>Vastaamattomat Puhelut</translation>
+        <translation>Lukemattomat SMS-viestit</translation>
     </message>
     <message id="missedsms_description_index">
         <source>There are unread SMS messages</source>
