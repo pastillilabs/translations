@@ -213,6 +213,14 @@ califique la app!</translation>
         <source>Please allow Situations to display over other apps.</source>
         <translation type="unfinished">Please allow Situations to display over other apps</translation>
     </message>
+    <message id="permission_query_background_location">
+        <source>To be able to activate situations based on location information such as GPS, WiFi, Bluetooth or Network Cells, please allow Situations app to locate the device all of the time.
+
+Situations app uses the gathered location information locally and only to activate user defined situations.</source>
+        <translation type="unfinished">To be able to activate situations based on location information such as GPS, WiFi, Bluetooth or Network Cells, please allow Situations app to locate the device all of the time.
+
+Situations app uses the gathered location information locally and only to activate user defined situations.</translation>
+    </message>
     <message id="sonar_query">
         <source>Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</source>
         <translation type="unfinished">Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</translation>
