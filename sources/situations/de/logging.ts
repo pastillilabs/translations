@@ -15,5 +15,9 @@
         <source>Clear</source>
         <translation>Löschen</translation>
     </message>
+    <message id="copy_to_clipboard">
+        <source>Copy to clipboard</source>
+        <translation type="unfinished">Copy to clipboard</translation>
+    </message>
 </context>
 </TS>

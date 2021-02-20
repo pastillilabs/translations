@@ -208,6 +208,10 @@ the app!</source>
         <source>To ensure smooth operation in background, please disable battery optimization for Situations.</source>
         <translation>为了确保在后台顺利操作 Situations，请禁电池优化。</translation>
     </message>
+    <message id="permission_query_auto_revoke">
+        <source>To ensure smooth operation in background, please disable auto revoking permissions for Situations.</source>
+        <translation type="unfinished">To ensure smooth operation in background, please disable auto revoking permissions for Situations.</translation>
+    </message>
     <message id="permission_query_can_draw_overlay">
         <source>Please allow Situations to display over other apps.</source>
         <translation type="unfinished">Please allow Situations to display over other apps</translation>

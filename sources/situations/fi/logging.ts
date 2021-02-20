@@ -15,5 +15,9 @@
         <source>Clear</source>
         <translation>Tyhjennä</translation>
     </message>
+    <message id="copy_to_clipboard">
+        <source>Copy to clipboard</source>
+        <translation>Kopioi leikepöydälle</translation>
+    </message>
 </context>
 </TS>

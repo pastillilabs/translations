@@ -209,6 +209,10 @@ sovelluksen!</translation>
         <source>To ensure smooth operation in background, please disable battery optimization for Situations.</source>
         <translation>Jotta sovellus toimisi taustalla ongelmitta, poistathan sovelluskohtaisen akun käytön optimoinnin käytöstä.</translation>
     </message>
+    <message id="permission_query_auto_revoke">
+        <source>To ensure smooth operation in background, please disable auto revoking permissions for Situations.</source>
+        <translation>Jotta sovellus toimisi taustalla ongelmitta, asetathan sovelluksen lupien automaattisen poiston pois käytöstä.</translation>
+    </message>
     <message id="permission_query_can_draw_overlay">
         <source>Please allow Situations to display over other apps.</source>
         <translation>Sovellus tarvitsee oikeuden näkyä muiden sovellusten päällä</translation>
