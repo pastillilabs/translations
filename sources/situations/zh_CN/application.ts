@@ -186,7 +186,7 @@ the app!</source>
     </message>
     <message id="at_end">
         <source>At situation end</source>
-        <translation>在状态结束时</translation>
+        <translation>在情景模式结束时</translation>
     </message>
     <message id="timeout">
         <source>Timeout</source>
@@ -210,19 +210,20 @@ the app!</source>
     </message>
     <message id="permission_query_auto_revoke">
         <source>To ensure smooth operation in background, please disable auto revoking permissions for Situations.</source>
-        <translation type="unfinished">To ensure smooth operation in background, please disable auto revoking permissions for Situations.</translation>
+        <translation>为了确保在后台顺利运行，请禁用 Situations 的自动化撤销权限。</translation>
     </message>
     <message id="permission_query_can_draw_overlay">
         <source>Please allow Situations to display over other apps.</source>
-        <translation type="unfinished">Please allow Situations to display over other apps</translation>
+        <translation>请允许 Situations 显示于其它应用之上。</translation>
     </message>
     <message id="permission_query_background_location">
         <source>To be able to activate situations based on location information such as GPS, WiFi, Bluetooth or Network Cells, please allow Situations app to locate the device all of the time.
 
 Situations app uses the gathered location information locally and only to activate user defined situations.</source>
-        <translation type="unfinished">To be able to activate situations based on location information such as GPS, WiFi, Bluetooth or Network Cells, please allow Situations app to locate the device all of the time.
+        <translation>为了能够根据 GPS、WiFi、蓝牙或网络单元等位置信息触发情景模式，请允许 Situations 应用程序一直定位设备。
 
-Situations app uses the gathered location information locally and only to activate user defined situations.</translation>
+Situations 应用会在本地使用收集到的位置信息，并仅用于激活用户定义的情景模式。
+</translation>
     </message>
     <message id="sonar_query">
         <source>Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</source>
@@ -306,11 +307,11 @@ Situations app uses the gathered location information locally and only to activa
     </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
-        <translation>为了使用特性,你必须在系统设置中选择 Situations 作为默认助理应用程序。</translation>
+        <translation>为了使用特性,你必须在系统设置中选择 Situations 作为默认辅助应用程序。</translation>
     </message>
     <message id="location_services_description">
         <source>To use this feature, location services must be enabled in system settings.</source>
-        <translation>为了使用特性, 你必须在系统设置中启用位置服务。</translation>
+        <translation>为了使用此特性, 你必须在系统设置中启用位置服务。</translation>
     </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
