@@ -17,7 +17,7 @@
     </message>
     <message id="copy_to_clipboard">
         <source>Copy to clipboard</source>
-        <translation type="unfinished">Copy to clipboard</translation>
+        <translation>复制到剪切板</translation>
     </message>
 </context>
 </TS>
