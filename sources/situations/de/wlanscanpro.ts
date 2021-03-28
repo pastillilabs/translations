@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="de_DE">
 <context>
     <name></name>
     <message id="wlanscanpro_name">
         <source>WiFi Networks</source>
-        <translation>WLAN-Verbindungen</translation>
+        <translation>WLAN-Netzwerke</translation>
     </message>
     <message id="wlanscanpro_search">
         <source>Search for networks</source>
-        <translation>Nach Verbindungen suchen</translation>
+        <translation>Nach WLAN-Netzwerken suchen</translation>
     </message>
     <message id="wlanscanpro_connection_name">
         <source>Network name</source>
@@ -17,15 +17,15 @@
     </message>
     <message id="wlanscanpro_connection_address">
         <source>Access point address</source>
-        <translation>Verbindungsadresse</translation>
+        <translation>Adresse des Access-Points</translation>
     </message>
     <message id="wlanscanpro_connections">
         <source>Networks</source>
-        <translation>Verbindungen</translation>
+        <translation>Netzwerke</translation>
     </message>
     <message id="wlanscanpro_no_connections">
         <source>No networks</source>
-        <translation>Keine Verbindungen</translation>
+        <translation>Keine Netzwerke</translation>
     </message>
     <message id="wlanscanpro_turn_on_wlan">
         <source>Turn on WiFi</source>
@@ -50,23 +50,23 @@
     </message>
     <message id="wlanscanpro_method">
         <source>Method</source>
-        <translation type="unfinished">Method</translation>
+        <translation>Methode</translation>
     </message>
     <message id="wlanscanpro_method_scanning">
         <source>Scan networks</source>
-        <translation type="unfinished">Scan networks</translation>
+        <translation>Nach Netzwerken suchen</translation>
     </message>
     <message id="wlanscanpro_method_active">
         <source>Active connection</source>
-        <translation type="unfinished">Active connection</translation>
+        <translation>Aktive Verbindung</translation>
     </message>
     <message id="wlanscanpro_method_any">
         <source>Any connection</source>
-        <translation type="unfinished">Any connection</translation>
+        <translation>Jede Verbindung</translation>
     </message>
     <message id="wlanscanpro_network">
         <source>Network</source>
-        <translation type="unfinished">Network</translation>
+        <translation>Netzwerk</translation>
     </message>
 </context>
 </TS>

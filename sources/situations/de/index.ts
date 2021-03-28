@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="de_DE">
 <context>
@@ -125,11 +125,11 @@
     </message>
     <message id="volumevoicecall_title_index">
         <source>Voice Call Volume</source>
-        <translation type="unfinished">Voice Call Volume</translation>
+        <translation>Hörer-Lautstärke</translation>
     </message>
     <message id="volumevoicecall_description_index">
         <source>Voice Call Volume setting</source>
-        <translation type="unfinished">Voice Call Volume setting</translation>
+        <translation>Hörer-Lautstärke anpassen</translation>
     </message>
     <message id="nfc_title_index">
         <source>NFC Tag</source>
@@ -269,43 +269,43 @@
     </message>
     <message id="powersave_title_index">
         <source>Battery Saver</source>
-        <translation type="unfinished">Battery Saver</translation>
+        <translation>Batteriesparmodus</translation>
     </message>
     <message id="powersave_description_index">
         <source>Battery Saver setting</source>
-        <translation type="unfinished">Battery Saver setting</translation>
+        <translation>Batteriesparmodus anpassen</translation>
     </message>
     <message id="donotdisturb_title_index">
         <source>Do Not Disturb</source>
-        <translation type="unfinished">Do Not Disturb</translation>
+        <translation>Bitte nicht stören</translation>
     </message>
     <message id="donotdisturb_description_index">
         <source>Do Not Disturb setting</source>
-        <translation type="unfinished">Do Not Disturb setting</translation>
+        <translation>Bitte nicht stören anpassen</translation>
     </message>
     <message id="callstate_title_index">
         <source>Call State</source>
-        <translation type="unfinished">Call State</translation>
+        <translation>Anrufstatus</translation>
     </message>
     <message id="callstate_description_index">
         <source>Current call state</source>
-        <translation type="unfinished">Current call state</translation>
+        <translation>Aktueller Anrufstatus</translation>
     </message>
     <message id="missedcalls_title_index">
         <source>Missed Calls</source>
-        <translation type="unfinished">Missed Calls</translation>
+        <translation>Verpasste Anrufe</translation>
     </message>
     <message id="missedcalls_description_index">
         <source>There are missed calls in the call log</source>
-        <translation type="unfinished">There are missed calls in the call log</translation>
+        <translation>Sie haben verpasste Anrufe</translation>
     </message>
     <message id="missedsms_title_index">
         <source>Unread SMS Messages</source>
-        <translation type="unfinished">Unread SMS Messages</translation>
+        <translation>Ungelesene SMS-Nachrichten</translation>
     </message>
     <message id="missedsms_description_index">
         <source>There are unread SMS messages</source>
-        <translation type="unfinished">There are unread SMS messages</translation>
+        <translation>Sie haben ungelesenen SMS-Nachrichten</translation>
     </message>
 </context>
 </TS>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="de_DE">
 <context>
@@ -199,47 +199,47 @@ die App!</translation>
     </message>
     <message id="permission_query_do_not_disturb">
         <source>Please allow Situations to access Do Not Disturb mode.</source>
-        <translation type="unfinished">Please allow Situations to access Do Not Disturb mode.</translation>
+        <translation>Bitte erlauben Sie Situations den Zugriff auf den Bitte-nicht-stören-Modus.</translation>
     </message>
     <message id="permission_query_system_settings">
         <source>Please allow Situations to modify system settings.</source>
-        <translation type="unfinished">Please allow Situations to modify system settings.</translation>
+        <translation>Bitte erlauben Sie Situations die Änderung von Systemeinstellungen.</translation>
     </message>
     <message id="permission_query_battery_optimization">
         <source>To ensure smooth operation in background, please disable battery optimization for Situations.</source>
-        <translation type="unfinished">To ensure smooth operation in background, please disable battery optimization for Situations.</translation>
+        <translation>Um einen sauberen Hintergrundbetrieb von Situations sicherzustellen, deaktivieren Sie bitte Funktionen zur Optimierung der Akkuleistung.</translation>
     </message>
     <message id="permission_query_auto_revoke">
         <source>To ensure smooth operation in background, please disable auto revoking permissions for Situations.</source>
-        <translation type="unfinished">To ensure smooth operation in background, please disable auto revoking permissions for Situations.</translation>
+        <translation>Um einen sauberen Hintergrundbetrieb von Situations sicherzustellen, deaktivieren Sie bitte das automatische Widerrufen von Berechtigungen.</translation>
     </message>
     <message id="permission_query_can_draw_overlay">
         <source>Please allow Situations to display over other apps.</source>
-        <translation type="unfinished">Please allow Situations to display over other apps</translation>
+        <translation>Bitte erlauben Sie Situations das Überlagern anderer Apps.</translation>
     </message>
     <message id="permission_query_background_location">
         <source>To be able to activate situations based on location information such as GPS, WiFi, Bluetooth or Network Cells, please allow Situations app to locate the device all of the time.
 
 Situations app uses the gathered location information locally and only to activate user defined situations.</source>
-        <translation type="unfinished">To be able to activate situations based on location information such as GPS, WiFi, Bluetooth or Network Cells, please allow Situations app to locate the device all of the time.
+        <translation>Um Situations die Nutzung von standortabhängigen Informationen (wie GPS, WiFi, Bluetooth oder Mobilfunknetze) zu ermöglichen, erlauben Sie bitte, dass das Gerät jederzeit auf den Standort zugreifen darf.
 
-Situations app uses the gathered location information locally and only to activate user defined situations.</translation>
+Die Situations-App nutzt die erfassten Standortdaten nur lokal und nur, um von Ihnen erstellte Situationen zu aktivieren.</translation>
     </message>
     <message id="sonar_query">
         <source>Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</source>
-        <translation type="unfinished">Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</translation>
+        <translation>Einige der genutzten Funktionen erfordern die Installation oder Aktualisierung einer separaten Komponente namens Sonar.&lt;br&gt;&lt;br&gt;Bitte erlauben Sie die Installation von Software aus unauthorisierten Quellen in den Geräteeinstellungen und setzen Sie die Installation fort.&lt;br&gt;&lt;br&gt;Weitere Informationen unter:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;.&lt;/b&gt;</translation>
     </message>
     <message id="sonar_install">
         <source>Install Sonar</source>
-        <translation type="unfinished">Install Sonar</translation>
+        <translation>Sonar installieren</translation>
     </message>
     <message id="sonar_update">
         <source>Update Sonar</source>
-        <translation type="unfinished">Update Sonar</translation>
+        <translation>Sonar aktualisieren</translation>
     </message>
     <message id="sonar_uninstall">
         <source>Uninstall Sonar</source>
-        <translation type="unfinished">Uninstall Sonar</translation>
+        <translation>Sonar deinstallieren</translation>
     </message>
     <message id="less_than">
         <source>Less than</source>
@@ -303,43 +303,43 @@ Situations app uses the gathered location information locally and only to activa
     </message>
     <message id="user_action_title">
         <source>User Action Required!</source>
-        <translation type="unfinished">User Action Required!</translation>
+        <translation>Benutzereingriff erforderlich!</translation>
     </message>
     <message id="default_assistant_description">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
-        <translation type="unfinished">To use this feature, Situations must be selected as the default Assistant application in system settings.</translation>
+        <translation>Um diese Funtion zu nutzen, muss Situations in den Systemeinstellungen als Standard-Assistent-App ausgewählt sein.</translation>
     </message>
     <message id="location_services_description">
         <source>To use this feature, location services must be enabled in system settings.</source>
-        <translation type="unfinished">To use this feature, location setting must be enabled in system settings.</translation>
+        <translation>Um diese Funktion zu nutzen, muss die Standortnutzung in den Systemeinstellungen aktiviert sein.</translation>
     </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
-        <translation type="unfinished">Time and Location</translation>
+        <translation>Zeit und Ort</translation>
     </message>
     <message id="category_device">
         <source>Device</source>
-        <translation type="unfinished">Device</translation>
+        <translation>Gerät</translation>
     </message>
     <message id="category_connectivity">
         <source>Connectivity</source>
-        <translation type="unfinished">Connectivity</translation>
+        <translation>Verbindungen</translation>
     </message>
     <message id="category_communications">
         <source>Communications</source>
-        <translation type="unfinished">Communications</translation>
+        <translation>Kommunikation</translation>
     </message>
     <message id="category_ui">
         <source>User Interface</source>
-        <translation type="unfinished">User Interface</translation>
+        <translation>Benutzeroberfläche</translation>
     </message>
     <message id="category_action">
         <source>Action</source>
-        <translation type="unfinished">Action</translation>
+        <translation>Aktion</translation>
     </message>
     <message id="empty">
         <source>Empty</source>
-        <translation type="unfinished">Empty</translation>
+        <translation>leer</translation>
     </message>
 </context>
 </TS>

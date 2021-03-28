@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="de_DE">
 <context>
@@ -25,7 +25,7 @@
     </message>
     <message id="btscan_turn_on_bt">
         <source>Turn on Bluetooth</source>
-        <translation>Bluetooth anschalten</translation>
+        <translation>Bluetooth einschalten</translation>
     </message>
 </context>
 </TS>

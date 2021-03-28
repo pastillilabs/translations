@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="de_DE">
 <context>
@@ -39,7 +39,7 @@ Für die Funktionen und Flexibilität dieser Anwendung ist eine Vielzahl an Bere
 Allerdings werden von dieser Anwendung keinerlei Nutzerdaten oder andere Daten irgendeiner Form gesammelt.
 Weitere Informationen finden Sie in den Datenschutzbestimmungen.
 
-Diese Sprach-Version ist eine Gemeinschaftsarbeit.
+Diese Übersetzung ist eine Gemeinschaftsarbeit.
 Beachten Sie bitte, dass eventuell nicht alle Teile der Anwendung übersetzt sind, da die Anwendung kontinuierlich weiter entwickelt wird.
         </translation>
     </message>

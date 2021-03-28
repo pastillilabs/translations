@@ -1,27 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="de_DE">
 <context>
     <name></name>
     <message id="wlanscan_name">
         <source>WiFi Networks</source>
-        <translation>WLAN-Verbindungen</translation>
+        <translation>WLAN-Netzwerke</translation>
     </message>
     <message id="wlanscan_search">
         <source>Search for networks</source>
-        <translation>Nach Verbindungen suchen</translation>
+        <translation>Nach WLAN-Netzwerken suchen</translation>
     </message>
     <message id="wlanscan_connection_name">
         <source>Or enter network name</source>
-        <translation>oder Verbindungsname eingeben</translation>
+        <translation>oder Netzwerkname eingeben</translation>
     </message>
     <message id="wlanscan_connections">
         <source>Networks</source>
-        <translation>Verbindungen</translation>
+        <translation>Netzwerke</translation>
     </message>
     <message id="wlanscan_no_connections">
         <source>No networks</source>
-        <translation>Keine Verbindungen</translation>
+        <translation>Keine Netzwerke</translation>
     </message>
     <message id="wlanscan_turn_on_wlan">
         <source>Turn on WiFi</source>
