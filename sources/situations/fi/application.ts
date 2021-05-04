@@ -215,7 +215,11 @@ sovelluksen!</translation>
     </message>
     <message id="permission_query_can_draw_overlay">
         <source>Please allow Situations to display over other apps.</source>
-        <translation>Sovellus tarvitsee oikeuden näkyä muiden sovellusten päällä</translation>
+        <translation>Sovellus tarvitsee oikeuden näkyä muiden sovellusten päällä.</translation>
+    </message>
+    <message id="permission_query_notification_listener">
+        <source>Please allow Situations to monitor notifications.</source>
+        <translation>Sovellus tarvitsee oikeuden tarkkailla ilmoituksia.</translation>
     </message>
     <message id="permission_query_background_location">
         <source>To be able to activate situations based on location information such as GPS, WiFi, Bluetooth or Network Cells, please allow Situations app to locate the device all of the time.

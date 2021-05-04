@@ -217,6 +217,10 @@ die App!</translation>
         <source>Please allow Situations to display over other apps.</source>
         <translation>Bitte erlauben Sie Situations das Überlagern anderer Apps.</translation>
     </message>
+    <message id="permission_query_notification_listener">
+        <source>Please allow Situations to monitor notifications.</source>
+        <translation type="unfinished">Please allow Situations to monitor notifications.</translation>
+    </message>
     <message id="permission_query_background_location">
         <source>To be able to activate situations based on location information such as GPS, WiFi, Bluetooth or Network Cells, please allow Situations app to locate the device all of the time.
 

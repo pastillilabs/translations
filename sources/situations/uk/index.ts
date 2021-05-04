@@ -307,5 +307,13 @@
         <source>There are unread SMS messages</source>
         <translation type="unfinished">There are unread SMS messages</translation>
     </message>
+    <message id="notification_title_index">
+        <source>Notifications</source>
+        <translation type="unfinished">Notifications</translation>
+    </message>
+    <message id="notification_description_index">
+        <source>Active notifications with keyword and pattern matching</source>
+        <translation type="unfinished">Active notifications with keyword and pattern matching</translation>
+    </message>
 </context>
 </TS>
