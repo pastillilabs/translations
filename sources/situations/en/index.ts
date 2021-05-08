@@ -308,12 +308,12 @@
         <translation>There are unread SMS messages</translation>
     </message>
     <message id="notification_title_index">
-        <source>Notifications</source>
-        <translation>Notifications</translation>
+        <source>Notification</source>
+        <translation>Notification</translation>
     </message>
     <message id="notification_description_index">
-        <source>Active notifications with keyword and pattern matching</source>
-        <translation>Active notifications with keyword and pattern matching</translation>
+        <source>Monitor notifications with keyword and pattern matching</source>
+        <translation>Monitor notifications with keyword and pattern matching</translation>
     </message>
 </context>
 </TS>

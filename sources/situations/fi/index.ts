@@ -308,12 +308,12 @@
         <translation>Puhelimessa on lukemattomia SMS-viestejä</translation>
     </message>
     <message id="notification_title_index">
-        <source>Notifications</source>
-        <translation>Ilmoitukset</translation>
+        <source>Notification</source>
+        <translation>Ilmoitus</translation>
     </message>
     <message id="notification_description_index">
-        <source>Active notifications with keyword and pattern matching</source>
-        <translation>Aktiiviset ilmoitukset avainsana- ja lausekehaulla</translation>
+        <source>Monitor notifications with keyword and pattern matching</source>
+        <translation>Ilmoitusten seuranta avainsana- ja lausekehaulla</translation>
     </message>
 </context>
 </TS>

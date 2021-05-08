@@ -308,12 +308,12 @@
         <translation>Sie haben ungelesenen SMS-Nachrichten</translation>
     </message>
     <message id="notification_title_index">
-        <source>Notifications</source>
-        <translation type="unfinished">Notifications</translation>
+        <source>Notification</source>
+        <translation type="unfinished">Notification</translation>
     </message>
     <message id="notification_description_index">
-        <source>Active notifications with keyword and pattern matching</source>
-        <translation type="unfinished">Active notifications with keyword and pattern matching</translation>
+        <source>Monitor notifications with keyword and pattern matching</source>
+        <translation type="unfinished">Monitor notifications with keyword and pattern matching</translation>
     </message>
 </context>
 </TS>
