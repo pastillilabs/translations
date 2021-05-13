@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="es">
+<TS version="2.1" language="es">
 <context>
     <name></name>
     <message id="situation_changed">
@@ -17,19 +17,19 @@
     </message>
     <message id="notification_channel_launch">
         <source>Launch notifications</source>
-        <translation type="unfinished">Launch notifications</translation>
+        <translation>Lanzar notificaciones</translation>
     </message>
     <message id="notification_channel_url">
         <source>Open URL notifications</source>
-        <translation type="unfinished">Open URL notifications</translation>
+        <translation>Abrir notificaciones de URL</translation>
     </message>
     <message id="notification_title_launch">
         <source>Launch application:</source>
-        <translation type="unfinished">Launch application:</translation>
+        <translation>Lanzar aplicación:</translation>
     </message>
     <message id="notification_title_url">
         <source>Open URL:</source>
-        <translation type="unfinished">Open URL:</translation>
+        <translation>Abrir URL:</translation>
     </message>
 </context>
 </TS>

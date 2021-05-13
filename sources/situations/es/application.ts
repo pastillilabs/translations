@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="es">
+<TS version="2.1" language="es">
 <context>
     <name></name>
     <message id="and">
@@ -211,39 +211,39 @@ califique la app!</translation>
     </message>
     <message id="permission_query_auto_revoke">
         <source>To ensure smooth operation in background, please disable auto revoking permissions for Situations.</source>
-        <translation type="unfinished">To ensure smooth operation in background, please disable auto revoking permissions for Situations.</translation>
+        <translation>Para garantizar un funcionamiento fluido en segundo plano, deshabilite los permisos de revocación automática para Situations.</translation>
     </message>
     <message id="permission_query_can_draw_overlay">
         <source>Please allow Situations to display over other apps.</source>
-        <translation type="unfinished">Please allow Situations to display over other apps.</translation>
+        <translation>Por favor, permita que  Situations se muestre sobre otras aplicaciones.</translation>
     </message>
     <message id="permission_query_notification_listener">
         <source>Please allow Situations to monitor notifications.</source>
-        <translation type="unfinished">Please allow Situations to monitor notifications.</translation>
+        <translation>Permita que Situaciones supervise las notificaciones.</translation>
     </message>
     <message id="permission_query_background_location">
         <source>To be able to activate situations based on location information such as GPS, WiFi, Bluetooth or Network Cells, please allow Situations app to locate the device all of the time.
 
 Situations app uses the gathered location information locally and only to activate user defined situations.</source>
-        <translation type="unfinished">To be able to activate situations based on location information such as GPS, WiFi, Bluetooth or Network Cells, please allow Situations app to locate the device all of the time.
+        <translation>Para poder activar situaciones basadas en información de ubicación como GPS, WiFi, Bluetooth o red celular, por favor permita que la aplicación Situations localice el dispositivo todo el tiempo.
 
-Situations app uses the gathered location information locally and only to activate user defined situations.</translation>
+La aplicación Situations utiliza la información de ubicación recopilada localmente y sólo para activar situaciones definidas por el usuario.</translation>
     </message>
     <message id="sonar_query">
         <source>Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</source>
-        <translation type="unfinished">Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</translation>
+        <translation>Parte de la funcionalidad en uso requiere la instalación o actualización de un componente de soporte independiente llamado Sonar. &lt;br&gt;&lt;br&gt;Por favor permita la instalación de software que no es de confianza en la configuración del dispositivo y proceda a su instalación.&lt;br&gt; &lt;br&gt;Más información en:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</translation>
     </message>
     <message id="sonar_install">
         <source>Install Sonar</source>
-        <translation type="unfinished">Install Sonar</translation>
+        <translation>Instalar Sonar</translation>
     </message>
     <message id="sonar_update">
         <source>Update Sonar</source>
-        <translation type="unfinished">Update Sonar</translation>
+        <translation>Actualizar Sonar</translation>
     </message>
     <message id="sonar_uninstall">
         <source>Uninstall Sonar</source>
-        <translation type="unfinished">Uninstall Sonar</translation>
+        <translation>Desinstalar Sonar</translation>
     </message>
     <message id="less_than">
         <source>Less than</source>
@@ -331,7 +331,7 @@ Situations app uses the gathered location information locally and only to activa
     </message>
     <message id="category_communications">
         <source>Communications</source>
-        <translation type="unfinished">Communications</translation>
+        <translation>Comunicaciones</translation>
     </message>
     <message id="category_ui">
         <source>User Interface</source>
@@ -343,7 +343,7 @@ Situations app uses the gathered location information locally and only to activa
     </message>
     <message id="empty">
         <source>Empty</source>
-        <translation type="unfinished">Empty</translation>
+        <translation>Vacío</translation>
     </message>
 </context>
 </TS>
