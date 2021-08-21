@@ -212,6 +212,10 @@ the app!</source>
         <source>To ensure smooth operation in background, please disable auto revoking permissions for Situations.</source>
         <translation>为了确保在后台顺利运行，请禁用 Situations 的自动化撤销权限。</translation>
     </message>
+    <message id="permission_query_exact_alarms">
+        <source>Situations requires ability to set exact alarms to function correctly.</source>
+        <translation type="unfinished">Situations requires ability to set exact alarms to function correctly.</translation>
+    </message>
     <message id="permission_query_can_draw_overlay">
         <source>Please allow Situations to display over other apps.</source>
         <translation>请允许 Situations 显示于其它应用之上。</translation>

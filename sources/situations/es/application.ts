@@ -213,6 +213,10 @@ califique la app!</translation>
         <source>To ensure smooth operation in background, please disable auto revoking permissions for Situations.</source>
         <translation>Para garantizar un funcionamiento fluido en segundo plano, deshabilite los permisos de revocación automática para Situations.</translation>
     </message>
+    <message id="permission_query_exact_alarms">
+        <source>Situations requires ability to set exact alarms to function correctly.</source>
+        <translation type="unfinished">Situations requires ability to set exact alarms to function correctly.</translation>
+    </message>
     <message id="permission_query_can_draw_overlay">
         <source>Please allow Situations to display over other apps.</source>
         <translation>Por favor, permita que  Situations se muestre sobre otras aplicaciones.</translation>
