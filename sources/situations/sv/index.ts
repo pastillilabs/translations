@@ -293,27 +293,27 @@
     </message>
     <message id="missedcalls_title_index">
         <source>Missed Calls</source>
-        <translation type="unfinished">Missed Calls</translation>
+        <translation>Missade samtal</translation>
     </message>
     <message id="missedcalls_description_index">
         <source>There are missed calls in the call log</source>
-        <translation type="unfinished">There are missed calls in the call log</translation>
+        <translation>Det finns missade samtal i samtalsloggen</translation>
     </message>
     <message id="missedsms_title_index">
         <source>Unread SMS Messages</source>
-        <translation type="unfinished">Unread SMS Messages</translation>
+        <translation>Olästa SMS-meddelanden</translation>
     </message>
     <message id="missedsms_description_index">
         <source>There are unread SMS messages</source>
-        <translation type="unfinished">There are unread SMS messages</translation>
+        <translation>Det finns olästa SMS-meddelanden</translation>
     </message>
     <message id="notification_title_index">
         <source>Notification</source>
-        <translation type="unfinished">Notification</translation>
+        <translation>Avisering</translation>
     </message>
     <message id="notification_description_index">
         <source>Monitor notifications with keyword and pattern matching</source>
-        <translation type="unfinished">Monitor notifications with keyword and pattern matching</translation>
+        <translation>Övervaka aviseringar med nyckelord och mönstermatchning</translation>
     </message>
 </context>
 </TS>

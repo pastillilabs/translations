@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sv_SE">
+<TS version="2.1" language="sv_SE">
 <context>
     <name></name>
     <message id="nfc_name">
@@ -25,7 +25,7 @@
     </message>
     <message id="nfc_power_description">
         <source>To use NFC it must be enabled in device settings.</source>
-        <translation>För att använda NFC måste den aktiveras i enhetens inställningar</translation>
+        <translation>För att använda NFC måste den aktiveras i enhetens inställningar.</translation>
     </message>
 </context>
 </TS>
