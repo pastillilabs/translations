@@ -211,27 +211,27 @@ appen!</translation>
     </message>
     <message id="permission_query_auto_revoke">
         <source>To ensure smooth operation in background, please disable auto revoking permissions for Situations.</source>
-        <translation type="unfinished">To ensure smooth operation in background, please disable auto revoking permissions for Situations.</translation>
+        <translation>För att säkerställa smidig drift i bakgrunden inaktiverar du behörighet för automatisk återkallande av situationer för Situations.</translation>
     </message>
     <message id="permission_query_exact_alarms">
         <source>Situations requires ability to set exact alarms to function correctly.</source>
-        <translation type="unfinished">Situations requires ability to set exact alarms to function correctly.</translation>
+        <translation>Situations kräver förmåga att ställa in exakta larm för att fungera korrekt.</translation>
     </message>
     <message id="permission_query_can_draw_overlay">
         <source>Please allow Situations to display over other apps.</source>
-        <translation type="unfinished">Please allow Situations to display over other apps.</translation>
+        <translation>Tillåt Situations att visas över andra appar.</translation>
     </message>
     <message id="permission_query_notification_listener">
         <source>Please allow Situations to monitor notifications.</source>
-        <translation type="unfinished">Please allow Situations to monitor notifications.</translation>
+        <translation>Tillåt Situations att övervaka aviseringar.</translation>
     </message>
     <message id="permission_query_background_location">
         <source>To be able to activate situations based on location information such as GPS, WiFi, Bluetooth or Network Cells, please allow Situations app to locate the device all of the time.
 
 Situations app uses the gathered location information locally and only to activate user defined situations.</source>
-        <translation type="unfinished">To be able to activate situations based on location information such as GPS, WiFi, Bluetooth or Network Cells, please allow Situations app to locate the device all of the time.
+        <translation>Om du vill kunna aktivera situationer baserat på platsinformation som GPS, WiFi, Bluetooth ellerbasstationer, vänligen tillåt Situations att platsbestämma enheten hela tiden.
 
-Situations app uses the gathered location information locally and only to activate user defined situations.</translation>
+Situations använder den insamlade platsinformationen lokalt och endast för att aktivera användardefinierade situationer.</translation>
     </message>
     <message id="sonar_query">
         <source>Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</source>
@@ -335,7 +335,7 @@ Situations app uses the gathered location information locally and only to activa
     </message>
     <message id="category_communications">
         <source>Communications</source>
-        <translation type="unfinished">Communications</translation>
+        <translation>Kommunikationer</translation>
     </message>
     <message id="category_ui">
         <source>User Interface</source>
@@ -347,7 +347,7 @@ Situations app uses the gathered location information locally and only to activa
     </message>
     <message id="empty">
         <source>Empty</source>
-        <translation type="unfinished">Empty</translation>
+        <translation>Tom</translation>
     </message>
 </context>
 </TS>

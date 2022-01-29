@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sv_SE">
+<TS version="2.1" language="sv_SE">
 <context>
     <name></name>
     <message id="profile_name">
@@ -25,7 +25,7 @@
     </message>
     <message id="profile_ringing">
         <source>Ringing %1%</source>
-        <translation>Ring %1%</translation>
+        <translation>Ringer %1%</translation>
     </message>
 </context>
 </TS>
