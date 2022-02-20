@@ -315,5 +315,13 @@
         <source>Monitor notifications with keyword and pattern matching</source>
         <translation type="unfinished">Monitor notifications with keyword and pattern matching</translation>
     </message>
+    <message id="daylight_title_index">
+        <source>Daylight</source>
+        <translation type="unfinished">Daylight</translation>
+    </message>
+    <message id="daylight_description_index">
+        <source>Current time is between sunrise and sunset</source>
+        <translation type="unfinished">Current time is between sunrise and sunset</translation>
+    </message>
 </context>
 </TS>

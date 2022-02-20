@@ -27,5 +27,20 @@
         <source>Please enable Location from system settings</source>
         <translation>Please enable Location from system settings</translation>
     </message>
+    <message id="location_interval">
+        <source>Update interval</source>
+        <translation>Update interval</translation>
+    </message>
+    <message id="location_interval_minutes" numerus="yes">
+        <source>%n minute(s)</source>
+        <translation>
+            <numerusform>%n minute</numerusform>
+            <numerusform>%n minutes</numerusform>
+        </translation>
+    </message>
+    <message id="location_get_current">
+        <source>Get current location</source>
+        <translation>Get current location</translation>
+    </message>
 </context>
 </TS>

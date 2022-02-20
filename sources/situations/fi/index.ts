@@ -315,5 +315,13 @@
         <source>Monitor notifications with keyword and pattern matching</source>
         <translation>Ilmoitusten seuranta avainsana- ja lausekehaulla</translation>
     </message>
+    <message id="daylight_title_index">
+        <source>Daylight</source>
+        <translation>Päivänvalo</translation>
+    </message>
+    <message id="daylight_description_index">
+        <source>Current time is between sunrise and sunset</source>
+        <translation>Auringonnousun ja -laskun välinen aika</translation>
+    </message>
 </context>
 </TS>

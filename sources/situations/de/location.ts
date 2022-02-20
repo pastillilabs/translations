@@ -27,5 +27,20 @@
         <source>Please enable Location from system settings</source>
         <translation>Bitte aktivieren Sie die Standortdienste in den Systemeinstellungen</translation>
     </message>
+    <message id="location_interval">
+        <source>Update interval</source>
+        <translation type="unfinished">Update interval</translation>
+    </message>
+    <message id="location_interval_minutes" numerus="yes">
+        <source>%n minute(s)</source>
+        <translation type="unfinished">
+            <numerusform>%n minute</numerusform>
+            <numerusform>%n minutes</numerusform>
+        </translation>
+    </message>
+    <message id="location_get_current">
+        <source>Get current location</source>
+        <translation type="unfinished">Get current location</translation>
+    </message>
 </context>
 </TS>

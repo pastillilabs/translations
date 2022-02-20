@@ -27,5 +27,20 @@
         <source>Please enable Location from system settings</source>
         <translation>Ole hyvä ja aseta Sijainti päälle järjestelmäasetuksista</translation>
     </message>
+    <message id="location_interval">
+        <source>Update interval</source>
+        <translation>Päivitysväli</translation>
+    </message>
+    <message id="location_interval_minutes" numerus="yes">
+        <source>%n minute(s)</source>
+        <translation>
+            <numerusform>%n minuutti</numerusform>
+            <numerusform>%n minuuttia</numerusform>
+        </translation>
+    </message>
+    <message id="location_get_current">
+        <source>Get current location</source>
+        <translation>Hae nykyinen sijainti</translation>
+    </message>
 </context>
 </TS>
