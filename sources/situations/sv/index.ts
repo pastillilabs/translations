@@ -123,6 +123,14 @@
         <source>Ringtone volume setting</source>
         <translation>Volymjustering för ringsignal</translation>
     </message>
+    <message id="volumesystem_title_index">
+        <source>System Volume</source>
+        <translation type="unfinished">System Volume</translation>
+    </message>
+    <message id="volumesystem_description_index">
+        <source>System volume setting</source>
+        <translation type="unfinished">System volume setting</translation>
+    </message>
     <message id="volumevoicecall_title_index">
         <source>Voice Call Volume</source>
         <translation>Volym för röstsamtal</translation>

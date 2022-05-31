@@ -123,6 +123,14 @@
         <source>Ringtone volume setting</source>
         <translation>铃声音量设置</translation>
     </message>
+    <message id="volumesystem_title_index">
+        <source>System Volume</source>
+        <translation type="unfinished">System Volume</translation>
+    </message>
+    <message id="volumesystem_description_index">
+        <source>System volume setting</source>
+        <translation type="unfinished">System volume setting</translation>
+    </message>
     <message id="volumevoicecall_title_index">
         <source>Voice Call Volume</source>
         <translation>语音通话音量</translation>

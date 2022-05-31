@@ -123,6 +123,14 @@
         <source>Ringtone volume setting</source>
         <translation>Soittoäänen voimakkuuden asetus</translation>
     </message>
+    <message id="volumesystem_title_index">
+        <source>System Volume</source>
+        <translation>Järjestelmä-äänten Voimakkuus</translation>
+    </message>
+    <message id="volumesystem_description_index">
+        <source>System volume setting</source>
+        <translation>Järjestelmä-äänten voimakkuuden asetus</translation>
+    </message>
     <message id="volumevoicecall_title_index">
         <source>Voice Call Volume</source>
         <translation>Puheluäänen voimakkuus</translation>
