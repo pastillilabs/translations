@@ -7,5 +7,9 @@
         <source>Watchface</source>
         <translation>Urtavla</translation>
     </message>
+    <message id="watchface_description">
+        <source>Change watchface on your smartwatch. Compatible with Rockpool app.</source>
+        <translation>Ändra urtavlan på din smarta klocka. Kompatibel med Rockpool-appen.</translation>
+    </message>
 </context>
 </TS>

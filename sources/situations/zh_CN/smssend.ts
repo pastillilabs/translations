@@ -7,6 +7,10 @@
         <source>Send SMS</source>
         <translation>发送短信</translation>
     </message>
+    <message id="smssend_description">
+        <source>Sends SMS message to selected contact</source>
+        <translation>发送短信到选择的联系人</translation>
+    </message>
     <message id="smssend_default_message">
         <source>
 

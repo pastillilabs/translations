@@ -7,6 +7,10 @@
         <source>Display Brightness</source>
         <translation>Display Brightness</translation>
     </message>
+    <message id="brightness_description">
+        <source>Display brightness setting</source>
+        <translation>Display brightness setting</translation>
+    </message>
     <message id="automatic">
         <source>Automatic</source>
         <translation>Automatic</translation>

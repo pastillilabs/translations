@@ -7,5 +7,9 @@
         <source>Internet sharing</source>
         <translation>网络分享</translation>
     </message>
+    <message id="tethering_description">
+        <source>Internet sharing (hotspot) setting</source>
+        <translation>网络分享 (热点) 设置</translation>
+    </message>
 </context>
 </TS>

@@ -7,6 +7,10 @@
         <source>Mobile Network</source>
         <translation>移动网络</translation>
     </message>
+    <message id="mobilenetwork_description">
+        <source>Mobile network setting</source>
+        <translation>移动网络连接设置</translation>
+    </message>
     <message id="mobilenetwork_dual">
         <source>Dual</source>
         <translation>双卡</translation>

@@ -7,5 +7,9 @@
         <source>Battery Saver</source>
         <translation>Batterisparare</translation>
     </message>
+    <message id="powersave_description">
+        <source>Battery Saver setting</source>
+        <translation>Batterisparinställning</translation>
+    </message>
 </context>
 </TS>

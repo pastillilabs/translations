@@ -7,5 +7,9 @@
         <source>Screen Rotation</source>
         <translation>Näytön Kierto</translation>
     </message>
+    <message id="screenrotation_description">
+        <source>Screen auto rotation setting</source>
+        <translation>Näytön automaattisen kierron asetus</translation>
+    </message>
 </context>
 </TS>

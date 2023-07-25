@@ -7,5 +7,9 @@
         <source>Display</source>
         <translation>显示</translation>
     </message>
+    <message id="display_description">
+        <source>Display on/off state</source>
+        <translation>显示开启/关闭状态</translation>
+    </message>
 </context>
 </TS>

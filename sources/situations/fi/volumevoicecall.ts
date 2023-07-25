@@ -7,5 +7,9 @@
         <source>Voice Call Volume</source>
         <translation>Puheluäänen Voimakkuus</translation>
     </message>
+    <message id="volumevoicecall_description">
+        <source>Voice Call Volume setting</source>
+        <translation>Puheluäänen voimakkuuden asetus</translation>
+    </message>
 </context>
 </TS>

@@ -7,5 +7,9 @@
         <source>Ringtone Volume</source>
         <translation>Ringsignalvolym</translation>
     </message>
+    <message id="volumeringtone_description">
+        <source>Ringtone volume setting</source>
+        <translation>Volymjustering för ringsignal</translation>
+    </message>
 </context>
 </TS>

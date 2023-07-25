@@ -7,6 +7,10 @@
         <source>Time</source>
         <translation>Aika</translation>
     </message>
+    <message id="time_description">
+        <source>Time</source>
+        <translation>Nykyinen aika ja päivä</translation>
+    </message>
     <message id="time_mo">
         <source>Mo</source>
         <translation>Ma</translation>

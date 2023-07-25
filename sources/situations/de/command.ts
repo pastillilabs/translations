@@ -7,5 +7,9 @@
         <source>Command</source>
         <translation>Befehl</translation>
     </message>
+    <message id="command_description">
+        <source>Run any custom command</source>
+        <translation>Einen benutzerdefinierten Befehl ausführen</translation>
+    </message>
 </context>
 </TS>

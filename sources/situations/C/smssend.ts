@@ -7,6 +7,10 @@
         <source>Send SMS</source>
         <translation type="unfinished">Send SMS</translation>
     </message>
+    <message id="smssend_description">
+        <source>Sends SMS message to selected contact</source>
+        <translation type="unfinished">Sends SMS message to selected contact</translation>
+    </message>
     <message id="smssend_default_message">
         <source>
 

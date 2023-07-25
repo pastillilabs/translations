@@ -7,5 +7,9 @@
         <source>Command</source>
         <translation>Komento</translation>
     </message>
+    <message id="command_description">
+        <source>Run any custom command</source>
+        <translation>Aja mikä tahansa oma komento</translation>
+    </message>
 </context>
 </TS>

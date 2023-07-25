@@ -7,5 +7,9 @@
         <source>Notification Volume</source>
         <translation type="unfinished">Notification Volume</translation>
     </message>
+    <message id="volumenotifications_description">
+        <source>Notifications volume setting</source>
+        <translation type="unfinished">Notifications volume setting</translation>
+    </message>
 </context>
 </TS>

@@ -7,5 +7,9 @@
         <source>Media Volume</source>
         <translation>Mediavolym</translation>
     </message>
+    <message id="volumemedia_description">
+        <source>Media volume setting</source>
+        <translation>Ljudvolymsjustering för media</translation>
+    </message>
 </context>
 </TS>

@@ -7,6 +7,10 @@
         <source>Log</source>
         <translation>Registro</translation>
     </message>
+    <message id="logging_description">
+        <source>Keep log of situation changes</source>
+        <translation>Guarde un registro de los cambios de situación</translation>
+    </message>
     <message id="open_log">
         <source>Open</source>
         <translation>Abrir</translation>

@@ -7,6 +7,10 @@
         <source>SMS Reply</source>
         <translation>СМС відповідь</translation>
     </message>
+    <message id="smsreply_description">
+        <source>Reply missed calls with SMS</source>
+        <translation>СМС відповідь пропущеному виклику</translation>
+    </message>
     <message id="smsreply_default_answer">
         <source>Sorry, cannot answer right now.
 

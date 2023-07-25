@@ -7,5 +7,9 @@
         <source>Notification Volume</source>
         <translation>Ilmoitusäänten Voimakkuus</translation>
     </message>
+    <message id="volumenotifications_description">
+        <source>Notifications volume setting</source>
+        <translation>Ilmoitusäänen voimakkuuden asetus</translation>
+    </message>
 </context>
 </TS>

@@ -7,5 +7,9 @@
         <source>Display</source>
         <translation>Pantalla</translation>
     </message>
+    <message id="display_description">
+        <source>Display on/off state</source>
+        <translation>Estado de pantalla encendida/apagada</translation>
+    </message>
 </context>
 </TS>

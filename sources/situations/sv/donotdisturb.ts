@@ -7,5 +7,9 @@
         <source>Do Not Disturb</source>
         <translation>Stör ej</translation>
     </message>
+    <message id="donotdisturb_description">
+        <source>Do Not Disturb setting</source>
+        <translation>Inställning för &quot;Stör inte&quot;</translation>
+    </message>
 </context>
 </TS>

@@ -7,5 +7,9 @@
         <source>Bluetooth State</source>
         <translation>Bluetooth Tila</translation>
     </message>
+    <message id="bluetooth_description">
+        <source>Bluetooth state setting</source>
+        <translation>Bluetooth tilan asetus</translation>
+    </message>
 </context>
 </TS>

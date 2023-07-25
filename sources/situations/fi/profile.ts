@@ -7,6 +7,10 @@
         <source>Profile</source>
         <translation>Profiili</translation>
     </message>
+    <message id="profile_description">
+        <source>Profile</source>
+        <translation>Aktiivinen profiili</translation>
+    </message>
     <message id="profile_silent">
         <source>Silent</source>
         <translation>Äänetön</translation>

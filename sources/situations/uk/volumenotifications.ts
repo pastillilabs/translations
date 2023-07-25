@@ -7,5 +7,9 @@
         <source>Notification Volume</source>
         <translation>Гучність повідомлень</translation>
     </message>
+    <message id="volumenotifications_description">
+        <source>Notifications volume setting</source>
+        <translation>Встановити гучність повідомлення</translation>
+    </message>
 </context>
 </TS>

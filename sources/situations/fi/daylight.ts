@@ -7,6 +7,10 @@
         <source>Daylight</source>
         <translation>Päivänvalo</translation>
     </message>
+    <message id="daylight_description">
+        <source>Current time is between sunrise and sunset</source>
+        <translation>Auringonnousun ja -laskun välinen aika</translation>
+    </message>
     <message id="daylight_latitude">
         <source>Latitude: %1</source>
         <translation>Leveysaste: %1</translation>

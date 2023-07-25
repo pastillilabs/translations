@@ -7,5 +7,9 @@
         <source>Internet sharing</source>
         <translation>Internet-yhteyden jako</translation>
     </message>
+    <message id="tethering_description">
+        <source>Internet sharing (hotspot) setting</source>
+        <translation>Internet yhteyden jakamisen (Hotspot) asetus</translation>
+    </message>
 </context>
 </TS>

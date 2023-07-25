@@ -7,5 +7,9 @@
         <source>Ringtone Volume</source>
         <translation>铃声音量</translation>
     </message>
+    <message id="volumeringtone_description">
+        <source>Ringtone volume setting</source>
+        <translation>铃声音量设置</translation>
+    </message>
 </context>
 </TS>

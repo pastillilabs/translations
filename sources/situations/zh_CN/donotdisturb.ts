@@ -7,5 +7,9 @@
         <source>Do Not Disturb</source>
         <translation>勿扰模式</translation>
     </message>
+    <message id="donotdisturb_description">
+        <source>Do Not Disturb setting</source>
+        <translation>启用勿扰模式</translation>
+    </message>
 </context>
 </TS>

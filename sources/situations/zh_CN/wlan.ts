@@ -7,5 +7,9 @@
         <source>WiFi State</source>
         <translation>WiFi 状态</translation>
     </message>
+    <message id="wlan_description">
+        <source>WiFi State</source>
+        <translation type="unfinished">WiFi State setting</translation>
+    </message>
 </context>
 </TS>

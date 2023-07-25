@@ -7,6 +7,10 @@
         <source>Launch</source>
         <translation>Avaa</translation>
     </message>
+    <message id="launch_description">
+        <source>Launch</source>
+        <translation>Avaa valittu sovellus</translation>
+    </message>
     <message id="launch_select_application">
         <source>Select application</source>
         <translation>Valitse sovellus</translation>

@@ -7,5 +7,9 @@
         <source>NFC</source>
         <translation>NFC</translation>
     </message>
+    <message id="nfcstate_description">
+        <source>NFC setting</source>
+        <translation>Impostazioni NFC</translation>
+    </message>
 </context>
 </TS>

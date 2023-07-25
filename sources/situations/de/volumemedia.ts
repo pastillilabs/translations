@@ -7,5 +7,9 @@
         <source>Media Volume</source>
         <translation>Medien-Lautstärke</translation>
     </message>
+    <message id="volumemedia_description">
+        <source>Media volume setting</source>
+        <translation>Medien-Lautstärke anpassen</translation>
+    </message>
 </context>
 </TS>

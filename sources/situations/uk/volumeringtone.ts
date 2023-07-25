@@ -7,5 +7,9 @@
         <source>Ringtone Volume</source>
         <translation>Гучність виклику</translation>
     </message>
+    <message id="volumeringtone_description">
+        <source>Ringtone volume setting</source>
+        <translation>Встановити гучність виклику</translation>
+    </message>
 </context>
 </TS>

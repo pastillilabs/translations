@@ -7,5 +7,9 @@
         <source>Open URL</source>
         <translation>Avaa URL</translation>
     </message>
+    <message id="url_description">
+        <source>Open URL</source>
+        <translation>Avaa annettu osoite selaimessa</translation>
+    </message>
 </context>
 </TS>

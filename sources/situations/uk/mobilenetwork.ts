@@ -7,6 +7,10 @@
         <source>Mobile Network</source>
         <translation>Мобільна мережа</translation>
     </message>
+    <message id="mobilenetwork_description">
+        <source>Mobile network setting</source>
+        <translation>Перемикання мобільної мережі</translation>
+    </message>
     <message id="mobilenetwork_dual">
         <source>Dual</source>
         <translation>Подвійна</translation>

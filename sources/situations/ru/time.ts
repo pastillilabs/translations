@@ -7,6 +7,10 @@
         <source>Time</source>
         <translation>Время</translation>
     </message>
+    <message id="time_description">
+        <source>Time</source>
+        <translation type="unfinished">Current time and day</translation>
+    </message>
     <message id="time_mo">
         <source>Mo</source>
         <translation>ПН</translation>

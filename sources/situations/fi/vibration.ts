@@ -7,6 +7,10 @@
         <source>Vibration</source>
         <translation>Värinä</translation>
     </message>
+    <message id="vibration_description">
+        <source>Vibration setting</source>
+        <translation>Värinäasetus</translation>
+    </message>
     <message id="vibration_on">
         <source>Always</source>
         <translation>Aina</translation>

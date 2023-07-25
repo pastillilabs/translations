@@ -7,5 +7,9 @@
         <source>WiFi State</source>
         <translation>WLAN Tila</translation>
     </message>
+    <message id="wlan_description">
+        <source>WiFi State</source>
+        <translation>WLAN tilan asetus</translation>
+    </message>
 </context>
 </TS>

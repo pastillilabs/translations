@@ -7,5 +7,9 @@
         <source>Display</source>
         <translation>Tela</translation>
     </message>
+    <message id="display_description">
+        <source>Display on/off state</source>
+        <translation>Situação de ligar ou desligar a tela</translation>
+    </message>
 </context>
 </TS>

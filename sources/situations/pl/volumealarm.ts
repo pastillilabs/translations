@@ -7,5 +7,9 @@
         <source>Alarm Volume</source>
         <translation>Głośność budzika</translation>
     </message>
+    <message id="volumealarm_description">
+        <source>Alarm volume setting</source>
+        <translation>Ustawienia głośności budzika</translation>
+    </message>
 </context>
 </TS>

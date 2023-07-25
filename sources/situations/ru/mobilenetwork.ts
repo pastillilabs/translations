@@ -7,6 +7,10 @@
         <source>Mobile Network</source>
         <translation>Режим сети</translation>
     </message>
+    <message id="mobilenetwork_description">
+        <source>Mobile network setting</source>
+        <translation>Переключатель мобильной сети</translation>
+    </message>
     <message id="mobilenetwork_dual">
         <source>Dual</source>
         <translation>Двойной</translation>

@@ -7,6 +7,10 @@
         <source>Screen Timeout</source>
         <translation>Затримка екрану</translation>
     </message>
+    <message id="screentimeout_description">
+        <source>Screen timeout setting</source>
+        <translation>Затримка екрану</translation>
+    </message>
     <message id="screentimeout_seconds" numerus="yes">
         <source>%n second(s)</source>
         <translation type="unfinished">

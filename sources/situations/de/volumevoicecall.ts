@@ -7,5 +7,9 @@
         <source>Voice Call Volume</source>
         <translation>Hörer-Lautstärke</translation>
     </message>
+    <message id="volumevoicecall_description">
+        <source>Voice Call Volume setting</source>
+        <translation>Hörer-Lautstärke anpassen</translation>
+    </message>
 </context>
 </TS>

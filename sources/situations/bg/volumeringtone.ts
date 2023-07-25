@@ -7,5 +7,9 @@
         <source>Ringtone Volume</source>
         <translation>Позвъняване</translation>
     </message>
+    <message id="volumeringtone_description">
+        <source>Ringtone volume setting</source>
+        <translation>Управление нивото на звука при позвъняване</translation>
+    </message>
 </context>
 </TS>

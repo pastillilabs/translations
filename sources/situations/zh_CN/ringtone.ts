@@ -7,5 +7,9 @@
         <source>Ringtone</source>
         <translation>铃声</translation>
     </message>
+    <message id="ringtone_description">
+        <source>Ringtone setting</source>
+        <translation>铃声设置</translation>
+    </message>
 </context>
 </TS>

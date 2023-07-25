@@ -7,6 +7,10 @@
         <source>Contact Volume</source>
         <translation>Głośność dzwonka kontaktu</translation>
     </message>
+    <message id="volumecontact_description">
+        <source>Contact specific volume for incoming calls and SMS</source>
+        <translation>Ustawienia głośności o połączeniu przychodzącym i SMS dla wybranego kontaktu</translation>
+    </message>
     <message id="volumecontact_select_contact">
         <source>Select contact</source>
         <translation>Wybierz kontakt</translation>

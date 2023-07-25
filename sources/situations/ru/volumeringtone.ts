@@ -7,5 +7,9 @@
         <source>Ringtone Volume</source>
         <translation>Звонок</translation>
     </message>
+    <message id="volumeringtone_description">
+        <source>Ringtone volume setting</source>
+        <translation>Настраивает громкость звонка</translation>
+    </message>
 </context>
 </TS>

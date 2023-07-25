@@ -7,6 +7,10 @@
         <source>Mobile Network</source>
         <translation>Verkkotila</translation>
     </message>
+    <message id="mobilenetwork_description">
+        <source>Mobile network setting</source>
+        <translation>Mobiiliverkon asetus</translation>
+    </message>
     <message id="mobilenetwork_dual">
         <source>Dual</source>
         <translation>Kaksitoimisuus</translation>

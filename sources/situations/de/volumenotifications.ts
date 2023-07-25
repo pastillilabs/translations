@@ -7,5 +7,9 @@
         <source>Notification Volume</source>
         <translation>Benachrichtigungs-Lautstärke</translation>
     </message>
+    <message id="volumenotifications_description">
+        <source>Notifications volume setting</source>
+        <translation>Benachrichtigungs-Lautstärke anpassen</translation>
+    </message>
 </context>
 </TS>

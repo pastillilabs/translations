@@ -7,6 +7,10 @@
         <source>Activity</source>
         <translation>Aktywność</translation>
     </message>
+    <message id="activity_description">
+        <source>Change situation based on current activity (like walking, cycling or driving).</source>
+        <translation>Zmień sytuację na podstawie aktualnej aktywności (jak spacerowanie, jazda na rowerze czy jazda samochodem).</translation>
+    </message>
     <message id="activity_invehicle">
         <source>In a vehicle</source>
         <translation>W samochodzie</translation>

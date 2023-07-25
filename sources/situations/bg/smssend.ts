@@ -7,6 +7,10 @@
         <source>Send SMS</source>
         <translation>Изпрати SMS</translation>
     </message>
+    <message id="smssend_description">
+        <source>Sends SMS message to selected contact</source>
+        <translation>Изпраща SMS съобщение до избран контакт</translation>
+    </message>
     <message id="smssend_default_message">
         <source>
 

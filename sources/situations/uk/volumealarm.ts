@@ -7,5 +7,9 @@
         <source>Alarm Volume</source>
         <translation>Гучність Будильнику</translation>
     </message>
+    <message id="volumealarm_description">
+        <source>Alarm volume setting</source>
+        <translation>Встановити гучність Будильнику</translation>
+    </message>
 </context>
 </TS>

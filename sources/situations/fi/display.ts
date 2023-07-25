@@ -7,5 +7,9 @@
         <source>Display</source>
         <translation>Näyttö</translation>
     </message>
+    <message id="display_description">
+        <source>Display on/off state</source>
+        <translation>Näyttö päällä/pois -ehto</translation>
+    </message>
 </context>
 </TS>

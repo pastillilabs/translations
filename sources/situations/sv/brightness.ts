@@ -7,6 +7,10 @@
         <source>Display Brightness</source>
         <translation>Skärmens ljusstyrka</translation>
     </message>
+    <message id="brightness_description">
+        <source>Display brightness setting</source>
+        <translation type="unfinished">Display brightness setting</translation>
+    </message>
     <message id="automatic">
         <source>Automatic</source>
         <translation>Automatisk</translation>

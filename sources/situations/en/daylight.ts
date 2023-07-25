@@ -7,6 +7,10 @@
         <source>Daylight</source>
         <translation>Daylight</translation>
     </message>
+    <message id="daylight_description">
+        <source>Current time is between sunrise and sunset</source>
+        <translation>Current time is between sunrise and sunset</translation>
+    </message>
     <message id="daylight_latitude">
         <source>Latitude: %1</source>
         <translation>Latitude: %1</translation>

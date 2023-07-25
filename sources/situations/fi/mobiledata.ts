@@ -7,5 +7,9 @@
         <source>Mobile Data</source>
         <translation>Mobiili Data</translation>
     </message>
+    <message id="mobiledata_description">
+        <source>Mobile data setting</source>
+        <translation>Mobiilidatan asetus</translation>
+    </message>
 </context>
 </TS>

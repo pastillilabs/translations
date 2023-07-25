@@ -7,6 +7,10 @@
         <source>Contact Volume</source>
         <translation>Volumen de contacto</translation>
     </message>
+    <message id="volumecontact_description">
+        <source>Contact specific volume for incoming calls and SMS</source>
+        <translation>Volumen de llamadas entrantes y SMS para un contacto en específico</translation>
+    </message>
     <message id="volumecontact_select_contact">
         <source>Select contact</source>
         <translation>Seleccionar contacto</translation>

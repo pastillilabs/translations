@@ -7,5 +7,9 @@
         <source>Ringtone</source>
         <translation type="unfinished">Ringtone</translation>
     </message>
+    <message id="ringtone_description">
+        <source>Ringtone setting</source>
+        <translation type="unfinished">Ringtone setting</translation>
+    </message>
 </context>
 </TS>

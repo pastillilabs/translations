@@ -7,13 +7,25 @@
         <source>Bluetooth Devices</source>
         <translation>Bluetooth Laitteet</translation>
     </message>
-    <message id="btscan_search">
-        <source>Search for devices</source>
-        <translation>Etsi laitteita</translation>
+    <message id="btscan_description">
+        <source>Simple nearby Bluetooth device detection</source>
+        <translation>Yksinkertainen lähistöllä olevien Bluetooth laitteiden haku</translation>
+    </message>
+    <message id="btscanpro_name">
+        <source>Bluetooth Devices Pro</source>
+        <translation>Bluetooth Laitteet Pro</translation>
+    </message>
+    <message id="btscanpro_description">
+        <source>Advanced nearby Bluetooth device detection with address based search and scan interval selection</source>
+        <translation>Laajennettu lähistöllä olevien Bluetooth laitteiden haku myös osoitteen perusteella sekä hakutiheyden valinnalla</translation>
     </message>
     <message id="btscan_connection_name">
-        <source>Or enter connection name</source>
-        <translation>Tai anna laitteen nimi</translation>
+        <source>Device name</source>
+        <translation>Laitteen nimi</translation>
+    </message>
+    <message id="btscan_connection_address">
+        <source>Device address</source>
+        <translation>Laitteen osoite</translation>
     </message>
     <message id="btscan_connections">
         <source>Devices</source>
@@ -26,6 +38,37 @@
     <message id="btscan_turn_on_bt">
         <source>Turn on Bluetooth</source>
         <translation>Bluetooth päälle</translation>
+    </message>
+    <message id="btscan_interval">
+        <source>Scan interval</source>
+        <translation>Hakutiheys</translation>
+    </message>
+    <message id="btscan_interval_minutes" numerus="yes">
+        <source>%n minute(s)</source>
+        <translation>
+            <numerusform>%n minuutti</numerusform>
+            <numerusform>%n minuuttia</numerusform>
+        </translation>
+    </message>
+    <message id="btscan_method">
+        <source>Method</source>
+        <translation>Metodi</translation>
+    </message>
+    <message id="btscan_method_scanning">
+        <source>Scan devices</source>
+        <translation>Hae laitteita</translation>
+    </message>
+    <message id="btscan_method_active">
+        <source>Active connection</source>
+        <translation>Aktiivinen yhteys</translation>
+    </message>
+    <message id="btscan_method_any">
+        <source>Any connection</source>
+        <translation>Mikä tahansa yhteys</translation>
+    </message>
+    <message id="btscan_device">
+        <source>Device</source>
+        <translation>Laite</translation>
     </message>
 </context>
 </TS>

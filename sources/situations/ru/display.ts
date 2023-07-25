@@ -7,5 +7,9 @@
         <source>Display</source>
         <translation type="unfinished">Display</translation>
     </message>
+    <message id="display_description">
+        <source>Display on/off state</source>
+        <translation type="unfinished">Display on/off state</translation>
+    </message>
 </context>
 </TS>

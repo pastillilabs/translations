@@ -7,6 +7,10 @@
         <source>Call State</source>
         <translation>通话状态</translation>
     </message>
+    <message id="callstate_description">
+        <source>Current call state</source>
+        <translation>通话状态</translation>
+    </message>
     <message id="callstate_none">
         <source>None</source>
         <translation>无</translation>

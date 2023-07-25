@@ -7,6 +7,10 @@
         <source>Close</source>
         <translation type="unfinished">Close</translation>
     </message>
+    <message id="close_description">
+        <source>Close</source>
+        <translation type="unfinished">Close open application if possible</translation>
+    </message>
     <message id="close_all">
         <source>All open applications</source>
         <translation type="unfinished">All open applications</translation>

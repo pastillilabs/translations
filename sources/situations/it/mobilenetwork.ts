@@ -7,6 +7,10 @@
         <source>Mobile Network</source>
         <translation>Rete mobile</translation>
     </message>
+    <message id="mobilenetwork_description">
+        <source>Mobile network setting</source>
+        <translation>Impostazioni per la modalità di rete</translation>
+    </message>
     <message id="mobilenetwork_dual">
         <source>Dual</source>
         <translation>Duale</translation>

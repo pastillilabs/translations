@@ -7,6 +7,10 @@
         <source>Vibration</source>
         <translation>Wibracje</translation>
     </message>
+    <message id="vibration_description">
+        <source>Vibration setting</source>
+        <translation>Ustawienia wibracji</translation>
+    </message>
     <message id="vibration_on">
         <source>Always</source>
         <translation>Zawsze</translation>

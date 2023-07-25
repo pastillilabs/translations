@@ -7,5 +7,9 @@
         <source>Voice Call Volume</source>
         <translation>Volym för röstsamtal</translation>
     </message>
+    <message id="volumevoicecall_description">
+        <source>Voice Call Volume setting</source>
+        <translation>Volyminställning för röstsamtal</translation>
+    </message>
 </context>
 </TS>

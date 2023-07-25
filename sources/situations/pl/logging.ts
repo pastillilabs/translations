@@ -7,6 +7,10 @@
         <source>Log</source>
         <translation>Dziennik zdarzeń</translation>
     </message>
+    <message id="logging_description">
+        <source>Keep log of situation changes</source>
+        <translation>Zapisuj w dzienniku zdarzeń zmianę sytuacji</translation>
+    </message>
     <message id="open_log">
         <source>Open</source>
         <translation>Otwórz</translation>

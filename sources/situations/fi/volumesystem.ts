@@ -7,5 +7,9 @@
         <source>System Volume</source>
         <translation>Järjestelmä-äänten Voimakkuus</translation>
     </message>
+    <message id="volumesystem_description">
+        <source>System volume setting</source>
+        <translation>Järjestelmä-äänten voimakkuuden asetus</translation>
+    </message>
 </context>
 </TS>

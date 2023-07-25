@@ -7,6 +7,10 @@
         <source>Profile</source>
         <translation>配置</translation>
     </message>
+    <message id="profile_description">
+        <source>Profile</source>
+        <translation type="unfinished">Active profile</translation>
+    </message>
     <message id="profile_silent">
         <source>Silent</source>
         <translation>静音</translation>

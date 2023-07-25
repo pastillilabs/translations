@@ -7,5 +7,9 @@
         <source>Airplane Mode</source>
         <translation>В літаку</translation>
     </message>
+    <message id="flightmode_description">
+        <source>Airplane mode setting</source>
+        <translation>Перемикання режиму &quot;В літаку&quot;</translation>
+    </message>
 </context>
 </TS>

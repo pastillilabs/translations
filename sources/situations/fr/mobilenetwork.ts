@@ -7,6 +7,10 @@
         <source>Mobile Network</source>
         <translation>Réseau Mobile</translation>
     </message>
+    <message id="mobilenetwork_description">
+        <source>Mobile network setting</source>
+        <translation>Bouton de réseau mobile</translation>
+    </message>
     <message id="mobilenetwork_dual">
         <source>Dual</source>
         <translation>Bi-mode</translation>

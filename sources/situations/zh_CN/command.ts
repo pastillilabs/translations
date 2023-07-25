@@ -7,5 +7,9 @@
         <source>Command</source>
         <translation>命令</translation>
     </message>
+    <message id="command_description">
+        <source>Run any custom command</source>
+        <translation>运行任意自定义命令</translation>
+    </message>
 </context>
 </TS>

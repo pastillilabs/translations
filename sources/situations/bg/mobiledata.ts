@@ -7,5 +7,9 @@
         <source>Mobile Data</source>
         <translation>Мобилен интернет</translation>
     </message>
+    <message id="mobiledata_description">
+        <source>Mobile data setting</source>
+        <translation>Включва\изключва мобилния интернет</translation>
+    </message>
 </context>
 </TS>

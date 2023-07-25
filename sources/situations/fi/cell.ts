@@ -7,6 +7,10 @@
         <source>Network Cells</source>
         <translation>Verkkosolut</translation>
     </message>
+    <message id="cell_description">
+        <source>Network Cells</source>
+        <translation>Yksinkertainen yhdistettyjen verkkosolujen haku</translation>
+    </message>
     <message id="cell_area_name">
         <source>Area name</source>
         <translation>Alueen nimi</translation>

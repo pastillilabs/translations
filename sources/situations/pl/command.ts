@@ -7,5 +7,9 @@
         <source>Command</source>
         <translation>Polecenie</translation>
     </message>
+    <message id="command_description">
+        <source>Run any custom command</source>
+        <translation>Uruchom dowolne polecenie</translation>
+    </message>
 </context>
 </TS>

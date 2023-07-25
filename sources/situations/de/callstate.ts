@@ -7,6 +7,10 @@
         <source>Call State</source>
         <translation>Anrufstatus</translation>
     </message>
+    <message id="callstate_description">
+        <source>Current call state</source>
+        <translation>Aktueller Anrufstatus</translation>
+    </message>
     <message id="callstate_none">
         <source>None</source>
         <translation>Nichts</translation>

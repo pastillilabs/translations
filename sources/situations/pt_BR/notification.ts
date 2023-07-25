@@ -7,6 +7,10 @@
         <source>Notification</source>
         <translation type="unfinished">Notification</translation>
     </message>
+    <message id="notification_description">
+        <source>Monitor notifications with keyword and pattern matching</source>
+        <translation type="unfinished">Monitor notifications with keyword and pattern matching</translation>
+    </message>
     <message id="notification_package">
         <source>From package</source>
         <translation type="unfinished">From package</translation>

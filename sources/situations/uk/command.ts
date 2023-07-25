@@ -7,5 +7,9 @@
         <source>Command</source>
         <translation>Команда</translation>
     </message>
+    <message id="command_description">
+        <source>Run any custom command</source>
+        <translation>Виконання будь-якої команди</translation>
+    </message>
 </context>
 </TS>

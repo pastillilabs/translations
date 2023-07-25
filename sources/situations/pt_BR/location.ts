@@ -23,6 +23,10 @@
         <source>Location</source>
         <translation>Localização</translation>
     </message>
+    <message id="location_description">
+        <source>Location condition using the best available positioning method</source>
+        <translation>Situação Localização com uso do melhor método de posicionamento possivel</translation>
+    </message>
     <message id="location_disabled">
         <source>Please enable Location from system settings</source>
         <translation>Por favor ative a opção do sistema de Localização</translation>

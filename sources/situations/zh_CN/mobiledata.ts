@@ -7,5 +7,9 @@
         <source>Mobile Data</source>
         <translation>移动数据</translation>
     </message>
+    <message id="mobiledata_description">
+        <source>Mobile data setting</source>
+        <translation>移动数据网络连接设置</translation>
+    </message>
 </context>
 </TS>

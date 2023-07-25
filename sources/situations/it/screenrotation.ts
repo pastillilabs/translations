@@ -7,5 +7,9 @@
         <source>Screen Rotation</source>
         <translation>Rotazione schermo</translation>
     </message>
+    <message id="screenrotation_description">
+        <source>Screen auto rotation setting</source>
+        <translation>Impostazioni per la rotazione automatica dello schermo</translation>
+    </message>
 </context>
 </TS>

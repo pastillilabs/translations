@@ -7,5 +7,13 @@
         <source>Situation</source>
         <translation>Situation</translation>
     </message>
+    <message id="current_description">
+        <source>Situation</source>
+        <translation>Currently active situation</translation>
+    </message>
+    <message id="current_invalid_situation">
+        <source>Invalid situation</source>
+        <translation>Invalid situation</translation>
+    </message>
 </context>
 </TS>

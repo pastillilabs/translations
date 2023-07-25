@@ -7,6 +7,10 @@
         <source>Screen Timeout</source>
         <translation>Mise en veille de l&apos;écran</translation>
     </message>
+    <message id="screentimeout_description">
+        <source>Screen timeout setting</source>
+        <translation>Mise en veille de l&apos;écran</translation>
+    </message>
     <message id="screentimeout_seconds" numerus="yes">
         <source>%n second(s)</source>
         <translation>

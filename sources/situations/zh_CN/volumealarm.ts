@@ -7,5 +7,9 @@
         <source>Alarm Volume</source>
         <translation>提醒音量</translation>
     </message>
+    <message id="volumealarm_description">
+        <source>Alarm volume setting</source>
+        <translation>通知音量设置</translation>
+    </message>
 </context>
 </TS>

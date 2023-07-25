@@ -7,5 +7,9 @@
         <source>Notification Volume</source>
         <translation>通知音量</translation>
     </message>
+    <message id="volumenotifications_description">
+        <source>Notifications volume setting</source>
+        <translation>通知音量设置</translation>
+    </message>
 </context>
 </TS>

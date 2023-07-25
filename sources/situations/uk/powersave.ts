@@ -7,5 +7,9 @@
         <source>Battery Saver</source>
         <translation type="unfinished">Battery Saver</translation>
     </message>
+    <message id="powersave_description">
+        <source>Battery Saver setting</source>
+        <translation type="unfinished">Battery Saver setting</translation>
+    </message>
 </context>
 </TS>

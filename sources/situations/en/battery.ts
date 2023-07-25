@@ -7,6 +7,10 @@
         <source>Battery</source>
         <translation>Battery</translation>
     </message>
+    <message id="battery_description">
+        <source>Battery level</source>
+        <translation>Battery level</translation>
+    </message>
     <message id="battery_remaining">
         <source>%1% remaining</source>
         <translation>%1% remaining</translation>

@@ -7,5 +7,9 @@
         <source>Sync</source>
         <translation>Синхронізація</translation>
     </message>
+    <message id="sync_description">
+        <source>Account synchronization setting</source>
+        <translation>Перемикання синхронізації</translation>
+    </message>
 </context>
 </TS>

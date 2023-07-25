@@ -23,6 +23,10 @@
         <source>Location</source>
         <translation>Sijainti</translation>
     </message>
+    <message id="location_description">
+        <source>Location condition using the best available positioning method</source>
+        <translation>Sijainti parhaimmalla saatavilla olevalla paikannusmenetelmällä</translation>
+    </message>
     <message id="location_disabled">
         <source>Please enable Location from system settings</source>
         <translation>Ole hyvä ja aseta Sijainti päälle järjestelmäasetuksista</translation>

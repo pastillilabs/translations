@@ -7,5 +7,9 @@
         <source>Unread SMS Messages</source>
         <translation>Olästa SMS-meddelanden</translation>
     </message>
+    <message id="missedsms_description">
+        <source>There are unread SMS messages</source>
+        <translation>Det finns olästa SMS-meddelanden</translation>
+    </message>
 </context>
 </TS>

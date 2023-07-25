@@ -7,6 +7,10 @@
         <source>Network Cells</source>
         <translation>Network Cells</translation>
     </message>
+    <message id="cell_description">
+        <source>Network Cells</source>
+        <translation>Simple mobile network cell detection</translation>
+    </message>
     <message id="cell_area_name">
         <source>Area name</source>
         <translation>Area name</translation>

@@ -7,5 +7,9 @@
         <source>Voice Call Volume</source>
         <translation>Voice Call Volume</translation>
     </message>
+    <message id="volumevoicecall_description">
+        <source>Voice Call Volume setting</source>
+        <translation>Voice Call Volume setting</translation>
+    </message>
 </context>
 </TS>

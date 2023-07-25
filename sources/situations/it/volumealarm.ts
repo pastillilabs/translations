@@ -7,5 +7,9 @@
         <source>Alarm Volume</source>
         <translation>Volume sveglia</translation>
     </message>
+    <message id="volumealarm_description">
+        <source>Alarm volume setting</source>
+        <translation>Regolazione volume sveglia</translation>
+    </message>
 </context>
 </TS>

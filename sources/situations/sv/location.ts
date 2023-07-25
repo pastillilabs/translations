@@ -23,6 +23,10 @@
         <source>Location</source>
         <translation>Plats</translation>
     </message>
+    <message id="location_description">
+        <source>Location condition using the best available positioning method</source>
+        <translation>Platstillstånd med bästa tillgängliga positioneringsmetod</translation>
+    </message>
     <message id="location_disabled">
         <source>Please enable Location from system settings</source>
         <translation>Aktivera platstjänster i systeminställningarna</translation>

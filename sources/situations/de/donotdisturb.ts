@@ -7,5 +7,9 @@
         <source>Do Not Disturb</source>
         <translation>Bitte nicht stören</translation>
     </message>
+    <message id="donotdisturb_description">
+        <source>Do Not Disturb setting</source>
+        <translation>Bitte nicht stören anpassen</translation>
+    </message>
 </context>
 </TS>

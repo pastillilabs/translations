@@ -129,10 +129,6 @@ die App!</translation>
         <source>Install</source>
         <translation>Installieren</translation>
     </message>
-    <message id="update">
-        <source>Update</source>
-        <translation>Aktualisieren</translation>
-    </message>
     <message id="uninstall">
         <source>Remove</source>
         <translation>Deinstallieren</translation>
@@ -233,21 +229,21 @@ Situations app uses the gathered location information locally and only to activa
 
 Die Situations-App nutzt die erfassten Standortdaten nur lokal und nur, um von Ihnen erstellte Situationen zu aktivieren.</translation>
     </message>
-    <message id="sonar_query">
-        <source>Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</source>
-        <translation>Einige der genutzten Funktionen erfordern die Installation oder Aktualisierung einer separaten Komponente namens Sonar.&lt;br&gt;&lt;br&gt;Bitte erlauben Sie die Installation von Software aus unauthorisierten Quellen in den Geräteeinstellungen und setzen Sie die Installation fort.&lt;br&gt;&lt;br&gt;Weitere Informationen unter:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;.&lt;/b&gt;</translation>
+    <message id="daemon_install">
+        <source>Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue.</source>
+        <translation type="unfinished">Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue.</translation>
     </message>
-    <message id="sonar_install">
-        <source>Install Sonar</source>
-        <translation>Sonar installieren</translation>
+    <message id="daemon_install_warning">
+        <source>WARNING: Background service will run with root privileges. Proceed at your own risk!</source>
+        <translation type="unfinished">WARNING: Background service will run with root privileges. Proceed at your own risk!</translation>
     </message>
-    <message id="sonar_update">
-        <source>Update Sonar</source>
-        <translation>Sonar aktualisieren</translation>
+    <message id="note">
+        <source>Note!</source>
+        <translation type="unfinished">Note!</translation>
     </message>
-    <message id="sonar_uninstall">
-        <source>Uninstall Sonar</source>
-        <translation>Sonar deinstallieren</translation>
+    <message id="exit_description">
+        <source>This will exit application UI.</source>
+        <translation type="unfinished">This will exit application UI.</translation>
     </message>
     <message id="less_than">
         <source>Less than</source>
@@ -309,6 +305,14 @@ Die Situations-App nutzt die erfassten Standortdaten nur lokal und nur, um von I
         <source>Dark</source>
         <translation>Dunkel</translation>
     </message>
+    <message id="background_service">
+        <source>Background service</source>
+        <translation type="unfinished">Background service</translation>
+    </message>
+    <message id="uninstall">
+        <source>Uninstall</source>
+        <translation type="unfinished">Uninstall</translation>
+    </message>
     <message id="user_action_title">
         <source>User Action Required!</source>
         <translation>Benutzereingriff erforderlich!</translation>
@@ -348,6 +352,18 @@ Die Situations-App nutzt die erfassten Standortdaten nur lokal und nur, um von I
     <message id="empty">
         <source>Empty</source>
         <translation>leer</translation>
+    </message>
+    <message id="plugins_name">
+        <source>Get all plugins!!</source>
+        <translation>Alle Plugins bekommen!!</translation>
+    </message>
+    <message id="plugins_description">
+        <source>***</source>
+        <translation>***</translation>
+    </message>
+    <message id="pro_title">
+        <source>Pro version:</source>
+        <translation type="unfinished">Pro version:</translation>
     </message>
 </context>
 </TS>

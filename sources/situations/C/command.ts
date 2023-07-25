@@ -7,5 +7,9 @@
         <source>Command</source>
         <translation type="unfinished">Command</translation>
     </message>
+    <message id="command_description">
+        <source>Run any custom command</source>
+        <translation type="unfinished">Run any custom command</translation>
+    </message>
 </context>
 </TS>

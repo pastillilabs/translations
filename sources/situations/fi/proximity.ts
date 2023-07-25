@@ -7,5 +7,9 @@
         <source>Proximity Sensor</source>
         <translation>Etäisyysanturi</translation>
     </message>
+    <message id="proximity_description">
+        <source>Detect objects being close to the device</source>
+        <translation>Tunnista laitteen läheisyys johonkin esineeseen</translation>
+    </message>
 </context>
 </TS>

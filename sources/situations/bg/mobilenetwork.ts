@@ -7,6 +7,10 @@
         <source>Mobile Network</source>
         <translation type="unfinished">Mobile Network</translation>
     </message>
+    <message id="mobilenetwork_description">
+        <source>Mobile network setting</source>
+        <translation type="unfinished">Mobile network toggle</translation>
+    </message>
     <message id="mobilenetwork_dual">
         <source>Dual</source>
         <translation type="unfinished">Dual</translation>

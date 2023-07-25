@@ -7,5 +7,13 @@
         <source>Situation</source>
         <translation>Tilanne</translation>
     </message>
+    <message id="current_description">
+        <source>Situation</source>
+        <translation>Aktiivinen tilanne</translation>
+    </message>
+    <message id="current_invalid_situation">
+        <source>Invalid situation</source>
+        <translation type="unfinished">Invalid situation</translation>
+    </message>
 </context>
 </TS>

@@ -7,5 +7,9 @@
         <source>Airplane Mode</source>
         <translation>Lentotila</translation>
     </message>
+    <message id="flightmode_description">
+        <source>Airplane mode setting</source>
+        <translation>Lentotilan asetus</translation>
+    </message>
 </context>
 </TS>

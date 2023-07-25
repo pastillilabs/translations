@@ -7,5 +7,9 @@
         <source>Watchface</source>
         <translation>Kellotaulu</translation>
     </message>
+    <message id="watchface_description">
+        <source>Change watchface on your smartwatch. Compatible with Rockpool app.</source>
+        <translation>Vaihda kellotaulu älykellossasi. Yhteensopiva Rockpool -sovelluksen kanssa.</translation>
+    </message>
 </context>
 </TS>

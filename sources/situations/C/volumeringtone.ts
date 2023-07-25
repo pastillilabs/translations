@@ -7,5 +7,9 @@
         <source>Ringtone Volume</source>
         <translation type="unfinished">Ringtone Volume</translation>
     </message>
+    <message id="volumeringtone_description">
+        <source>Ringtone volume setting</source>
+        <translation type="unfinished">Ringtone volume setting</translation>
+    </message>
 </context>
 </TS>

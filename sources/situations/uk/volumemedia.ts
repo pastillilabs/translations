@@ -7,5 +7,9 @@
         <source>Media Volume</source>
         <translation>Гучність носія</translation>
     </message>
+    <message id="volumemedia_description">
+        <source>Media volume setting</source>
+        <translation>Встановити гучність носіїв</translation>
+    </message>
 </context>
 </TS>

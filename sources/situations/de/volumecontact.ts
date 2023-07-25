@@ -7,6 +7,10 @@
         <source>Contact Volume</source>
         <translation>Lautstärke je nach Kontakt</translation>
     </message>
+    <message id="volumecontact_description">
+        <source>Contact specific volume for incoming calls and SMS</source>
+        <translation>Je nach Kontakt unterschiedliche Lautstärke für Anrufe und SMS</translation>
+    </message>
     <message id="volumecontact_select_contact">
         <source>Select contact</source>
         <translation>Kontakt auswählen</translation>

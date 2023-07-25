@@ -7,5 +7,9 @@
         <source>Bluetooth State</source>
         <translation>Bluetooth State</translation>
     </message>
+    <message id="bluetooth_description">
+        <source>Bluetooth state setting</source>
+        <translation>Bluetooth State setting</translation>
+    </message>
 </context>
 </TS>

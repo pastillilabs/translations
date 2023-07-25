@@ -7,5 +7,9 @@
         <source>Ambience</source>
         <translation>Ambience</translation>
     </message>
+    <message id="ambience_description">
+        <source>Ambience setting</source>
+        <translation>Ambience-Einstellung</translation>
+    </message>
 </context>
 </TS>

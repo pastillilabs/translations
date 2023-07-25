@@ -7,5 +7,9 @@
         <source>Ringtone Volume</source>
         <translation>Klingelton-Lautstärke</translation>
     </message>
+    <message id="volumeringtone_description">
+        <source>Ringtone volume setting</source>
+        <translation>Klingelton-Lautstärke anpassen</translation>
+    </message>
 </context>
 </TS>

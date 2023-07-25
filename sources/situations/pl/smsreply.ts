@@ -7,6 +7,10 @@
         <source>SMS Reply</source>
         <translation>Odpowiedź SMS</translation>
     </message>
+    <message id="smsreply_description">
+        <source>Reply missed calls with SMS</source>
+        <translation>Wyślij automatyczną odpowiedź po nieodebranym połączeniu</translation>
+    </message>
     <message id="smsreply_default_answer">
         <source>Sorry, cannot answer right now.
 

@@ -129,10 +129,6 @@ sovelluksen!</translation>
         <source>Install</source>
         <translation>Asenna</translation>
     </message>
-    <message id="update">
-        <source>Update</source>
-        <translation>Päivitä</translation>
-    </message>
     <message id="uninstall">
         <source>Remove</source>
         <translation>Poista</translation>
@@ -233,21 +229,21 @@ Situations app uses the gathered location information locally and only to activa
 
 Situations käyttää paikannustietoja ainoastaan tilanteiden aktivoimiseksi paikallisesti.</translation>
     </message>
-    <message id="sonar_query">
-        <source>Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</source>
-        <translation>Jotkin käytössä olevista toiminnoista vaativat erillisen tukisovelluksen 'Sonar' asentamista tai päivittämistä.&lt;br&gt;&lt;br&gt;Ole hyvä ja salli ei-luotettujen ohjelmistojen asentaminen laitteen asetuksista ja jatka asennukseen.&lt;br&gt;&lt;br&gt;Lisätietoja osoitteessa:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</translation>
+    <message id="daemon_install">
+        <source>Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue.</source>
+        <translation>Taustasovelluksen käynnistys tulee asentaa erikseen. Ole hyvä ja salli ensin ei-luotettujen ohjelmistojen asentaminen laitteen asetuksista ja sitten jatka asennukseen.</translation>
     </message>
-    <message id="sonar_install">
-        <source>Install Sonar</source>
-        <translation>Asenna Sonar</translation>
+    <message id="daemon_install_warning">
+        <source>WARNING: Background service will run with root privileges. Proceed at your own risk!</source>
+        <translation>VAROITUS: Taustasovellusta ajetaan pääkäyttäjän oikeuksilla. Jatka omalla vastuulla!</translation>
     </message>
-    <message id="sonar_update">
-        <source>Update Sonar</source>
-        <translation>Päivitä Sonar</translation>
+    <message id="note">
+        <source>Note!</source>
+        <translation>Huom!</translation>
     </message>
-    <message id="sonar_uninstall">
-        <source>Uninstall Sonar</source>
-        <translation>Poista Sonar</translation>
+    <message id="exit_description">
+        <source>This will exit application UI.</source>
+        <translation>Käyttöliittymä suljetaan.</translation>
     </message>
     <message id="less_than">
         <source>Less than</source>
@@ -309,6 +305,14 @@ Situations käyttää paikannustietoja ainoastaan tilanteiden aktivoimiseksi pai
         <source>Dark</source>
         <translation>Tumma</translation>
     </message>
+    <message id="background_service">
+        <source>Background service</source>
+        <translation>Taustasovellus</translation>
+    </message>
+    <message id="uninstall">
+        <source>Uninstall</source>
+        <translation>Poista</translation>
+    </message>
     <message id="user_action_title">
         <source>User Action Required!</source>
         <translation>Käyttäjän Apua Tarvitaan!</translation>
@@ -348,6 +352,18 @@ Situations käyttää paikannustietoja ainoastaan tilanteiden aktivoimiseksi pai
     <message id="empty">
         <source>Empty</source>
         <translation>Tyhjä</translation>
+    </message>
+    <message id="plugins_name">
+        <source>Get all plugins!!</source>
+        <translation>Hankki kerralla kaikki!!</translation>
+    </message>
+    <message id="plugins_description">
+        <source>***</source>
+        <translation>***</translation>
+    </message>
+    <message id="pro_title">
+        <source>Pro version:</source>
+        <translation>Pro versio:</translation>
     </message>
 </context>
 </TS>

@@ -7,5 +7,9 @@
         <source>Mobile Data</source>
         <translation>Données Mobiles</translation>
     </message>
+    <message id="mobiledata_description">
+        <source>Mobile data setting</source>
+        <translation>Bouton de données mobiles</translation>
+    </message>
 </context>
 </TS>

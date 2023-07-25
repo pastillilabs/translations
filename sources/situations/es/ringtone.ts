@@ -7,5 +7,9 @@
         <source>Ringtone</source>
         <translation>Tono de llamada</translation>
     </message>
+    <message id="ringtone_description">
+        <source>Ringtone setting</source>
+        <translation>Ajuste de tono de llamada</translation>
+    </message>
 </context>
 </TS>

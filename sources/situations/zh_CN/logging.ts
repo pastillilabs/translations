@@ -7,6 +7,10 @@
         <source>Log</source>
         <translation>日志</translation>
     </message>
+    <message id="logging_description">
+        <source>Keep log of situation changes</source>
+        <translation>记录状态更改日志</translation>
+    </message>
     <message id="open_log">
         <source>Open</source>
         <translation>打开</translation>

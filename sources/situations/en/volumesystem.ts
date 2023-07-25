@@ -7,5 +7,9 @@
         <source>System Volume</source>
         <translation>System Volume</translation>
     </message>
+    <message id="volumesystem_description">
+        <source>System volume setting</source>
+        <translation>System volume setting</translation>
+    </message>
 </context>
 </TS>

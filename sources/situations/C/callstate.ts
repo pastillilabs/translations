@@ -7,6 +7,10 @@
         <source>Call State</source>
         <translation type="unfinished">Call State</translation>
     </message>
+    <message id="callstate_description">
+        <source>Current call state</source>
+        <translation type="unfinished">Current call state</translation>
+    </message>
     <message id="callstate_none">
         <source>None</source>
         <translation type="unfinished">None</translation>

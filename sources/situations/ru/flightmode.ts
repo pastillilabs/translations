@@ -7,5 +7,9 @@
         <source>Airplane Mode</source>
         <translation>Автономный режим</translation>
     </message>
+    <message id="flightmode_description">
+        <source>Airplane mode setting</source>
+        <translation>Переключатель автономного режима</translation>
+    </message>
 </context>
 </TS>

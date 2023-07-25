@@ -7,5 +7,9 @@
         <source>Ringtone</source>
         <translation>Klingelton</translation>
     </message>
+    <message id="ringtone_description">
+        <source>Ringtone setting</source>
+        <translation>Klingelton einstellen</translation>
+    </message>
 </context>
 </TS>

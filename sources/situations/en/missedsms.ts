@@ -7,5 +7,9 @@
         <source>Unread SMS Messages</source>
         <translation>Unread SMS Messages</translation>
     </message>
+    <message id="missedsms_description">
+        <source>There are unread SMS messages</source>
+        <translation>There are unread SMS messages</translation>
+    </message>
 </context>
 </TS>

@@ -7,5 +7,9 @@
         <source>NFC</source>
         <translation type="unfinished">NFC</translation>
     </message>
+    <message id="nfcstate_description">
+        <source>NFC setting</source>
+        <translation type="unfinished">NFC setting</translation>
+    </message>
 </context>
 </TS>

@@ -7,5 +7,9 @@
         <source>Media Volume</source>
         <translation>Mediaäänten Voimakkuus</translation>
     </message>
+    <message id="volumemedia_description">
+        <source>Media volume setting</source>
+        <translation>Mediaäänen voimakkuuden asetus</translation>
+    </message>
 </context>
 </TS>

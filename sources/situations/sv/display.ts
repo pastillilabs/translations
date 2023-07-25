@@ -7,5 +7,9 @@
         <source>Display</source>
         <translation>Skärm</translation>
     </message>
+    <message id="display_description">
+        <source>Display on/off state</source>
+        <translation>Skärm på/av</translation>
+    </message>
 </context>
 </TS>

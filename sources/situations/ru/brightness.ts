@@ -7,6 +7,10 @@
         <source>Display Brightness</source>
         <translation>Яркость экрана</translation>
     </message>
+    <message id="brightness_description">
+        <source>Display brightness setting</source>
+        <translation type="unfinished">Display brightness setting</translation>
+    </message>
     <message id="automatic">
         <source>Automatic</source>
         <translation>Автоматически</translation>

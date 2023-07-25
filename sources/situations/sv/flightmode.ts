@@ -7,5 +7,9 @@
         <source>Airplane Mode</source>
         <translation>Flygplansläge</translation>
     </message>
+    <message id="flightmode_description">
+        <source>Airplane mode setting</source>
+        <translation>Flygplansläge på/av</translation>
+    </message>
 </context>
 </TS>

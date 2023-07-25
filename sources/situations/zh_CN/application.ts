@@ -128,10 +128,6 @@ the app!</source>
         <source>Install</source>
         <translation>安装</translation>
     </message>
-    <message id="update">
-        <source>Update</source>
-        <translation>更新</translation>
-    </message>
     <message id="uninstall">
         <source>Remove</source>
         <translation>移除</translation>
@@ -233,21 +229,21 @@ Situations app uses the gathered location information locally and only to activa
 Situations 应用会在本地使用收集到的位置信息，并仅用于激活用户定义的情景模式。
 </translation>
     </message>
-    <message id="sonar_query">
-        <source>Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</source>
-        <translation>某些使用的功能需要安装或更新单独的名为声呐的支持组件。 &lt;br&gt;&lt;br&gt; 请在设备设置中允许安装不受信任的应用程序，然后开始安装。 &lt;br&gt;&lt;br&gt; 你可以在此找到更多信：&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</translation>
+    <message id="daemon_install">
+        <source>Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue.</source>
+        <translation type="unfinished">Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue.</translation>
     </message>
-    <message id="sonar_install">
-        <source>Install Sonar</source>
-        <translation>安装声呐</translation>
+    <message id="daemon_install_warning">
+        <source>WARNING: Background service will run with root privileges. Proceed at your own risk!</source>
+        <translation type="unfinished">WARNING: Background service will run with root privileges. Proceed at your own risk!</translation>
     </message>
-    <message id="sonar_update">
-        <source>Update Sonar</source>
-        <translation>更新声呐</translation>
+    <message id="note">
+        <source>Note!</source>
+        <translation type="unfinished">Note!</translation>
     </message>
-    <message id="sonar_uninstall">
-        <source>Uninstall Sonar</source>
-        <translation>卸载声呐</translation>
+    <message id="exit_description">
+        <source>This will exit application UI.</source>
+        <translation type="unfinished">This will exit application UI.</translation>
     </message>
     <message id="less_than">
         <source>Less than</source>
@@ -309,6 +305,14 @@ Situations 应用会在本地使用收集到的位置信息，并仅用于激活
         <source>Dark</source>
         <translation>深色</translation>
     </message>
+    <message id="background_service">
+        <source>Background service</source>
+        <translation type="unfinished">Background service</translation>
+    </message>
+    <message id="uninstall">
+        <source>Uninstall</source>
+        <translation type="unfinished">Uninstall</translation>
+    </message>
     <message id="user_action_title">
         <source>User Action Required!</source>
         <translation>要求用户操作!</translation>
@@ -348,6 +352,18 @@ Situations 应用会在本地使用收集到的位置信息，并仅用于激活
     <message id="empty">
         <source>Empty</source>
         <translation>空</translation>
+    </message>
+    <message id="plugins_name">
+        <source>Get all plugins!!</source>
+        <translation>获取所有插件!</translation>
+    </message>
+    <message id="plugins_description">
+        <source>***</source>
+        <translation>***</translation>
+    </message>
+    <message id="pro_title">
+        <source>Pro version:</source>
+        <translation type="unfinished">Pro version:</translation>
     </message>
 </context>
 </TS>

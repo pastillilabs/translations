@@ -4,8 +4,12 @@
 <context>
     <name></name>
     <message id="nfc_name">
-        <source>NFC tag</source>
+        <source>NFC Tag</source>
         <translation>NFC tunniste</translation>
+    </message>
+    <message id="nfc_description">
+        <source>Use NFC tags to toggle situations</source>
+        <translation>Vaihda tilanteita NFC-tunnisteilla</translation>
     </message>
     <message id="nfc_virtual">
         <source>Virtual tag</source>

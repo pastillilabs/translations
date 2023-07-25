@@ -7,6 +7,10 @@
         <source>Contact Volume</source>
         <translation>Kontaktin Äänenvoimakkuus</translation>
     </message>
+    <message id="volumecontact_description">
+        <source>Contact specific volume for incoming calls and SMS</source>
+        <translation>Kontaktikohtainen SMS ja soittoäänen voimakkuuden asetus</translation>
+    </message>
     <message id="volumecontact_select_contact">
         <source>Select contact</source>
         <translation>Valitse kontakti</translation>

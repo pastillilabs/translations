@@ -7,5 +7,9 @@
         <source>Alarm Volume</source>
         <translation type="unfinished">Alarm Volume</translation>
     </message>
+    <message id="volumealarm_description">
+        <source>Alarm volume setting</source>
+        <translation type="unfinished">Alarm volume setting</translation>
+    </message>
 </context>
 </TS>

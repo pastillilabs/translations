@@ -7,5 +7,9 @@
         <source>Airplane Mode</source>
         <translation>Modo avião</translation>
     </message>
+    <message id="flightmode_description">
+        <source>Airplane mode setting</source>
+        <translation>Alterar para modo avião</translation>
+    </message>
 </context>
 </TS>

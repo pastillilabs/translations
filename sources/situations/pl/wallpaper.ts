@@ -7,5 +7,9 @@
         <source>Wallpaper</source>
         <translation>Tapeta</translation>
     </message>
+    <message id="wallpaper_description">
+        <source>System wallpaper setting</source>
+        <translation>Ustawienia tapety</translation>
+    </message>
 </context>
 </TS>

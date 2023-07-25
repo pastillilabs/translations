@@ -23,6 +23,10 @@
         <source>Location</source>
         <translation>位置</translation>
     </message>
+    <message id="location_description">
+        <source>Location condition using the best available positioning method</source>
+        <translation>位置条件使用最佳可用定位方法</translation>
+    </message>
     <message id="location_disabled">
         <source>Please enable Location from system settings</source>
         <translation>请从系统设置开启位置服务</translation>

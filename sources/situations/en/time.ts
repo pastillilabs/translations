@@ -7,6 +7,10 @@
         <source>Time</source>
         <translation>Time</translation>
     </message>
+    <message id="time_description">
+        <source>Time</source>
+        <translation>Current time and day</translation>
+    </message>
     <message id="time_mo">
         <source>Mo</source>
         <translation>Mo</translation>

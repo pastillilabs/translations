@@ -7,6 +7,10 @@
         <source>Battery</source>
         <translation>电池</translation>
     </message>
+    <message id="battery_description">
+        <source>Battery level</source>
+        <translation type="unfinished">Battery level</translation>
+    </message>
     <message id="battery_remaining">
         <source>%1% remaining</source>
         <translation> 剩余电量 %1% </translation>

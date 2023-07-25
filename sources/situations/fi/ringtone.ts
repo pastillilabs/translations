@@ -7,5 +7,9 @@
         <source>Ringtone</source>
         <translation>Soittoääni</translation>
     </message>
+    <message id="ringtone_description">
+        <source>Ringtone setting</source>
+        <translation>Soittoäänen valinta</translation>
+    </message>
 </context>
 </TS>

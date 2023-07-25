@@ -7,5 +7,9 @@
         <source>Ringtone Volume</source>
         <translation>Sonnerie</translation>
     </message>
+    <message id="volumeringtone_description">
+        <source>Ringtone volume setting</source>
+        <translation>Ajustement du volume de sonnerie</translation>
+    </message>
 </context>
 </TS>

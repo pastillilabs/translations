@@ -129,10 +129,6 @@ the app!</translation>
         <source>Install</source>
         <translation>Install</translation>
     </message>
-    <message id="update">
-        <source>Update</source>
-        <translation>Update</translation>
-    </message>
     <message id="uninstall">
         <source>Remove</source>
         <translation>Remove</translation>
@@ -233,21 +229,21 @@ Situations app uses the gathered location information locally and only to activa
 
 Situations app uses the gathered location information locally and only to activate user defined situations.</translation>
     </message>
-    <message id="sonar_query">
-        <source>Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</source>
-        <translation>Some of the functionality in use requires installation or update of a separate support component called Sonar.&lt;br&gt;&lt;br&gt;Please allow installation of unstrusted software in device settings and proceed to installation.&lt;br&gt;&lt;br&gt;More info at:&lt;br&gt;&lt;b&gt;&lt;a href=&quot;https://pastillilabs.com/sonar&quot;&gt;situationsapp.com/sonar&lt;/a&gt;&lt;/b&gt;</translation>
+    <message id="daemon_install">
+        <source>Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue.</source>
+        <translation>Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue.</translation>
     </message>
-    <message id="sonar_install">
-        <source>Install Sonar</source>
-        <translation>Install Sonar</translation>
+    <message id="daemon_install_warning">
+        <source>WARNING: Background service will run with root privileges. Proceed at your own risk!</source>
+        <translation>WARNING: Background service will run with root privileges. Proceed at your own risk!</translation>
     </message>
-    <message id="sonar_update">
-        <source>Update Sonar</source>
-        <translation>Update Sonar</translation>
+    <message id="note">
+        <source>Note!</source>
+        <translation>Note!</translation>
     </message>
-    <message id="sonar_uninstall">
-        <source>Uninstall Sonar</source>
-        <translation>Uninstall Sonar</translation>
+    <message id="exit_description">
+        <source>This will exit application UI.</source>
+        <translation>This will exit application UI.</translation>
     </message>
     <message id="less_than">
         <source>Less than</source>
@@ -309,6 +305,14 @@ Situations app uses the gathered location information locally and only to activa
         <source>Dark</source>
         <translation>Dark</translation>
     </message>
+    <message id="background_service">
+        <source>Background service</source>
+        <translation>Background service</translation>
+    </message>
+    <message id="uninstall">
+        <source>Uninstall</source>
+        <translation>Uninstall</translation>
+    </message>
     <message id="user_action_title">
         <source>User Action Required!</source>
         <translation>User Action Required!</translation>
@@ -348,6 +352,18 @@ Situations app uses the gathered location information locally and only to activa
     <message id="empty">
         <source>Empty</source>
         <translation>Empty</translation>
+    </message>
+    <message id="plugins_name">
+        <source>Get all plugins!!</source>
+        <translation>Get all plugins!!</translation>
+    </message>
+    <message id="plugins_description">
+        <source>***</source>
+        <translation>***</translation>
+    </message>
+    <message id="pro_title">
+        <source>Pro version:</source>
+        <translation>Pro version:</translation>
     </message>
 </context>
 </TS>

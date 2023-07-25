@@ -7,5 +7,9 @@
         <source>GPS</source>
         <translation type="unfinished">GPS</translation>
     </message>
+    <message id="gps_description">
+        <source>GPS setting</source>
+        <translation type="unfinished">GPS setting</translation>
+    </message>
 </context>
 </TS>

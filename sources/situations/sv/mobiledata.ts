@@ -7,5 +7,9 @@
         <source>Mobile Data</source>
         <translation>Mobildata</translation>
     </message>
+    <message id="mobiledata_description">
+        <source>Mobile data setting</source>
+        <translation>Mobildata på/av</translation>
+    </message>
 </context>
 </TS>

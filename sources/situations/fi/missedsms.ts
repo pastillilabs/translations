@@ -7,5 +7,9 @@
         <source>Unread SMS Messages</source>
         <translation>Lukemattomat SMS-viestit</translation>
     </message>
+    <message id="missedsms_description">
+        <source>There are unread SMS messages</source>
+        <translation>Puhelimessa on lukemattomia SMS-viestejä</translation>
+    </message>
 </context>
 </TS>

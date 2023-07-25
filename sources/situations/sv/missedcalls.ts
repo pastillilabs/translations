@@ -7,5 +7,9 @@
         <source>Missed Calls</source>
         <translation>Missade samtal</translation>
     </message>
+    <message id="missedcalls_description">
+        <source>There are missed calls in the call log</source>
+        <translation>Det finns missade samtal i samtalsloggen</translation>
+    </message>
 </context>
 </TS>

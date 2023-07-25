@@ -7,5 +7,9 @@
         <source>Do Not Disturb</source>
         <translation>Ei Saa Häiritä</translation>
     </message>
+    <message id="donotdisturb_description">
+        <source>Do Not Disturb setting</source>
+        <translation>Ei Saa Häiritä -asetus</translation>
+    </message>
 </context>
 </TS>

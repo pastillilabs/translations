@@ -7,6 +7,10 @@
         <source>Notification</source>
         <translation>Avisering</translation>
     </message>
+    <message id="notification_description">
+        <source>Monitor notifications with keyword and pattern matching</source>
+        <translation>Övervaka aviseringar med nyckelord och mönstermatchning</translation>
+    </message>
     <message id="notification_package">
         <source>From package</source>
         <translation>Från paket</translation>

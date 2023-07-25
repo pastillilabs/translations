@@ -7,6 +7,10 @@
         <source>Call State</source>
         <translation>Puhelun Tila</translation>
     </message>
+    <message id="callstate_description">
+        <source>Current call state</source>
+        <translation>Tunnistaa puhelun tilan</translation>
+    </message>
     <message id="callstate_none">
         <source>None</source>
         <translation>Ei puhelua</translation>

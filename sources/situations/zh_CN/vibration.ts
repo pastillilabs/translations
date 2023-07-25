@@ -7,6 +7,10 @@
         <source>Vibration</source>
         <translation>震动</translation>
     </message>
+    <message id="vibration_description">
+        <source>Vibration setting</source>
+        <translation>震动设置</translation>
+    </message>
     <message id="vibration_on">
         <source>Always</source>
         <translation>总是</translation>

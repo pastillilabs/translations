@@ -7,6 +7,10 @@
         <source>Accessory</source>
         <translation>Lisälaite</translation>
     </message>
+    <message id="accessory_description">
+        <source>Connected accessories</source>
+        <translation>Yhdistetyt lisälaitteet</translation>
+    </message>
     <message id="accessory_audio">
         <source>Audio</source>
         <translation>Audio</translation>

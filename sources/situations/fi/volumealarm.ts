@@ -7,5 +7,9 @@
         <source>Alarm Volume</source>
         <translation>Hälytysäänen Voimakkuus</translation>
     </message>
+    <message id="volumealarm_description">
+        <source>Alarm volume setting</source>
+        <translation>Hälytysäänen voimakkuuden säätö</translation>
+    </message>
 </context>
 </TS>

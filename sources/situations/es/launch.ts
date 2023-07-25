@@ -7,6 +7,10 @@
         <source>Launch</source>
         <translation>Abrir aplicación</translation>
     </message>
+    <message id="launch_description">
+        <source>Launch</source>
+        <translation type="unfinished">Open selected application</translation>
+    </message>
     <message id="launch_select_application">
         <source>Select application</source>
         <translation>Seleccionar aplicación</translation>

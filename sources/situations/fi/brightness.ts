@@ -7,6 +7,10 @@
         <source>Display Brightness</source>
         <translation>Näytön Kirkkaus</translation>
     </message>
+    <message id="brightness_description">
+        <source>Display brightness setting</source>
+        <translation>Näytön kirkkauden asetus</translation>
+    </message>
     <message id="automatic">
         <source>Automatic</source>
         <translation>Automaattinen</translation>

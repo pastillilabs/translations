@@ -7,5 +7,9 @@
         <source>Ringtone Volume</source>
         <translation>Volume do Toque</translation>
     </message>
+    <message id="volumeringtone_description">
+        <source>Ringtone volume setting</source>
+        <translation>Ajusta o volume do toque de chamadas</translation>
+    </message>
 </context>
 </TS>

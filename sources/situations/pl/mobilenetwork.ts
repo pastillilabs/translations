@@ -7,6 +7,10 @@
         <source>Mobile Network</source>
         <translation>Sieć komórkowa</translation>
     </message>
+    <message id="mobilenetwork_description">
+        <source>Mobile network setting</source>
+        <translation>Przełącznik sieci komórkowej</translation>
+    </message>
     <message id="mobilenetwork_dual">
         <source>Dual</source>
         <translation>Dual</translation>

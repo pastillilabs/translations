@@ -7,6 +7,10 @@
         <source>Screen Timeout</source>
         <translation>屏幕超时</translation>
     </message>
+    <message id="screentimeout_description">
+        <source>Screen timeout setting</source>
+        <translation>熄屏时间设置</translation>
+    </message>
     <message id="screentimeout_seconds" numerus="yes">
         <source>%n second(s)</source>
         <translation>

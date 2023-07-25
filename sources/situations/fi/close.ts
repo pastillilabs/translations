@@ -7,6 +7,10 @@
         <source>Close</source>
         <translation>Sulje</translation>
     </message>
+    <message id="close_description">
+        <source>Close</source>
+        <translation>Sulje avoin sovellus mikäli mahdollista</translation>
+    </message>
     <message id="close_all">
         <source>All open applications</source>
         <translation>Kaikki avoimet sovellukset</translation>

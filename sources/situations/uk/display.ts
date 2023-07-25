@@ -7,5 +7,9 @@
         <source>Display</source>
         <translation>Дисплей</translation>
     </message>
+    <message id="display_description">
+        <source>Display on/off state</source>
+        <translation>Стан дисплею(ввімкнуто/вимкнено)</translation>
+    </message>
 </context>
 </TS>

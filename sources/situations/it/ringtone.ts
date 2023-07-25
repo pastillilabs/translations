@@ -7,5 +7,9 @@
         <source>Ringtone</source>
         <translation>Suoneria</translation>
     </message>
+    <message id="ringtone_description">
+        <source>Ringtone setting</source>
+        <translation>Impostazioni suoneria</translation>
+    </message>
 </context>
 </TS>

@@ -7,5 +7,9 @@
         <source>Open URL</source>
         <translation>Open URL</translation>
     </message>
+    <message id="url_description">
+        <source>Open URL</source>
+        <translation>Open URL in a browser</translation>
+    </message>
 </context>
 </TS>

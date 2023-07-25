@@ -7,6 +7,10 @@
         <source>Activity</source>
         <translation>Aktiviteetti</translation>
     </message>
+    <message id="activity_description">
+        <source>Change situation based on current activity (like walking, cycling or driving).</source>
+        <translation>Tunnista aktiviteeti (kuten kävely, pyöräily tai autoilu)</translation>
+    </message>
     <message id="activity_invehicle">
         <source>In a vehicle</source>
         <translation>Ajoneuvossa</translation>

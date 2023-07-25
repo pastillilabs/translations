@@ -7,5 +7,9 @@
         <source>Ringtone Volume</source>
         <translation>Soittoäänen Voimakkuus</translation>
     </message>
+    <message id="volumeringtone_description">
+        <source>Ringtone volume setting</source>
+        <translation>Soittoäänen voimakkuuden asetus</translation>
+    </message>
 </context>
 </TS>

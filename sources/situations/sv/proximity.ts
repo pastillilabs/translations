@@ -7,5 +7,9 @@
         <source>Proximity Sensor</source>
         <translation>Närhetssensor</translation>
     </message>
+    <message id="proximity_description">
+        <source>Detect objects being close to the device</source>
+        <translation>Identifiera objekt som är nära enheten</translation>
+    </message>
 </context>
 </TS>
