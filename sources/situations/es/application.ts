@@ -211,7 +211,7 @@ califique la app!</translation>
     </message>
     <message id="permission_query_exact_alarms">
         <source>Situations requires ability to set exact alarms to function correctly.</source>
-        <translation type="unfinished">Situations requires ability to set exact alarms to function correctly.</translation>
+        <translation>Situations requieren la capacidad de establecer alarmas exactas para funcionar correctamente.</translation>
     </message>
     <message id="permission_query_can_draw_overlay">
         <source>Please allow Situations to display over other apps.</source>
@@ -231,19 +231,19 @@ La aplicación Situations utiliza la información de ubicación recopilada local
     </message>
     <message id="daemon_install">
         <source>Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue.</source>
-        <translation type="unfinished">Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue.</translation>
+        <translation>El iniciador de servicios en segundo plano debe estar instalado. Primero permita la instalación de software que no sea de confianza en la configuración del dispositivo y luego continúe.</translation>
     </message>
     <message id="daemon_install_warning">
         <source>WARNING: Background service will run with root privileges. Proceed at your own risk!</source>
-        <translation type="unfinished">WARNING: Background service will run with root privileges. Proceed at your own risk!</translation>
+        <translation>ADVERTENCIA: el servicio en segundo plano se ejecutará con privilegios de raíz. ¡Proceda bajo su propio riesgo!</translation>
     </message>
     <message id="note">
         <source>Note!</source>
-        <translation type="unfinished">Note!</translation>
+        <translation>¡Nota!</translation>
     </message>
     <message id="exit_description">
         <source>This will exit application UI.</source>
-        <translation type="unfinished">This will exit application UI.</translation>
+        <translation>Esto saldrá de la interfaz de usuario de la aplicación.</translation>
     </message>
     <message id="less_than">
         <source>Less than</source>
@@ -307,11 +307,11 @@ La aplicación Situations utiliza la información de ubicación recopilada local
     </message>
     <message id="background_service">
         <source>Background service</source>
-        <translation type="unfinished">Background service</translation>
+        <translation>Servicio de fonto</translation>
     </message>
     <message id="update">
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Actualizar</translation>
     </message>
     <message id="uninstall">
         <source>Uninstall</source>
@@ -367,7 +367,7 @@ La aplicación Situations utiliza la información de ubicación recopilada local
     </message>
     <message id="pro_title">
         <source>Pro version:</source>
-        <translation type="unfinished">Pro version:</translation>
+        <translation>Versión Pro:</translation>
     </message>
 </context>
 </TS>

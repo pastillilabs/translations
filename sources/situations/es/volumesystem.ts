@@ -5,11 +5,11 @@
     <name></name>
     <message id="volumesystem_name">
         <source>System Volume</source>
-        <translation type="unfinished">System Volume</translation>
+        <translation>Volumen del sistema</translation>
     </message>
     <message id="volumesystem_description">
         <source>System volume setting</source>
-        <translation type="unfinished">System volume setting</translation>
+        <translation>Configuración del volumen del sistema</translation>
     </message>
 </context>
 </TS>

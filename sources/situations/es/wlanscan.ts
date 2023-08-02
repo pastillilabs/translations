@@ -5,19 +5,19 @@
     <name></name>
     <message id="wlanscan_name">
         <source>WiFi Networks</source>
-        <translation>Redes WiFi</translation>
+        <translation>Redes Wi-Fi</translation>
     </message>
     <message id="wlanscan_description">
         <source>Simple search for available WiFi networks</source>
-        <translation type="unfinished">Simple search for available WiFi networks</translation>
+        <translation>Búsqueda simple de redes Wi-Fi disponibles</translation>
     </message>
     <message id="wlanscanpro_name">
         <source>WiFi Networks Pro</source>
-        <translation>Redes WiFi Pro</translation>
+        <translation>Redes Wi-Fi Pro</translation>
     </message>
     <message id="wlanscanpro_description">
         <source>Advanced search for available WiFi networks with address based search and scan interval selection</source>
-        <translation type="unfinished">Advanced search for available WiFi networks with address based search and scan interval selection</translation>
+        <translation>Búsqueda avanzada de redes Wi-Fi disponibles con búsqueda basada en direcciones y selección de intervalos de escaneo</translation>
     </message>
     <message id="wlanscan_connection_name">
         <source>Network name</source>
@@ -37,7 +37,7 @@
     </message>
     <message id="wlanscan_turn_on_wlan">
         <source>Turn on WiFi</source>
-        <translation>Activar WiFi</translation>
+        <translation>Activar Wi-Fi</translation>
     </message>
     <message id="wlanscan_interval">
         <source>Scan interval</source>
@@ -54,7 +54,7 @@
         <source>Scan always
 (also when WiFi is off)</source>
         <translation>Buscar siempre
-(incluso con WiFi desactivado)</translation>
+(incluso con Wi-Fi desactivado)</translation>
     </message>
     <message id="wlanscan_method">
         <source>Method</source>

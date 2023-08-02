@@ -9,7 +9,7 @@
     </message>
     <message id="missedcalls_description">
         <source>There are missed calls in the call log</source>
-        <translation type="unfinished">There are missed calls in the call log</translation>
+        <translation>Hay llamadas perdidas en el registro de llamadas</translation>
     </message>
 </context>
 </TS>

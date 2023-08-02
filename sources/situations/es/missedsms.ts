@@ -9,7 +9,7 @@
     </message>
     <message id="missedsms_description">
         <source>There are unread SMS messages</source>
-        <translation type="unfinished">There are unread SMS messages</translation>
+        <translation>Hay mensajes SMS sin leer</translation>
     </message>
 </context>
 </TS>

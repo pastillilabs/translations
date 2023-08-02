@@ -5,11 +5,11 @@
     <name></name>
     <message id="wlan_name">
         <source>WiFi State</source>
-        <translation>Estado del Wifi</translation>
+        <translation>Estado del W¡-Fi</translation>
     </message>
     <message id="wlan_description">
         <source>WiFi State</source>
-        <translation type="unfinished">WiFi State setting</translation>
+        <translation>Configuración de estado de Wi-Fi</translation>
     </message>
 </context>
 </TS>

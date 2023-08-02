@@ -2,57 +2,57 @@
 <!DOCTYPE TS>
 <TS version="2.0" language="es">
 <context>
-<name></name>
+    <name></name>
     <message id="daylight_name">
         <source>Daylight</source>
-        <translation type="unfinished">Daylight</translation>
+        <translation>Luz diurna</translation>
     </message>
     <message id="daylight_description">
         <source>Current time is between sunrise and sunset</source>
-        <translation type="unfinished">Current time is between sunrise and sunset</translation>
+        <translation>La hora actual es entre el amanecer y el atardecer</translation>
     </message>
     <message id="daylight_latitude">
         <source>Latitude: %1</source>
-        <translation type="unfinished">Latitude: %1</translation>
+        <translation>Latitud: %1</translation>
     </message>
     <message id="daylight_longitude">
         <source>Longitude: %1</source>
-        <translation type="unfinished">Longitude: %1</translation>
+        <translation>Longitud: %1</translation>
     </message>
     <message id="daylight_no_sunrise">
         <source>Sun does not rise</source>
-        <translation type="unfinished">Sun does not rise</translation>
+        <translation>El Sol no sale</translation>
     </message>
     <message id="daylight_no_sunset">
         <source>Sun does not set</source>
-        <translation type="unfinished">Sun does not set</translation>
+        <translation>El Sol no se pone</translation>
     </message>
     <message id="daylight_location_interval">
         <source>Location update interval</source>
-        <translation type="unfinished">Location update interval</translation>
+        <translation>Intervalo de actualización de ubicación</translation>
     </message>
     <message id="daylight_interval_none">
         <source>None</source>
-        <translation type="unfinished">None</translation>
+        <translation>Ninguno</translation>
     </message>
     <message id="daylight_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
-        <translation type="unfinished">
-            <numerusform>%n minute</numerusform>
-            <numerusform>%n minutes</numerusform>
+        <translation>
+            <numerusform>%n minuto</numerusform>
+            <numerusform>%n minutos</numerusform>
         </translation>
     </message>
     <message id="daylight_current_location">
         <source>Current location</source>
-        <translation type="unfinished">Current location</translation>
+        <translation>Ubicación actual</translation>
     </message>
     <message id="daylight_location">
         <source>Location</source>
-        <translation type="unfinished">Location</translation>
+        <translation>Ubicación</translation>
     </message>
     <message id="daylight_get_current_location">
         <source>Get current</source>
-        <translation type="unfinished">Get current</translation>
+        <translation>Obtener la actual</translation>
     </message>
 </context>
 </TS>

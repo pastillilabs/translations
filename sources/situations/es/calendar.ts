@@ -9,7 +9,7 @@
     </message>
     <message id="calendar_description">
         <source>Simple calendar event detection</source>
-        <translation type="unfinished">Simple calendar event detection</translation>
+        <translation>Detección de eventos de calendario simple</translation>
     </message>
     <message id="calendarpro_name">
         <source>Calendar Pro</source>
@@ -17,7 +17,7 @@
     </message>
     <message id="calendarpro_description">
         <source>Advanced calendar event detection with keyword search and calendar selection</source>
-        <translation type="unfinished">Advanced calendar event detection with keyword search and calendar selection</translation>
+        <translation>Detección avanzada de eventos de calendario con búsqueda de palabras clave y selección de calendario</translation>
     </message>
     <message id="events">
         <source>Events</source>

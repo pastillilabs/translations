@@ -9,7 +9,7 @@
     </message>
     <message id="bluetooth_description">
         <source>Bluetooth state setting</source>
-        <translation type="unfinished">Bluetooth State setting</translation>
+        <translation>Configuración de estado de Bluetooth</translation>
     </message>
 </context>
 </TS>

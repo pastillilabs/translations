@@ -9,7 +9,7 @@
     </message>
     <message id="cell_description">
         <source>Network Cells</source>
-        <translation type="unfinished">Simple mobile network cell detection</translation>
+        <translation>Detección simple de red celular</translation>
     </message>
     <message id="cell_area_name">
         <source>Area name</source>

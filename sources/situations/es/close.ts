@@ -9,7 +9,7 @@
     </message>
     <message id="close_description">
         <source>Close</source>
-        <translation type="unfinished">Close open application if possible</translation>
+        <translation>Cerrar la aplicación abierta si es posible</translation>
     </message>
     <message id="close_all">
         <source>All open applications</source>

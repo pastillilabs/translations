@@ -9,7 +9,7 @@
     </message>
     <message id="launch_description">
         <source>Launch</source>
-        <translation type="unfinished">Open selected application</translation>
+        <translation>Abrir aplicación seleccionada</translation>
     </message>
     <message id="launch_select_application">
         <source>Select application</source>

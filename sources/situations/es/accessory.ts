@@ -9,7 +9,7 @@
     </message>
     <message id="accessory_description">
         <source>Connected accessories</source>
-        <translation type="unfinished">Connected accessories</translation>
+        <translation>Accesorios conectados</translation>
     </message>
     <message id="accessory_audio">
         <source>Audio</source>

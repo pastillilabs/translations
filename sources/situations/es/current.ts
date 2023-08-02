@@ -9,11 +9,11 @@
     </message>
     <message id="current_description">
         <source>Situation</source>
-        <translation type="unfinished">Currently active situation</translation>
+        <translation>Situación activa actualmente</translation>
     </message>
     <message id="current_invalid_situation">
         <source>Invalid situation</source>
-        <translation type="unfinished">Invalid situation</translation>
+        <translation>Situación inválida</translation>
     </message>
 </context>
 </TS>

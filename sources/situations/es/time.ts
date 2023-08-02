@@ -9,7 +9,7 @@
     </message>
     <message id="time_description">
         <source>Time</source>
-        <translation type="unfinished">Current time and day</translation>
+        <translation>Hora y día actual</translation>
     </message>
     <message id="time_mo">
         <source>Mo</source>

@@ -9,7 +9,7 @@
     </message>
     <message id="url_description">
         <source>Open URL</source>
-        <translation type="unfinished">Open URL in a browser</translation>
+        <translation>Abrir URL en un navegador</translation>
     </message>
 </context>
 </TS>

@@ -33,18 +33,18 @@
     </message>
     <message id="location_interval">
         <source>Update interval</source>
-        <translation type="unfinished">Update interval</translation>
+        <translation>Intervalo de actualización</translation>
     </message>
     <message id="location_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
-        <translation type="unfinished">
-            <numerusform>%n minute</numerusform>
-            <numerusform>%n minutes</numerusform>
+        <translation>
+            <numerusform>%n minuto</numerusform>
+            <numerusform>%n minutos</numerusform>
         </translation>
     </message>
     <message id="location_get_current">
         <source>Get current location</source>
-        <translation type="unfinished">Get current location</translation>
+        <translation>Obtener ubicación actual</translation>
     </message>
 </context>
 </TS>

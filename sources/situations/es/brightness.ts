@@ -5,11 +5,11 @@
     <name></name>
     <message id="brightness_name">
         <source>Display Brightness</source>
-        <translation>Iluminación de la pantalla</translation>
+        <translation>Brillo de la pantalla</translation>
     </message>
     <message id="brightness_description">
         <source>Display brightness setting</source>
-        <translation type="unfinished">Display brightness setting</translation>
+        <translation>Configuración del brillo de la pantalla</translation>
     </message>
     <message id="automatic">
         <source>Automatic</source>

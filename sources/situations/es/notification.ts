@@ -9,7 +9,7 @@
     </message>
     <message id="notification_description">
         <source>Monitor notifications with keyword and pattern matching</source>
-        <translation type="unfinished">Monitor notifications with keyword and pattern matching</translation>
+        <translation>Supervise las notificaciones con coincidencia de palabras clave y patrones</translation>
     </message>
     <message id="notification_package">
         <source>From package</source>
