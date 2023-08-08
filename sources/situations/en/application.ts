@@ -230,8 +230,8 @@ Situations app uses the gathered location information locally and only to activa
 Situations app uses the gathered location information locally and only to activate user defined situations.</translation>
     </message>
     <message id="daemon_install">
-        <source>Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue.</source>
-        <translation>Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue.</translation>
+        <source>Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue. Restart the application or device if needed.</source>
+        <translation>Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue. Restart the application or device if needed.</translation>
     </message>
     <message id="daemon_install_warning">
         <source>WARNING: Background service will run with root privileges. Proceed at your own risk!</source>
