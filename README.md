@@ -1,1 +1,1 @@
-See https://pastillilabs.com/resources#translations for more information!
+SITUATIONS APP TRANSLATIONS HAVE BEEN MOVED TO https://github.com/pastillilabs/situations-translations
